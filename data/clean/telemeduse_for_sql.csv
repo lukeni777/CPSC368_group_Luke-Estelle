@@ -1,0 +1,3293 @@
+row_id,Year-Quarter,Group,State,Subgroup,Value
+0,2021-2,National Estimate,United States,United States,25.7
+1,2021-2,By Age,United States,18 - 29 years,21.6
+2,2021-2,By Age,United States,30 - 39 years,23.1
+3,2021-2,By Age,United States,40 - 49 years,25.7
+4,2021-2,By Age,United States,50 - 59 years,26.3
+5,2021-2,By Age,United States,60 - 69 years,27.6
+6,2021-2,By Age,United States,70 - 79 years,28.7
+7,2021-2,By Age,United States,80 years and above,32.1
+8,2021-2,By Sex,United States,Male,23.2
+9,2021-2,By Sex,United States,Female,27.9
+10,2021-2,By Race/Hispanic ethnicity,United States,Hispanic or Latino,27.4
+11,2021-2,By Race/Hispanic ethnicity,United States,"Non-Hispanic White, single race",24.3
+12,2021-2,By Race/Hispanic ethnicity,United States,"Non-Hispanic Black, single race",30.9
+13,2021-2,By Race/Hispanic ethnicity,United States,"Non-Hispanic Asian, single race",26.2
+14,2021-2,By Race/Hispanic ethnicity,United States,"Non-Hispanic, other races and multiple races",27.2
+15,2021-2,By Education,United States,Less than a high school diploma,27.4
+16,2021-2,By Education,United States,High school diploma or GED,23.1
+17,2021-2,By Education,United States,Some college/Associate's degree,27.2
+18,2021-2,By Education,United States,Bachelor's degree or higher,26.2
+19,2021-2,By Disability status,United States,With disability,40.5
+20,2021-2,By Disability status,United States,Without disability,23.2
+21,2021-2,By State,Alabama,Alabama,22.3
+22,2021-2,By State,Alaska,Alaska,24.8
+23,2021-2,By State,Arizona,Arizona,29.0
+24,2021-2,By State,Arkansas,Arkansas,20.3
+25,2021-2,By State,California,California,31.7
+26,2021-2,By State,Colorado,Colorado,22.7
+27,2021-2,By State,Connecticut,Connecticut,28.3
+28,2021-2,By State,Delaware,Delaware,33.1
+29,2021-2,By State,District of Columbia,District of Columbia,37.0
+30,2021-2,By State,Florida,Florida,28.8
+31,2021-2,By State,Georgia,Georgia,24.8
+32,2021-2,By State,Hawaii,Hawaii,32.5
+33,2021-2,By State,Idaho,Idaho,18.8
+34,2021-2,By State,Illinois,Illinois,24.8
+35,2021-2,By State,Indiana,Indiana,21.4
+36,2021-2,By State,Iowa,Iowa,17.2
+37,2021-2,By State,Kansas,Kansas,19.0
+38,2021-2,By State,Kentucky,Kentucky,25.0
+39,2021-2,By State,Louisiana,Louisiana,21.6
+40,2021-2,By State,Maine,Maine,22.8
+41,2021-2,By State,Maryland,Maryland,31.5
+42,2021-2,By State,Massachusetts,Massachusetts,31.0
+43,2021-2,By State,Michigan,Michigan,27.2
+44,2021-2,By State,Minnesota,Minnesota,28.2
+45,2021-2,By State,Mississippi,Mississippi,17.6
+46,2021-2,By State,Missouri,Missouri,21.4
+47,2021-2,By State,Montana,Montana,18.9
+48,2021-2,By State,Nebraska,Nebraska,13.4
+49,2021-2,By State,Nevada,Nevada,26.8
+50,2021-2,By State,New Hampshire,New Hampshire,30.0
+51,2021-2,By State,New Jersey,New Jersey,28.3
+52,2021-2,By State,New Mexico,New Mexico,26.1
+53,2021-2,By State,New York,New York,25.9
+54,2021-2,By State,North Carolina,North Carolina,24.7
+55,2021-2,By State,North Dakota,North Dakota,13.4
+56,2021-2,By State,Ohio,Ohio,21.1
+57,2021-2,By State,Oklahoma,Oklahoma,21.7
+58,2021-2,By State,Oregon,Oregon,27.1
+59,2021-2,By State,Pennsylvania,Pennsylvania,26.0
+60,2021-2,By State,Rhode Island,Rhode Island,28.9
+61,2021-2,By State,South Carolina,South Carolina,22.1
+62,2021-2,By State,South Dakota,South Dakota,18.4
+63,2021-2,By State,Tennessee,Tennessee,18.4
+64,2021-2,By State,Texas,Texas,25.4
+65,2021-2,By State,Utah,Utah,22.1
+66,2021-2,By State,Vermont,Vermont,23.1
+67,2021-2,By State,Virginia,Virginia,25.8
+68,2021-2,By State,Washington,Washington,25.6
+69,2021-2,By State,West Virginia,West Virginia,18.4
+70,2021-2,By State,Wisconsin,Wisconsin,18.8
+71,2021-2,By State,Wyoming,Wyoming,14.1
+72,2021-2,National Estimate,United States,United States,24.0
+73,2021-2,By Education of adult respondent,United States,High school diploma or GED or lower,24.6
+74,2021-2,By Education of adult respondent,United States,Some college/Associate's degree,23.1
+75,2021-2,By Education of adult respondent,United States,Bachelor's degree or higher,24.2
+76,2021-2,By Race/Hispanic ethnicity of adult respondent,United States,Hispanic or Latino,25.0
+77,2021-2,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic White, single race",22.0
+78,2021-2,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic Black, single race",28.1
+79,2021-2,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic Asian, single race",34.2
+80,2021-2,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic, other races and multiple races",21.1
+81,2021-2,By Current US Armed Forces or National Guard service of adult respondent or spouse,United States,Yes,25.2
+82,2021-2,By Current US Armed Forces or National Guard service of adult respondent or spouse,United States,No,24.0
+83,2021-2,By Health insurance of adult respondent,United States,Private only,22.8
+84,2021-2,By Health insurance of adult respondent,United States,Any public,29.4
+85,2021-2,By Health insurance of adult respondent,United States,No insurance,16.2
+86,2021-2,By Total household income,United States,"Less than $25,000",23.5
+87,2021-2,By Total household income,United States,"$25,000 - $34,999",25.0
+88,2021-2,By Total household income,United States,"$35,000 - $49,999",26.3
+89,2021-2,By Total household income,United States,"$50,000 - $74,999",25.1
+90,2021-2,By Total household income,United States,"$75,000 - $99,999",21.9
+91,2021-2,By Total household income,United States,"$100,000 - $149,999",23.0
+92,2021-2,By Total household income,United States,"$150,000 - $199,999",20.3
+93,2021-2,By Total household income,United States,"$200,000 and above",28.6
+94,2021-2,By Total household income,United States,Did not report,22.6
+95,2021-2,By State,Alabama,Alabama,15.4
+96,2021-2,By State,Alaska,Alaska,19.3
+97,2021-2,By State,Arizona,Arizona,21.7
+98,2021-2,By State,Arkansas,Arkansas,10.0
+99,2021-2,By State,California,California,25.6
+100,2021-2,By State,Colorado,Colorado,18.7
+101,2021-2,By State,Connecticut,Connecticut,28.0
+102,2021-2,By State,Delaware,Delaware,22.4
+103,2021-2,By State,District of Columbia,District of Columbia,30.2
+104,2021-2,By State,Florida,Florida,25.0
+105,2021-2,By State,Georgia,Georgia,21.0
+106,2021-2,By State,Hawaii,Hawaii,27.8
+107,2021-2,By State,Idaho,Idaho,23.6
+108,2021-2,By State,Illinois,Illinois,20.4
+109,2021-2,By State,Indiana,Indiana,26.4
+110,2021-2,By State,Iowa,Iowa,19.8
+111,2021-2,By State,Kansas,Kansas,28.6
+112,2021-2,By State,Kentucky,Kentucky,19.2
+114,2021-2,By State,Maine,Maine,24.0
+115,2021-2,By State,Maryland,Maryland,32.4
+116,2021-2,By State,Massachusetts,Massachusetts,27.1
+117,2021-2,By State,Michigan,Michigan,26.8
+118,2021-2,By State,Minnesota,Minnesota,29.8
+119,2021-2,By State,Mississippi,Mississippi,14.7
+120,2021-2,By State,Missouri,Missouri,18.9
+121,2021-2,By State,Montana,Montana,10.7
+122,2021-2,By State,Nebraska,Nebraska,17.7
+123,2021-2,By State,Nevada,Nevada,17.6
+124,2021-2,By State,New Hampshire,New Hampshire,31.7
+125,2021-2,By State,New Jersey,New Jersey,26.5
+126,2021-2,By State,New Mexico,New Mexico,28.9
+127,2021-2,By State,New York,New York,29.0
+128,2021-2,By State,North Carolina,North Carolina,33.2
+129,2021-2,By State,North Dakota,North Dakota,11.8
+130,2021-2,By State,Ohio,Ohio,20.7
+131,2021-2,By State,Oklahoma,Oklahoma,23.5
+132,2021-2,By State,Oregon,Oregon,19.1
+133,2021-2,By State,Pennsylvania,Pennsylvania,28.0
+134,2021-2,By State,Rhode Island,Rhode Island,22.3
+135,2021-2,By State,South Carolina,South Carolina,27.7
+136,2021-2,By State,South Dakota,South Dakota,20.8
+137,2021-2,By State,Tennessee,Tennessee,19.4
+138,2021-2,By State,Texas,Texas,25.7
+139,2021-2,By State,Utah,Utah,18.4
+140,2021-2,By State,Vermont,Vermont,30.3
+141,2021-2,By State,Virginia,Virginia,23.6
+142,2021-2,By State,Washington,Washington,23.5
+143,2021-2,By State,West Virginia,West Virginia,16.1
+144,2021-2,By State,Wisconsin,Wisconsin,11.2
+146,2021-2,National Estimate,United States,United States,25.3
+147,2021-2,By Age,United States,18 - 29 years,20.0
+148,2021-2,By Age,United States,30 - 39 years,23.6
+149,2021-2,By Age,United States,40 - 49 years,24.9
+150,2021-2,By Age,United States,50 - 59 years,26.1
+151,2021-2,By Age,United States,60 - 69 years,27.6
+152,2021-2,By Age,United States,70 - 79 years,28.3
+153,2021-2,By Age,United States,80 years and above,32.2
+154,2021-2,By Sex,United States,Male,23.0
+155,2021-2,By Sex,United States,Female,27.5
+156,2021-2,By Race/Hispanic ethnicity,United States,Hispanic or Latino,27.4
+157,2021-2,By Race/Hispanic ethnicity,United States,"Non-Hispanic White, single race",23.7
+158,2021-2,By Race/Hispanic ethnicity,United States,"Non-Hispanic Black, single race",28.3
+159,2021-2,By Race/Hispanic ethnicity,United States,"Non-Hispanic Asian, single race",25.8
+160,2021-2,By Race/Hispanic ethnicity,United States,"Non-Hispanic, other races and multiple races",36.4
+161,2021-2,By Education,United States,Less than a high school diploma,26.6
+162,2021-2,By Education,United States,High school diploma or GED,22.8
+163,2021-2,By Education,United States,Some college/Associate's degree,27.0
+164,2021-2,By Education,United States,Bachelor's degree or higher,25.8
+165,2021-2,By Disability status,United States,With disability,41.3
+166,2021-2,By Disability status,United States,Without disability,22.9
+167,2021-2,By State,Alabama,Alabama,20.5
+168,2021-2,By State,Alaska,Alaska,26.4
+169,2021-2,By State,Arizona,Arizona,29.5
+170,2021-2,By State,Arkansas,Arkansas,20.3
+171,2021-2,By State,California,California,32.1
+172,2021-2,By State,Colorado,Colorado,25.2
+173,2021-2,By State,Connecticut,Connecticut,26.0
+174,2021-2,By State,Delaware,Delaware,32.2
+175,2021-2,By State,District of Columbia,District of Columbia,31.7
+176,2021-2,By State,Florida,Florida,24.6
+177,2021-2,By State,Georgia,Georgia,22.1
+178,2021-2,By State,Hawaii,Hawaii,29.5
+179,2021-2,By State,Idaho,Idaho,17.7
+180,2021-2,By State,Illinois,Illinois,22.6
+181,2021-2,By State,Indiana,Indiana,19.5
+182,2021-2,By State,Iowa,Iowa,15.9
+183,2021-2,By State,Kansas,Kansas,20.7
+184,2021-2,By State,Kentucky,Kentucky,24.5
+185,2021-2,By State,Louisiana,Louisiana,23.2
+186,2021-2,By State,Maine,Maine,26.5
+187,2021-2,By State,Maryland,Maryland,34.2
+188,2021-2,By State,Massachusetts,Massachusetts,34.1
+189,2021-2,By State,Michigan,Michigan,23.5
+190,2021-2,By State,Minnesota,Minnesota,20.5
+191,2021-2,By State,Mississippi,Mississippi,25.1
+192,2021-2,By State,Missouri,Missouri,18.9
+193,2021-2,By State,Montana,Montana,19.5
+194,2021-2,By State,Nebraska,Nebraska,20.2
+195,2021-2,By State,Nevada,Nevada,23.9
+196,2021-2,By State,New Hampshire,New Hampshire,25.0
+197,2021-2,By State,New Jersey,New Jersey,24.5
+198,2021-2,By State,New Mexico,New Mexico,29.4
+199,2021-2,By State,New York,New York,25.7
+200,2021-2,By State,North Carolina,North Carolina,24.8
+201,2021-2,By State,North Dakota,North Dakota,16.8
+202,2021-2,By State,Ohio,Ohio,26.4
+203,2021-2,By State,Oklahoma,Oklahoma,27.1
+204,2021-2,By State,Oregon,Oregon,30.9
+205,2021-2,By State,Pennsylvania,Pennsylvania,23.8
+206,2021-2,By State,Rhode Island,Rhode Island,28.0
+207,2021-2,By State,South Carolina,South Carolina,21.1
+208,2021-2,By State,South Dakota,South Dakota,16.1
+209,2021-2,By State,Tennessee,Tennessee,18.0
+210,2021-2,By State,Texas,Texas,27.1
+211,2021-2,By State,Utah,Utah,19.1
+212,2021-2,By State,Vermont,Vermont,23.5
+213,2021-2,By State,Virginia,Virginia,24.1
+214,2021-2,By State,Washington,Washington,25.3
+215,2021-2,By State,West Virginia,West Virginia,23.0
+216,2021-2,By State,Wisconsin,Wisconsin,21.5
+217,2021-2,By State,Wyoming,Wyoming,14.6
+218,2021-2,National Estimate,United States,United States,23.3
+219,2021-2,By Education of adult respondent,United States,High school diploma or GED or lower,22.2
+220,2021-2,By Education of adult respondent,United States,Some college/Associate's degree,24.5
+221,2021-2,By Education of adult respondent,United States,Bachelor's degree or higher,23.4
+222,2021-2,By Race/Hispanic ethnicity of adult respondent,United States,Hispanic or Latino,25.7
+223,2021-2,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic White, single race",22.2
+224,2021-2,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic Black, single race",24.0
+225,2021-2,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic Asian, single race",25.1
+226,2021-2,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic, other races and multiple races",23.6
+227,2021-2,By Current US Armed Forces or National Guard service of adult respondent or spouse,United States,Yes,27.6
+228,2021-2,By Current US Armed Forces or National Guard service of adult respondent or spouse,United States,No,23.2
+229,2021-2,By Health insurance of adult respondent,United States,Private only,22.4
+230,2021-2,By Health insurance of adult respondent,United States,Any public,26.2
+231,2021-2,By Health insurance of adult respondent,United States,No insurance,20.4
+232,2021-2,By Total household income,United States,"Less than $25,000",23.7
+233,2021-2,By Total household income,United States,"$25,000 - $34,999",24.8
+234,2021-2,By Total household income,United States,"$35,000 - $49,999",23.4
+235,2021-2,By Total household income,United States,"$50,000 - $74,999",22.3
+236,2021-2,By Total household income,United States,"$75,000 - $99,999",19.9
+237,2021-2,By Total household income,United States,"$100,000 - $149,999",24.5
+238,2021-2,By Total household income,United States,"$150,000 - $199,999",22.0
+239,2021-2,By Total household income,United States,"$200,000 and above",26.5
+240,2021-2,By Total household income,United States,Did not report,23.0
+241,2021-2,By State,Alabama,Alabama,22.6
+242,2021-2,By State,Alaska,Alaska,21.0
+243,2021-2,By State,Arizona,Arizona,26.4
+244,2021-2,By State,Arkansas,Arkansas,18.6
+245,2021-2,By State,California,California,27.5
+246,2021-2,By State,Colorado,Colorado,21.8
+247,2021-2,By State,Connecticut,Connecticut,31.7
+248,2021-2,By State,Delaware,Delaware,28.3
+249,2021-2,By State,District of Columbia,District of Columbia,23.8
+250,2021-2,By State,Florida,Florida,24.0
+251,2021-2,By State,Georgia,Georgia,25.0
+252,2021-2,By State,Hawaii,Hawaii,30.9
+253,2021-2,By State,Idaho,Idaho,19.3
+254,2021-2,By State,Illinois,Illinois,19.5
+255,2021-2,By State,Indiana,Indiana,19.5
+256,2021-2,By State,Iowa,Iowa,16.1
+257,2021-2,By State,Kansas,Kansas,17.0
+258,2021-2,By State,Kentucky,Kentucky,19.3
+259,2021-2,By State,Louisiana,Louisiana,18.5
+260,2021-2,By State,Maine,Maine,24.7
+261,2021-2,By State,Maryland,Maryland,33.7
+262,2021-2,By State,Massachusetts,Massachusetts,32.5
+263,2021-2,By State,Michigan,Michigan,23.7
+264,2021-2,By State,Minnesota,Minnesota,25.8
+265,2021-2,By State,Mississippi,Mississippi,23.7
+266,2021-2,By State,Missouri,Missouri,19.5
+267,2021-2,By State,Montana,Montana,14.2
+268,2021-2,By State,Nebraska,Nebraska,19.3
+269,2021-2,By State,Nevada,Nevada,14.5
+270,2021-2,By State,New Hampshire,New Hampshire,26.8
+271,2021-2,By State,New Jersey,New Jersey,26.7
+272,2021-2,By State,New Mexico,New Mexico,23.2
+273,2021-2,By State,New York,New York,21.1
+274,2021-2,By State,North Carolina,North Carolina,26.3
+276,2021-2,By State,Ohio,Ohio,24.4
+277,2021-2,By State,Oklahoma,Oklahoma,25.4
+278,2021-2,By State,Oregon,Oregon,27.6
+279,2021-2,By State,Pennsylvania,Pennsylvania,23.2
+280,2021-2,By State,Rhode Island,Rhode Island,30.2
+281,2021-2,By State,South Carolina,South Carolina,24.8
+282,2021-2,By State,South Dakota,South Dakota,16.7
+283,2021-2,By State,Tennessee,Tennessee,14.6
+284,2021-2,By State,Texas,Texas,23.4
+285,2021-2,By State,Utah,Utah,16.1
+286,2021-2,By State,Vermont,Vermont,19.2
+287,2021-2,By State,Virginia,Virginia,20.0
+288,2021-2,By State,Washington,Washington,18.5
+289,2021-2,By State,West Virginia,West Virginia,19.5
+290,2021-2,By State,Wisconsin,Wisconsin,19.9
+292,2021-2,National Estimate,United States,United States,25.3
+293,2021-2,By Age,United States,18 - 29 years,21.2
+294,2021-2,By Age,United States,30 - 39 years,23.5
+295,2021-2,By Age,United States,40 - 49 years,24.8
+296,2021-2,By Age,United States,50 - 59 years,27.2
+297,2021-2,By Age,United States,60 - 69 years,26.0
+298,2021-2,By Age,United States,70 - 79 years,28.3
+299,2021-2,By Age,United States,80 years and above,31.7
+300,2021-2,By Sex,United States,Male,23.3
+301,2021-2,By Sex,United States,Female,27.2
+302,2021-2,By Race/Hispanic ethnicity,United States,Hispanic or Latino,30.2
+303,2021-2,By Race/Hispanic ethnicity,United States,"Non-Hispanic White, single race",23.8
+304,2021-2,By Race/Hispanic ethnicity,United States,"Non-Hispanic Black, single race",28.0
+305,2021-2,By Race/Hispanic ethnicity,United States,"Non-Hispanic Asian, single race",22.5
+306,2021-2,By Race/Hispanic ethnicity,United States,"Non-Hispanic, other races and multiple races",28.9
+307,2021-2,By Education,United States,Less than a high school diploma,30.8
+308,2021-2,By Education,United States,High school diploma or GED,23.4
+309,2021-2,By Education,United States,Some college/Associate's degree,26.3
+310,2021-2,By Education,United States,Bachelor's degree or higher,25.0
+311,2021-2,By Disability status,United States,With disability,40.2
+312,2021-2,By Disability status,United States,Without disability,23.1
+313,2021-2,By State,Alabama,Alabama,23.7
+314,2021-2,By State,Alaska,Alaska,25.3
+315,2021-2,By State,Arizona,Arizona,26.2
+316,2021-2,By State,Arkansas,Arkansas,25.3
+317,2021-2,By State,California,California,33.8
+318,2021-2,By State,Colorado,Colorado,27.5
+319,2021-2,By State,Connecticut,Connecticut,29.2
+320,2021-2,By State,Delaware,Delaware,31.4
+321,2021-2,By State,District of Columbia,District of Columbia,36.8
+322,2021-2,By State,Florida,Florida,28.0
+323,2021-2,By State,Georgia,Georgia,21.2
+324,2021-2,By State,Hawaii,Hawaii,23.7
+325,2021-2,By State,Idaho,Idaho,19.0
+326,2021-2,By State,Illinois,Illinois,25.4
+327,2021-2,By State,Indiana,Indiana,24.7
+328,2021-2,By State,Iowa,Iowa,18.4
+329,2021-2,By State,Kansas,Kansas,15.0
+330,2021-2,By State,Kentucky,Kentucky,22.0
+331,2021-2,By State,Louisiana,Louisiana,22.2
+332,2021-2,By State,Maine,Maine,21.4
+333,2021-2,By State,Maryland,Maryland,29.5
+334,2021-2,By State,Massachusetts,Massachusetts,27.9
+335,2021-2,By State,Michigan,Michigan,23.1
+336,2021-2,By State,Minnesota,Minnesota,25.9
+337,2021-2,By State,Mississippi,Mississippi,17.3
+338,2021-2,By State,Missouri,Missouri,18.5
+339,2021-2,By State,Montana,Montana,15.3
+340,2021-2,By State,Nebraska,Nebraska,17.8
+341,2021-2,By State,Nevada,Nevada,22.5
+342,2021-2,By State,New Hampshire,New Hampshire,23.8
+343,2021-2,By State,New Jersey,New Jersey,21.9
+344,2021-2,By State,New Mexico,New Mexico,30.7
+345,2021-2,By State,New York,New York,24.4
+346,2021-2,By State,North Carolina,North Carolina,29.2
+347,2021-2,By State,North Dakota,North Dakota,14.7
+348,2021-2,By State,Ohio,Ohio,21.9
+349,2021-2,By State,Oklahoma,Oklahoma,23.1
+350,2021-2,By State,Oregon,Oregon,29.6
+351,2021-2,By State,Pennsylvania,Pennsylvania,28.7
+352,2021-2,By State,Rhode Island,Rhode Island,33.1
+353,2021-2,By State,South Carolina,South Carolina,19.8
+354,2021-2,By State,South Dakota,South Dakota,12.2
+355,2021-2,By State,Tennessee,Tennessee,18.2
+356,2021-2,By State,Texas,Texas,24.5
+357,2021-2,By State,Utah,Utah,18.9
+358,2021-2,By State,Vermont,Vermont,27.5
+359,2021-2,By State,Virginia,Virginia,25.0
+360,2021-2,By State,Washington,Washington,21.7
+361,2021-2,By State,West Virginia,West Virginia,16.7
+362,2021-2,By State,Wisconsin,Wisconsin,19.8
+363,2021-2,By State,Wyoming,Wyoming,12.8
+364,2021-2,National Estimate,United States,United States,23.6
+365,2021-2,By Education of adult respondent,United States,High school diploma or GED or lower,23.3
+366,2021-2,By Education of adult respondent,United States,Some college/Associate's degree,23.5
+367,2021-2,By Education of adult respondent,United States,Bachelor's degree or higher,23.9
+368,2021-2,By Race/Hispanic ethnicity of adult respondent,United States,Hispanic or Latino,28.8
+369,2021-2,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic White, single race",21.8
+370,2021-2,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic Black, single race",23.4
+371,2021-2,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic Asian, single race",25.6
+372,2021-2,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic, other races and multiple races",22.9
+373,2021-2,By Current US Armed Forces or National Guard service of adult respondent or spouse,United States,Yes,16.1
+374,2021-2,By Current US Armed Forces or National Guard service of adult respondent or spouse,United States,No,23.7
+375,2021-2,By Health insurance of adult respondent,United States,Private only,23.8
+376,2021-2,By Health insurance of adult respondent,United States,Any public,24.4
+377,2021-2,By Health insurance of adult respondent,United States,No insurance,20.2
+378,2021-2,By Total household income,United States,"Less than $25,000",23.8
+379,2021-2,By Total household income,United States,"$25,000 - $34,999",27.1
+380,2021-2,By Total household income,United States,"$35,000 - $49,999",20.0
+381,2021-2,By Total household income,United States,"$50,000 - $74,999",21.8
+382,2021-2,By Total household income,United States,"$75,000 - $99,999",22.2
+383,2021-2,By Total household income,United States,"$100,000 - $149,999",22.1
+384,2021-2,By Total household income,United States,"$150,000 - $199,999",25.6
+385,2021-2,By Total household income,United States,"$200,000 and above",27.7
+386,2021-2,By Total household income,United States,Did not report,23.8
+387,2021-2,By State,Alabama,Alabama,23.2
+388,2021-2,By State,Alaska,Alaska,21.5
+389,2021-2,By State,Arizona,Arizona,21.0
+390,2021-2,By State,Arkansas,Arkansas,26.0
+391,2021-2,By State,California,California,30.7
+392,2021-2,By State,Colorado,Colorado,29.9
+393,2021-2,By State,Connecticut,Connecticut,26.7
+394,2021-2,By State,Delaware,Delaware,28.4
+395,2021-2,By State,District of Columbia,District of Columbia,35.7
+396,2021-2,By State,Florida,Florida,21.6
+397,2021-2,By State,Georgia,Georgia,23.3
+398,2021-2,By State,Hawaii,Hawaii,25.5
+399,2021-2,By State,Idaho,Idaho,20.0
+400,2021-2,By State,Illinois,Illinois,21.9
+401,2021-2,By State,Indiana,Indiana,21.0
+402,2021-2,By State,Iowa,Iowa,17.0
+403,2021-2,By State,Kansas,Kansas,17.9
+404,2021-2,By State,Kentucky,Kentucky,11.5
+405,2021-2,By State,Louisiana,Louisiana,21.3
+406,2021-2,By State,Maine,Maine,20.9
+407,2021-2,By State,Maryland,Maryland,29.7
+408,2021-2,By State,Massachusetts,Massachusetts,23.9
+409,2021-2,By State,Michigan,Michigan,16.8
+410,2021-2,By State,Minnesota,Minnesota,24.3
+411,2021-2,By State,Mississippi,Mississippi,18.0
+412,2021-2,By State,Missouri,Missouri,15.4
+414,2021-2,By State,Nebraska,Nebraska,17.6
+415,2021-2,By State,Nevada,Nevada,17.3
+416,2021-2,By State,New Hampshire,New Hampshire,19.3
+417,2021-2,By State,New Jersey,New Jersey,20.0
+418,2021-2,By State,New Mexico,New Mexico,26.3
+419,2021-2,By State,New York,New York,30.8
+420,2021-2,By State,North Carolina,North Carolina,23.2
+421,2021-2,By State,North Dakota,North Dakota,11.4
+422,2021-2,By State,Ohio,Ohio,26.2
+423,2021-2,By State,Oklahoma,Oklahoma,17.2
+424,2021-2,By State,Oregon,Oregon,25.5
+425,2021-2,By State,Pennsylvania,Pennsylvania,21.0
+426,2021-2,By State,Rhode Island,Rhode Island,26.3
+427,2021-2,By State,South Carolina,South Carolina,19.5
+428,2021-2,By State,South Dakota,South Dakota,13.4
+429,2021-2,By State,Tennessee,Tennessee,21.8
+430,2021-2,By State,Texas,Texas,25.4
+431,2021-2,By State,Utah,Utah,18.8
+432,2021-2,By State,Vermont,Vermont,14.4
+433,2021-2,By State,Virginia,Virginia,24.0
+434,2021-2,By State,Washington,Washington,19.9
+435,2021-2,By State,West Virginia,West Virginia,23.1
+436,2021-2,By State,Wisconsin,Wisconsin,22.4
+437,2021-2,By State,Wyoming,Wyoming,10.4
+438,2021-2,National Estimate,United States,United States,24.6
+439,2021-2,By Age,United States,18 - 29 years,20.2
+440,2021-2,By Age,United States,30 - 39 years,23.5
+441,2021-2,By Age,United States,40 - 49 years,22.6
+442,2021-2,By Age,United States,50 - 59 years,26.5
+443,2021-2,By Age,United States,60 - 69 years,26.6
+444,2021-2,By Age,United States,70 - 79 years,26.9
+445,2021-2,By Age,United States,80 years and above,29.2
+446,2021-2,By Sex,United States,Male,22.8
+447,2021-2,By Sex,United States,Female,26.2
+448,2021-2,By Race/Hispanic ethnicity,United States,Hispanic or Latino,25.5
+449,2021-2,By Race/Hispanic ethnicity,United States,"Non-Hispanic White, single race",23.5
+450,2021-2,By Race/Hispanic ethnicity,United States,"Non-Hispanic Black, single race",29.3
+451,2021-2,By Race/Hispanic ethnicity,United States,"Non-Hispanic Asian, single race",22.3
+452,2021-2,By Race/Hispanic ethnicity,United States,"Non-Hispanic, other races and multiple races",28.3
+453,2021-2,By Education,United States,Less than a high school diploma,26.2
+454,2021-2,By Education,United States,High school diploma or GED,22.6
+455,2021-2,By Education,United States,Some college/Associate's degree,25.0
+456,2021-2,By Education,United States,Bachelor's degree or higher,25.5
+457,2021-2,By Disability status,United States,With disability,37.8
+458,2021-2,By Disability status,United States,Without disability,22.5
+459,2021-2,By State,Alabama,Alabama,20.0
+460,2021-2,By State,Alaska,Alaska,22.7
+461,2021-2,By State,Arizona,Arizona,25.4
+462,2021-2,By State,Arkansas,Arkansas,18.8
+463,2021-2,By State,California,California,28.3
+464,2021-2,By State,Colorado,Colorado,22.8
+465,2021-2,By State,Connecticut,Connecticut,24.4
+466,2021-2,By State,Delaware,Delaware,30.4
+467,2021-2,By State,District of Columbia,District of Columbia,32.9
+468,2021-2,By State,Florida,Florida,24.9
+469,2021-2,By State,Georgia,Georgia,22.5
+470,2021-2,By State,Hawaii,Hawaii,26.0
+471,2021-2,By State,Idaho,Idaho,18.8
+472,2021-2,By State,Illinois,Illinois,20.3
+473,2021-2,By State,Indiana,Indiana,23.6
+474,2021-2,By State,Iowa,Iowa,18.1
+475,2021-2,By State,Kansas,Kansas,17.9
+476,2021-2,By State,Kentucky,Kentucky,20.9
+477,2021-2,By State,Louisiana,Louisiana,25.6
+478,2021-2,By State,Maine,Maine,23.5
+479,2021-2,By State,Maryland,Maryland,27.9
+480,2021-2,By State,Massachusetts,Massachusetts,32.6
+481,2021-2,By State,Michigan,Michigan,23.0
+482,2021-2,By State,Minnesota,Minnesota,26.2
+483,2021-2,By State,Mississippi,Mississippi,14.9
+484,2021-2,By State,Missouri,Missouri,21.1
+485,2021-2,By State,Montana,Montana,16.3
+486,2021-2,By State,Nebraska,Nebraska,12.9
+487,2021-2,By State,Nevada,Nevada,26.0
+488,2021-2,By State,New Hampshire,New Hampshire,24.3
+489,2021-2,By State,New Jersey,New Jersey,27.6
+490,2021-2,By State,New Mexico,New Mexico,30.2
+491,2021-2,By State,New York,New York,28.2
+492,2021-2,By State,North Carolina,North Carolina,21.9
+493,2021-2,By State,North Dakota,North Dakota,15.8
+494,2021-2,By State,Ohio,Ohio,24.7
+495,2021-2,By State,Oklahoma,Oklahoma,19.8
+496,2021-2,By State,Oregon,Oregon,26.2
+497,2021-2,By State,Pennsylvania,Pennsylvania,25.3
+498,2021-2,By State,Rhode Island,Rhode Island,34.3
+499,2021-2,By State,South Carolina,South Carolina,22.1
+500,2021-2,By State,South Dakota,South Dakota,14.9
+501,2021-2,By State,Tennessee,Tennessee,20.2
+502,2021-2,By State,Texas,Texas,25.9
+503,2021-2,By State,Utah,Utah,19.1
+504,2021-2,By State,Vermont,Vermont,26.0
+505,2021-2,By State,Virginia,Virginia,26.0
+506,2021-2,By State,Washington,Washington,26.4
+507,2021-2,By State,West Virginia,West Virginia,18.0
+508,2021-2,By State,Wisconsin,Wisconsin,18.7
+509,2021-2,By State,Wyoming,Wyoming,20.7
+510,2021-2,National Estimate,United States,United States,21.9
+511,2021-2,By Education of adult respondent,United States,High school diploma or GED or lower,22.0
+512,2021-2,By Education of adult respondent,United States,Some college/Associate's degree,20.9
+513,2021-2,By Education of adult respondent,United States,Bachelor's degree or higher,22.8
+514,2021-2,By Race/Hispanic ethnicity of adult respondent,United States,Hispanic or Latino,24.1
+515,2021-2,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic White, single race",20.9
+516,2021-2,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic Black, single race",22.9
+517,2021-2,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic Asian, single race",25.9
+518,2021-2,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic, other races and multiple races",18.6
+519,2021-2,By Current US Armed Forces or National Guard service of adult respondent or spouse,United States,Yes,24.1
+520,2021-2,By Current US Armed Forces or National Guard service of adult respondent or spouse,United States,No,21.9
+521,2021-2,By Health insurance of adult respondent,United States,Private only,21.4
+522,2021-2,By Health insurance of adult respondent,United States,Any public,24.6
+523,2021-2,By Health insurance of adult respondent,United States,No insurance,16.8
+524,2021-2,By Total household income,United States,"Less than $25,000",22.3
+525,2021-2,By Total household income,United States,"$25,000 - $34,999",23.0
+526,2021-2,By Total household income,United States,"$35,000 - $49,999",18.8
+527,2021-2,By Total household income,United States,"$50,000 - $74,999",19.3
+528,2021-2,By Total household income,United States,"$75,000 - $99,999",23.4
+529,2021-2,By Total household income,United States,"$100,000 - $149,999",23.5
+530,2021-2,By Total household income,United States,"$150,000 - $199,999",20.7
+531,2021-2,By Total household income,United States,"$200,000 and above",24.9
+532,2021-2,By Total household income,United States,Did not report,21.7
+533,2021-2,By State,Alabama,Alabama,12.4
+534,2021-2,By State,Alaska,Alaska,20.7
+535,2021-2,By State,Arizona,Arizona,18.5
+536,2021-2,By State,Arkansas,Arkansas,19.4
+537,2021-2,By State,California,California,25.2
+538,2021-2,By State,Colorado,Colorado,17.9
+539,2021-2,By State,Connecticut,Connecticut,23.9
+540,2021-2,By State,Delaware,Delaware,27.0
+541,2021-2,By State,District of Columbia,District of Columbia,21.7
+542,2021-2,By State,Florida,Florida,21.8
+543,2021-2,By State,Georgia,Georgia,21.8
+544,2021-2,By State,Hawaii,Hawaii,20.5
+545,2021-2,By State,Idaho,Idaho,16.7
+546,2021-2,By State,Illinois,Illinois,20.8
+547,2021-2,By State,Indiana,Indiana,17.1
+548,2021-2,By State,Iowa,Iowa,18.8
+549,2021-2,By State,Kansas,Kansas,17.1
+550,2021-2,By State,Kentucky,Kentucky,14.4
+551,2021-2,By State,Louisiana,Louisiana,26.8
+552,2021-2,By State,Maine,Maine,21.9
+553,2021-2,By State,Maryland,Maryland,24.7
+554,2021-2,By State,Massachusetts,Massachusetts,33.6
+555,2021-2,By State,Michigan,Michigan,17.8
+556,2021-2,By State,Minnesota,Minnesota,27.0
+557,2021-2,By State,Mississippi,Mississippi,16.4
+558,2021-2,By State,Missouri,Missouri,23.8
+559,2021-2,By State,Montana,Montana,15.8
+560,2021-2,By State,Nebraska,Nebraska,13.1
+561,2021-2,By State,Nevada,Nevada,20.9
+562,2021-2,By State,New Hampshire,New Hampshire,23.9
+563,2021-2,By State,New Jersey,New Jersey,26.2
+564,2021-2,By State,New Mexico,New Mexico,20.6
+565,2021-2,By State,New York,New York,24.1
+566,2021-2,By State,North Carolina,North Carolina,24.6
+567,2021-2,By State,North Dakota,North Dakota,13.7
+568,2021-2,By State,Ohio,Ohio,22.2
+569,2021-2,By State,Oklahoma,Oklahoma,9.1
+570,2021-2,By State,Oregon,Oregon,27.6
+571,2021-2,By State,Pennsylvania,Pennsylvania,24.5
+572,2021-2,By State,Rhode Island,Rhode Island,28.9
+573,2021-2,By State,South Carolina,South Carolina,28.9
+574,2021-2,By State,South Dakota,South Dakota,12.4
+575,2021-2,By State,Tennessee,Tennessee,18.1
+576,2021-2,By State,Texas,Texas,20.1
+577,2021-2,By State,Utah,Utah,19.1
+578,2021-2,By State,Vermont,Vermont,26.3
+579,2021-2,By State,Virginia,Virginia,19.6
+580,2021-2,By State,Washington,Washington,26.0
+581,2021-2,By State,West Virginia,West Virginia,18.8
+582,2021-2,By State,Wisconsin,Wisconsin,18.9
+584,2021-2,National Estimate,United States,United States,23.8
+585,2021-2,By Age,United States,18 - 29 years,20.8
+586,2021-2,By Age,United States,30 - 39 years,23.0
+587,2021-2,By Age,United States,40 - 49 years,21.8
+588,2021-2,By Age,United States,50 - 59 years,25.1
+589,2021-2,By Age,United States,60 - 69 years,25.6
+590,2021-2,By Age,United States,70 - 79 years,25.3
+591,2021-2,By Age,United States,80 years and above,30.0
+592,2021-2,By Sex,United States,Male,21.3
+593,2021-2,By Sex,United States,Female,26.2
+594,2021-2,By Race/Hispanic ethnicity,United States,Hispanic or Latino,25.5
+595,2021-2,By Race/Hispanic ethnicity,United States,"Non-Hispanic White, single race",22.4
+596,2021-2,By Race/Hispanic ethnicity,United States,"Non-Hispanic Black, single race",28.5
+597,2021-2,By Race/Hispanic ethnicity,United States,"Non-Hispanic Asian, single race",24.5
+598,2021-2,By Race/Hispanic ethnicity,United States,"Non-Hispanic, other races and multiple races",26.4
+599,2021-2,By Education,United States,Less than a high school diploma,23.5
+600,2021-2,By Education,United States,High school diploma or GED,22.4
+601,2021-2,By Education,United States,Some college/Associate's degree,24.9
+602,2021-2,By Education,United States,Bachelor's degree or higher,24.2
+603,2021-2,By Disability status,United States,With disability,40.5
+604,2021-2,By Disability status,United States,Without disability,21.4
+605,2021-2,By State,Alabama,Alabama,21.6
+606,2021-2,By State,Alaska,Alaska,21.4
+607,2021-2,By State,Arizona,Arizona,24.8
+608,2021-2,By State,Arkansas,Arkansas,22.2
+609,2021-2,By State,California,California,29.9
+610,2021-2,By State,Colorado,Colorado,21.3
+611,2021-2,By State,Connecticut,Connecticut,23.7
+612,2021-2,By State,Delaware,Delaware,33.4
+613,2021-2,By State,District of Columbia,District of Columbia,31.6
+614,2021-2,By State,Florida,Florida,25.7
+615,2021-2,By State,Georgia,Georgia,21.7
+616,2021-2,By State,Hawaii,Hawaii,30.6
+617,2021-2,By State,Idaho,Idaho,19.5
+618,2021-2,By State,Illinois,Illinois,22.6
+619,2021-2,By State,Indiana,Indiana,21.6
+620,2021-2,By State,Iowa,Iowa,14.5
+621,2021-2,By State,Kansas,Kansas,16.8
+622,2021-2,By State,Kentucky,Kentucky,19.5
+623,2021-2,By State,Louisiana,Louisiana,23.0
+624,2021-2,By State,Maine,Maine,20.2
+625,2021-2,By State,Maryland,Maryland,33.3
+626,2021-2,By State,Massachusetts,Massachusetts,27.2
+627,2021-2,By State,Michigan,Michigan,19.1
+628,2021-2,By State,Minnesota,Minnesota,21.2
+629,2021-2,By State,Mississippi,Mississippi,17.0
+630,2021-2,By State,Missouri,Missouri,20.4
+631,2021-2,By State,Montana,Montana,17.4
+632,2021-2,By State,Nebraska,Nebraska,13.1
+633,2021-2,By State,Nevada,Nevada,23.1
+634,2021-2,By State,New Hampshire,New Hampshire,18.9
+635,2021-2,By State,New Jersey,New Jersey,27.2
+636,2021-2,By State,New Mexico,New Mexico,27.0
+637,2021-2,By State,New York,New York,23.1
+638,2021-2,By State,North Carolina,North Carolina,23.9
+639,2021-2,By State,North Dakota,North Dakota,11.5
+640,2021-2,By State,Ohio,Ohio,22.5
+641,2021-2,By State,Oklahoma,Oklahoma,23.7
+642,2021-2,By State,Oregon,Oregon,29.9
+643,2021-2,By State,Pennsylvania,Pennsylvania,24.0
+644,2021-2,By State,Rhode Island,Rhode Island,32.3
+645,2021-2,By State,South Carolina,South Carolina,16.9
+646,2021-2,By State,South Dakota,South Dakota,15.3
+647,2021-2,By State,Tennessee,Tennessee,21.4
+648,2021-2,By State,Texas,Texas,24.6
+649,2021-2,By State,Utah,Utah,19.9
+650,2021-2,By State,Vermont,Vermont,30.6
+651,2021-2,By State,Virginia,Virginia,23.6
+652,2021-2,By State,Washington,Washington,22.8
+653,2021-2,By State,West Virginia,West Virginia,21.8
+654,2021-2,By State,Wisconsin,Wisconsin,16.4
+655,2021-2,By State,Wyoming,Wyoming,15.4
+656,2021-2,National Estimate,United States,United States,21.5
+657,2021-2,By Education of adult respondent,United States,High school diploma or GED or lower,19.3
+658,2021-2,By Education of adult respondent,United States,Some college/Associate's degree,22.7
+659,2021-2,By Education of adult respondent,United States,Bachelor's degree or higher,22.7
+660,2021-2,By Race/Hispanic ethnicity of adult respondent,United States,Hispanic or Latino,21.8
+661,2021-2,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic White, single race",20.0
+662,2021-2,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic Black, single race",24.9
+663,2021-2,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic Asian, single race",26.6
+664,2021-2,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic, other races and multiple races",21.8
+665,2021-2,By Current US Armed Forces or National Guard service of adult respondent or spouse,United States,Yes,24.8
+666,2021-2,By Current US Armed Forces or National Guard service of adult respondent or spouse,United States,No,21.4
+667,2021-2,By Health insurance of adult respondent,United States,Private only,21.5
+668,2021-2,By Health insurance of adult respondent,United States,Any public,23.1
+669,2021-2,By Health insurance of adult respondent,United States,No insurance,16.8
+670,2021-2,By Total household income,United States,"Less than $25,000",22.8
+671,2021-2,By Total household income,United States,"$25,000 - $34,999",19.7
+672,2021-2,By Total household income,United States,"$35,000 - $49,999",23.4
+673,2021-2,By Total household income,United States,"$50,000 - $74,999",21.6
+674,2021-2,By Total household income,United States,"$75,000 - $99,999",18.9
+675,2021-2,By Total household income,United States,"$100,000 - $149,999",20.4
+676,2021-2,By Total household income,United States,"$150,000 - $199,999",24.3
+677,2021-2,By Total household income,United States,"$200,000 and above",24.5
+678,2021-2,By Total household income,United States,Did not report,19.6
+679,2021-2,By State,Alabama,Alabama,18.7
+680,2021-2,By State,Alaska,Alaska,15.0
+681,2021-2,By State,Arizona,Arizona,23.5
+682,2021-2,By State,Arkansas,Arkansas,19.1
+683,2021-2,By State,California,California,22.6
+684,2021-2,By State,Colorado,Colorado,21.7
+685,2021-2,By State,Connecticut,Connecticut,28.3
+686,2021-2,By State,Delaware,Delaware,27.3
+687,2021-2,By State,District of Columbia,District of Columbia,32.1
+688,2021-2,By State,Florida,Florida,21.8
+689,2021-2,By State,Georgia,Georgia,23.1
+691,2021-2,By State,Idaho,Idaho,12.7
+692,2021-2,By State,Illinois,Illinois,21.4
+693,2021-2,By State,Indiana,Indiana,18.5
+694,2021-2,By State,Iowa,Iowa,15.1
+695,2021-2,By State,Kansas,Kansas,13.9
+696,2021-2,By State,Kentucky,Kentucky,19.4
+697,2021-2,By State,Louisiana,Louisiana,16.4
+698,2021-2,By State,Maine,Maine,25.2
+699,2021-2,By State,Maryland,Maryland,24.2
+700,2021-2,By State,Massachusetts,Massachusetts,29.2
+701,2021-2,By State,Michigan,Michigan,19.5
+702,2021-2,By State,Minnesota,Minnesota,21.6
+703,2021-2,By State,Mississippi,Mississippi,11.5
+704,2021-2,By State,Missouri,Missouri,14.4
+705,2021-2,By State,Montana,Montana,26.4
+706,2021-2,By State,Nebraska,Nebraska,21.9
+707,2021-2,By State,Nevada,Nevada,17.4
+708,2021-2,By State,New Hampshire,New Hampshire,23.9
+709,2021-2,By State,New Jersey,New Jersey,31.5
+710,2021-2,By State,New Mexico,New Mexico,18.8
+711,2021-2,By State,New York,New York,18.0
+712,2021-2,By State,North Carolina,North Carolina,24.1
+713,2021-2,By State,North Dakota,North Dakota,16.4
+714,2021-2,By State,Ohio,Ohio,22.2
+715,2021-2,By State,Oklahoma,Oklahoma,18.8
+716,2021-2,By State,Oregon,Oregon,30.2
+717,2021-2,By State,Pennsylvania,Pennsylvania,25.9
+718,2021-2,By State,Rhode Island,Rhode Island,30.6
+719,2021-2,By State,South Carolina,South Carolina,18.6
+720,2021-2,By State,South Dakota,South Dakota,17.7
+721,2021-2,By State,Tennessee,Tennessee,16.1
+722,2021-2,By State,Texas,Texas,19.1
+723,2021-2,By State,Utah,Utah,19.4
+724,2021-2,By State,Vermont,Vermont,23.0
+725,2021-2,By State,Virginia,Virginia,23.1
+726,2021-2,By State,Washington,Washington,26.3
+727,2021-2,By State,West Virginia,West Virginia,19.5
+728,2021-2,By State,Wisconsin,Wisconsin,24.7
+730,2021-2,National Estimate,United States,United States,24.5
+731,2021-2,By Age,United States,18 - 29 years,22.5
+732,2021-2,By Age,United States,30 - 39 years,22.8
+733,2021-2,By Age,United States,40 - 49 years,23.6
+734,2021-2,By Age,United States,50 - 59 years,26.0
+735,2021-2,By Age,United States,60 - 69 years,25.1
+736,2021-2,By Age,United States,70 - 79 years,26.6
+737,2021-2,By Age,United States,80 years and above,28.3
+738,2021-2,By Sex,United States,Male,21.5
+739,2021-2,By Sex,United States,Female,27.2
+740,2021-2,By Race/Hispanic ethnicity,United States,Hispanic or Latino,27.6
+741,2021-2,By Race/Hispanic ethnicity,United States,"Non-Hispanic White, single race",22.6
+742,2021-2,By Race/Hispanic ethnicity,United States,"Non-Hispanic Black, single race",30.0
+743,2021-2,By Race/Hispanic ethnicity,United States,"Non-Hispanic Asian, single race",24.8
+744,2021-2,By Race/Hispanic ethnicity,United States,"Non-Hispanic, other races and multiple races",28.6
+745,2021-2,By Education,United States,Less than a high school diploma,29.5
+746,2021-2,By Education,United States,High school diploma or GED,22.1
+747,2021-2,By Education,United States,Some college/Associate's degree,25.5
+748,2021-2,By Education,United States,Bachelor's degree or higher,24.6
+749,2021-2,By Disability status,United States,With disability,38.8
+750,2021-2,By Disability status,United States,Without disability,22.2
+751,2021-2,By State,Alabama,Alabama,21.6
+752,2021-2,By State,Alaska,Alaska,22.7
+753,2021-2,By State,Arizona,Arizona,25.9
+754,2021-2,By State,Arkansas,Arkansas,16.0
+755,2021-2,By State,California,California,31.3
+756,2021-2,By State,Colorado,Colorado,22.9
+757,2021-2,By State,Connecticut,Connecticut,23.5
+758,2021-2,By State,Delaware,Delaware,27.1
+759,2021-2,By State,District of Columbia,District of Columbia,39.6
+760,2021-2,By State,Florida,Florida,25.5
+761,2021-2,By State,Georgia,Georgia,24.4
+762,2021-2,By State,Hawaii,Hawaii,25.3
+763,2021-2,By State,Idaho,Idaho,20.7
+764,2021-2,By State,Illinois,Illinois,25.0
+765,2021-2,By State,Indiana,Indiana,20.8
+766,2021-2,By State,Iowa,Iowa,16.0
+767,2021-2,By State,Kansas,Kansas,16.2
+768,2021-2,By State,Kentucky,Kentucky,21.2
+769,2021-2,By State,Louisiana,Louisiana,24.0
+770,2021-2,By State,Maine,Maine,23.6
+771,2021-2,By State,Maryland,Maryland,27.7
+772,2021-2,By State,Massachusetts,Massachusetts,30.8
+773,2021-2,By State,Michigan,Michigan,23.0
+774,2021-2,By State,Minnesota,Minnesota,20.6
+775,2021-2,By State,Mississippi,Mississippi,12.8
+776,2021-2,By State,Missouri,Missouri,20.7
+777,2021-2,By State,Montana,Montana,17.4
+778,2021-2,By State,Nebraska,Nebraska,17.0
+779,2021-2,By State,Nevada,Nevada,22.9
+780,2021-2,By State,New Hampshire,New Hampshire,25.0
+781,2021-2,By State,New Jersey,New Jersey,27.9
+782,2021-2,By State,New Mexico,New Mexico,28.9
+783,2021-2,By State,New York,New York,24.5
+784,2021-2,By State,North Carolina,North Carolina,25.3
+785,2021-2,By State,North Dakota,North Dakota,9.1
+786,2021-2,By State,Ohio,Ohio,18.5
+787,2021-2,By State,Oklahoma,Oklahoma,24.5
+788,2021-2,By State,Oregon,Oregon,29.1
+789,2021-2,By State,Pennsylvania,Pennsylvania,26.7
+790,2021-2,By State,Rhode Island,Rhode Island,30.4
+791,2021-2,By State,South Carolina,South Carolina,20.6
+792,2021-2,By State,South Dakota,South Dakota,13.6
+793,2021-2,By State,Tennessee,Tennessee,20.2
+794,2021-2,By State,Texas,Texas,24.2
+795,2021-2,By State,Utah,Utah,18.8
+796,2021-2,By State,Vermont,Vermont,21.1
+797,2021-2,By State,Virginia,Virginia,28.4
+798,2021-2,By State,Washington,Washington,23.3
+799,2021-2,By State,West Virginia,West Virginia,19.7
+800,2021-2,By State,Wisconsin,Wisconsin,17.8
+801,2021-2,By State,Wyoming,Wyoming,12.5
+802,2021-2,National Estimate,United States,United States,22.2
+803,2021-2,By Education of adult respondent,United States,High school diploma or GED or lower,20.9
+804,2021-2,By Education of adult respondent,United States,Some college/Associate's degree,22.6
+805,2021-2,By Education of adult respondent,United States,Bachelor's degree or higher,23.1
+806,2021-2,By Race/Hispanic ethnicity of adult respondent,United States,Hispanic or Latino,25.7
+807,2021-2,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic White, single race",19.6
+808,2021-2,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic Black, single race",27.3
+809,2021-2,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic Asian, single race",24.3
+810,2021-2,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic, other races and multiple races",22.8
+811,2021-2,By Current US Armed Forces or National Guard service of adult respondent or spouse,United States,Yes,31.2
+812,2021-2,By Current US Armed Forces or National Guard service of adult respondent or spouse,United States,No,22.0
+813,2021-2,By Health insurance of adult respondent,United States,Private only,21.6
+814,2021-2,By Health insurance of adult respondent,United States,Any public,23.6
+815,2021-2,By Health insurance of adult respondent,United States,No insurance,20.7
+816,2021-2,By Total household income,United States,"Less than $25,000",26.7
+817,2021-2,By Total household income,United States,"$25,000 - $34,999",18.4
+818,2021-2,By Total household income,United States,"$35,000 - $49,999",21.8
+819,2021-2,By Total household income,United States,"$50,000 - $74,999",20.0
+820,2021-2,By Total household income,United States,"$75,000 - $99,999",25.0
+821,2021-2,By Total household income,United States,"$100,000 - $149,999",17.9
+822,2021-2,By Total household income,United States,"$150,000 - $199,999",22.9
+823,2021-2,By Total household income,United States,"$200,000 and above",26.0
+824,2021-2,By Total household income,United States,Did not report,22.0
+825,2021-2,By State,Alabama,Alabama,23.3
+826,2021-2,By State,Alaska,Alaska,15.6
+827,2021-2,By State,Arizona,Arizona,25.4
+828,2021-2,By State,Arkansas,Arkansas,17.6
+829,2021-2,By State,California,California,28.5
+830,2021-2,By State,Colorado,Colorado,18.5
+831,2021-2,By State,Connecticut,Connecticut,32.2
+832,2021-2,By State,Delaware,Delaware,21.6
+833,2021-2,By State,District of Columbia,District of Columbia,28.9
+834,2021-2,By State,Florida,Florida,19.5
+835,2021-2,By State,Georgia,Georgia,29.2
+836,2021-2,By State,Hawaii,Hawaii,25.6
+837,2021-2,By State,Idaho,Idaho,17.1
+838,2021-2,By State,Illinois,Illinois,20.6
+839,2021-2,By State,Indiana,Indiana,21.4
+840,2021-2,By State,Iowa,Iowa,15.1
+841,2021-2,By State,Kansas,Kansas,16.0
+842,2021-2,By State,Kentucky,Kentucky,19.9
+843,2021-2,By State,Louisiana,Louisiana,18.4
+844,2021-2,By State,Maine,Maine,17.8
+845,2021-2,By State,Maryland,Maryland,31.7
+846,2021-2,By State,Massachusetts,Massachusetts,26.0
+847,2021-2,By State,Michigan,Michigan,22.2
+848,2021-2,By State,Minnesota,Minnesota,19.4
+849,2021-2,By State,Mississippi,Mississippi,20.1
+850,2021-2,By State,Missouri,Missouri,13.0
+851,2021-2,By State,Montana,Montana,12.7
+852,2021-2,By State,Nebraska,Nebraska,17.8
+853,2021-2,By State,Nevada,Nevada,18.9
+854,2021-2,By State,New Hampshire,New Hampshire,25.9
+855,2021-2,By State,New Jersey,New Jersey,26.8
+856,2021-2,By State,New Mexico,New Mexico,23.7
+857,2021-2,By State,New York,New York,24.6
+858,2021-2,By State,North Carolina,North Carolina,19.4
+860,2021-2,By State,Ohio,Ohio,19.3
+861,2021-2,By State,Oklahoma,Oklahoma,21.0
+862,2021-2,By State,Oregon,Oregon,27.0
+863,2021-2,By State,Pennsylvania,Pennsylvania,20.1
+864,2021-2,By State,Rhode Island,Rhode Island,20.0
+865,2021-2,By State,South Carolina,South Carolina,16.9
+866,2021-2,By State,South Dakota,South Dakota,14.4
+867,2021-2,By State,Tennessee,Tennessee,16.6
+868,2021-2,By State,Texas,Texas,20.3
+869,2021-2,By State,Utah,Utah,20.8
+870,2021-2,By State,Vermont,Vermont,24.2
+871,2021-2,By State,Virginia,Virginia,22.6
+872,2021-2,By State,Washington,Washington,25.0
+873,2021-2,By State,West Virginia,West Virginia,18.6
+874,2021-2,By State,Wisconsin,Wisconsin,15.2
+875,2021-2,By State,Wyoming,Wyoming,12.8
+876,2021-3,National Estimate,United States,United States,
+877,2021-3,By Age,United States,18 - 29 years,
+878,2021-3,By Age,United States,30 - 39 years,
+879,2021-3,By Age,United States,40 - 49 years,
+880,2021-3,By Age,United States,50 - 59 years,
+881,2021-3,By Age,United States,60 - 69 years,
+882,2021-3,By Age,United States,70 - 79 years,
+883,2021-3,By Age,United States,80 years and above,
+884,2021-3,By Sex,United States,Male,
+885,2021-3,By Sex,United States,Female,
+886,2021-3,By Race/Hispanic ethnicity,United States,Hispanic or Latino,
+887,2021-3,By Race/Hispanic ethnicity,United States,"Non-Hispanic White, single race",
+888,2021-3,By Race/Hispanic ethnicity,United States,"Non-Hispanic Black, single race",
+889,2021-3,By Race/Hispanic ethnicity,United States,"Non-Hispanic Asian, single race",
+890,2021-3,By Race/Hispanic ethnicity,United States,"Non-Hispanic, other races and multiple races",
+891,2021-3,By Education,United States,Less than a high school diploma,
+892,2021-3,By Education,United States,High school diploma or GED,
+893,2021-3,By Education,United States,Some college/Associate's degree,
+894,2021-3,By Education,United States,Bachelor's degree or higher,
+895,2021-3,By Disability status,United States,With disability,
+896,2021-3,By Disability status,United States,Without disability,
+897,2021-3,National Estimate,United States,United States,20.8
+898,2021-3,By Age,United States,18 - 29 years,16.7
+899,2021-3,By Age,United States,30 - 39 years,20.6
+900,2021-3,By Age,United States,40 - 49 years,21.6
+901,2021-3,By Age,United States,50 - 59 years,21.1
+902,2021-3,By Age,United States,60 - 69 years,21.1
+903,2021-3,By Age,United States,70 - 79 years,22.5
+904,2021-3,By Age,United States,80 years and above,27.1
+905,2021-3,By Sex,United States,Male,18.7
+906,2021-3,By Sex,United States,Female,22.7
+907,2021-3,By Gender identity,United States,Cis-gender female,22.5
+908,2021-3,By Gender identity,United States,Cis-gender male,18.6
+909,2021-3,By Gender identity,United States,Transgender,29.2
+910,2021-3,By Sexual orientation,United States,Gay or lesbian,24.1
+911,2021-3,By Sexual orientation,United States,Straight,20.3
+912,2021-3,By Sexual orientation,United States,Bisexual,26.7
+913,2021-3,By Race/Hispanic ethnicity,United States,Hispanic or Latino,22.3
+914,2021-3,By Race/Hispanic ethnicity,United States,"Non-Hispanic White, single race",19.5
+915,2021-3,By Race/Hispanic ethnicity,United States,"Non-Hispanic Black, single race",25.0
+916,2021-3,By Race/Hispanic ethnicity,United States,"Non-Hispanic Asian, single race",20.7
+917,2021-3,By Race/Hispanic ethnicity,United States,"Non-Hispanic, other races and multiple races",24.2
+918,2021-3,By Education,United States,Less than a high school diploma,19.7
+919,2021-3,By Education,United States,High school diploma or GED,20.0
+920,2021-3,By Education,United States,Some college/Associate's degree,21.8
+921,2021-3,By Education,United States,Bachelor's degree or higher,20.7
+922,2021-3,By Disability status,United States,With disability,33.1
+923,2021-3,By Disability status,United States,Without disability,18.7
+924,2021-3,By State,Alabama,Alabama,15.5
+925,2021-3,By State,Alaska,Alaska,17.1
+926,2021-3,By State,Arizona,Arizona,19.4
+927,2021-3,By State,Arkansas,Arkansas,19.6
+928,2021-3,By State,California,California,28.0
+929,2021-3,By State,Colorado,Colorado,20.6
+930,2021-3,By State,Connecticut,Connecticut,21.3
+931,2021-3,By State,Delaware,Delaware,21.0
+932,2021-3,By State,District of Columbia,District of Columbia,27.6
+933,2021-3,By State,Florida,Florida,21.5
+934,2021-3,By State,Georgia,Georgia,20.5
+935,2021-3,By State,Hawaii,Hawaii,27.2
+936,2021-3,By State,Idaho,Idaho,11.2
+937,2021-3,By State,Illinois,Illinois,19.5
+938,2021-3,By State,Indiana,Indiana,15.2
+939,2021-3,By State,Iowa,Iowa,12.8
+940,2021-3,By State,Kansas,Kansas,14.1
+941,2021-3,By State,Kentucky,Kentucky,18.2
+942,2021-3,By State,Louisiana,Louisiana,16.6
+943,2021-3,By State,Maine,Maine,16.9
+944,2021-3,By State,Maryland,Maryland,28.4
+945,2021-3,By State,Massachusetts,Massachusetts,26.6
+946,2021-3,By State,Michigan,Michigan,19.9
+947,2021-3,By State,Minnesota,Minnesota,15.7
+948,2021-3,By State,Mississippi,Mississippi,17.6
+949,2021-3,By State,Missouri,Missouri,17.7
+950,2021-3,By State,Montana,Montana,15.3
+951,2021-3,By State,Nebraska,Nebraska,13.6
+952,2021-3,By State,Nevada,Nevada,19.3
+953,2021-3,By State,New Hampshire,New Hampshire,19.2
+954,2021-3,By State,New Jersey,New Jersey,21.0
+955,2021-3,By State,New Mexico,New Mexico,23.3
+956,2021-3,By State,New York,New York,23.5
+957,2021-3,By State,North Carolina,North Carolina,19.8
+958,2021-3,By State,North Dakota,North Dakota,11.9
+959,2021-3,By State,Ohio,Ohio,21.1
+960,2021-3,By State,Oklahoma,Oklahoma,15.7
+961,2021-3,By State,Oregon,Oregon,27.5
+962,2021-3,By State,Pennsylvania,Pennsylvania,20.0
+963,2021-3,By State,Rhode Island,Rhode Island,23.4
+964,2021-3,By State,South Carolina,South Carolina,17.6
+965,2021-3,By State,South Dakota,South Dakota,13.8
+966,2021-3,By State,Tennessee,Tennessee,15.5
+967,2021-3,By State,Texas,Texas,18.7
+968,2021-3,By State,Utah,Utah,16.8
+969,2021-3,By State,Vermont,Vermont,24.0
+970,2021-3,By State,Virginia,Virginia,20.7
+971,2021-3,By State,Washington,Washington,20.9
+972,2021-3,By State,West Virginia,West Virginia,13.9
+973,2021-3,By State,Wisconsin,Wisconsin,16.4
+974,2021-3,By State,Wyoming,Wyoming,18.3
+975,2021-3,National Estimate,United States,United States,
+976,2021-3,By Education of adult respondent,United States,High school diploma or GED or lower,
+977,2021-3,By Education of adult respondent,United States,Some college/Associate's degree,
+978,2021-3,By Education of adult respondent,United States,Bachelor's degree or higher,
+979,2021-3,By Race/Hispanic ethnicity of adult respondent,United States,Hispanic or Latino,
+980,2021-3,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic White, single race",
+981,2021-3,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic Black, single race",
+982,2021-3,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic Asian, single race",
+983,2021-3,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic, other races and multiple races",
+984,2021-3,By Current US Armed Forces or National Guard service of adult respondent or spouse,United States,Yes,
+985,2021-3,By Current US Armed Forces or National Guard service of adult respondent or spouse,United States,No,
+986,2021-3,By Health insurance of adult respondent,United States,Private only,
+987,2021-3,By Health insurance of adult respondent,United States,Any public,
+988,2021-3,By Health insurance of adult respondent,United States,No insurance,
+989,2021-3,By Total household income,United States,"Less than $25,000",
+990,2021-3,By Total household income,United States,"$25,000 - $34,999",
+991,2021-3,By Total household income,United States,"$35,000 - $49,999",
+992,2021-3,By Total household income,United States,"$50,000 - $74,999",
+993,2021-3,By Total household income,United States,"$75,000 - $99,999",
+994,2021-3,By Total household income,United States,"$100,000 - $149,999",
+995,2021-3,By Total household income,United States,"$150,000 - $199,999",
+996,2021-3,By Total household income,United States,"$200,000 and above",
+997,2021-3,By Total household income,United States,Did not report,
+998,2021-3,National Estimate,United States,United States,15.7
+999,2021-3,By Education of adult respondent,United States,High school diploma or GED or lower,13.5
+1000,2021-3,By Education of adult respondent,United States,Some college/Associate's degree,16.8
+1001,2021-3,By Education of adult respondent,United States,Bachelor's degree or higher,17.2
+1002,2021-3,By Race/Hispanic ethnicity of adult respondent,United States,Hispanic or Latino,18.4
+1003,2021-3,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic White, single race",14.8
+1004,2021-3,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic Black, single race",15.7
+1005,2021-3,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic Asian, single race",17.4
+1006,2021-3,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic, other races and multiple races",13.3
+1007,2021-3,By Current US Armed Forces or National Guard service of adult respondent or spouse,United States,Yes,16.3
+1008,2021-3,By Current US Armed Forces or National Guard service of adult respondent or spouse,United States,No,15.7
+1009,2021-3,By Health insurance of adult respondent,United States,Private only,16.3
+1010,2021-3,By Health insurance of adult respondent,United States,Any public,16.7
+1011,2021-3,By Health insurance of adult respondent,United States,No insurance,9.8
+1012,2021-3,By Total household income,United States,"Less than $25,000",16.5
+1013,2021-3,By Total household income,United States,"$25,000 - $34,999",15.4
+1014,2021-3,By Total household income,United States,"$35,000 - $49,999",12.7
+1015,2021-3,By Total household income,United States,"$50,000 - $74,999",16.6
+1016,2021-3,By Total household income,United States,"$75,000 - $99,999",14.9
+1017,2021-3,By Total household income,United States,"$100,000 - $149,999",15.6
+1018,2021-3,By Total household income,United States,"$150,000 - $199,999",15.7
+1019,2021-3,By Total household income,United States,"$200,000 and above",17.0
+1020,2021-3,By Total household income,United States,Did not report,16.5
+1021,2021-3,By State,Alabama,Alabama,10.5
+1022,2021-3,By State,Alaska,Alaska,10.0
+1023,2021-3,By State,Arizona,Arizona,15.4
+1024,2021-3,By State,Arkansas,Arkansas,13.1
+1025,2021-3,By State,California,California,18.6
+1026,2021-3,By State,Colorado,Colorado,16.1
+1027,2021-3,By State,Connecticut,Connecticut,24.3
+1028,2021-3,By State,Delaware,Delaware,17.7
+1029,2021-3,By State,District of Columbia,District of Columbia,14.8
+1030,2021-3,By State,Florida,Florida,16.8
+1031,2021-3,By State,Georgia,Georgia,15.4
+1032,2021-3,By State,Hawaii,Hawaii,19.2
+1033,2021-3,By State,Idaho,Idaho,7.2
+1034,2021-3,By State,Illinois,Illinois,19.3
+1035,2021-3,By State,Indiana,Indiana,14.0
+1036,2021-3,By State,Iowa,Iowa,14.9
+1037,2021-3,By State,Kansas,Kansas,16.6
+1038,2021-3,By State,Kentucky,Kentucky,11.2
+1039,2021-3,By State,Louisiana,Louisiana,10.8
+1040,2021-3,By State,Maine,Maine,13.8
+1041,2021-3,By State,Maryland,Maryland,15.4
+1042,2021-3,By State,Massachusetts,Massachusetts,21.7
+1043,2021-3,By State,Michigan,Michigan,15.2
+1044,2021-3,By State,Minnesota,Minnesota,15.9
+1046,2021-3,By State,Missouri,Missouri,13.4
+1047,2021-3,By State,Montana,Montana,9.9
+1048,2021-3,By State,Nebraska,Nebraska,9.3
+1049,2021-3,By State,Nevada,Nevada,11.4
+1050,2021-3,By State,New Hampshire,New Hampshire,19.1
+1051,2021-3,By State,New Jersey,New Jersey,18.7
+1052,2021-3,By State,New Mexico,New Mexico,13.0
+1053,2021-3,By State,New York,New York,19.9
+1054,2021-3,By State,North Carolina,North Carolina,14.1
+1056,2021-3,By State,Ohio,Ohio,16.2
+1057,2021-3,By State,Oklahoma,Oklahoma,8.2
+1058,2021-3,By State,Oregon,Oregon,23.8
+1059,2021-3,By State,Pennsylvania,Pennsylvania,13.7
+1061,2021-3,By State,South Carolina,South Carolina,9.5
+1062,2021-3,By State,South Dakota,South Dakota,11.3
+1063,2021-3,By State,Tennessee,Tennessee,13.2
+1064,2021-3,By State,Texas,Texas,14.2
+1065,2021-3,By State,Utah,Utah,11.9
+1066,2021-3,By State,Vermont,Vermont,16.5
+1067,2021-3,By State,Virginia,Virginia,14.1
+1068,2021-3,By State,Washington,Washington,17.7
+1069,2021-3,By State,West Virginia,West Virginia,9.0
+1070,2021-3,By State,Wisconsin,Wisconsin,18.9
+1072,2021-3,National Estimate,United States,United States,19.6
+1073,2021-3,By Age,United States,18 - 29 years,17.0
+1074,2021-3,By Age,United States,30 - 39 years,19.0
+1075,2021-3,By Age,United States,40 - 49 years,20.2
+1076,2021-3,By Age,United States,50 - 59 years,20.0
+1077,2021-3,By Age,United States,60 - 69 years,19.7
+1078,2021-3,By Age,United States,70 - 79 years,21.1
+1079,2021-3,By Age,United States,80 years and above,24.2
+1080,2021-3,By Sex,United States,Male,17.5
+1081,2021-3,By Sex,United States,Female,21.5
+1082,2021-3,By Gender identity,United States,Cis-gender male,17.2
+1083,2021-3,By Gender identity,United States,Cis-gender female,21.4
+1084,2021-3,By Gender identity,United States,Transgender,34.9
+1085,2021-3,By Sexual orientation,United States,Gay or lesbian,23.8
+1086,2021-3,By Sexual orientation,United States,Straight,19.1
+1087,2021-3,By Sexual orientation,United States,Bisexual,26.2
+1088,2021-3,By Race/Hispanic ethnicity,United States,Hispanic or Latino,21.4
+1089,2021-3,By Race/Hispanic ethnicity,United States,"Non-Hispanic White, single race",18.1
+1090,2021-3,By Race/Hispanic ethnicity,United States,"Non-Hispanic Black, single race",25.5
+1091,2021-3,By Race/Hispanic ethnicity,United States,"Non-Hispanic Asian, single race",20.4
+1092,2021-3,By Race/Hispanic ethnicity,United States,"Non-Hispanic, other races and multiple races",21.3
+1093,2021-3,By Education,United States,Less than a high school diploma,18.5
+1094,2021-3,By Education,United States,High school diploma or GED,17.6
+1095,2021-3,By Education,United States,Some college/Associate's degree,20.7
+1096,2021-3,By Education,United States,Bachelor's degree or higher,20.5
+1097,2021-3,By Disability status,United States,With disability,30.6
+1098,2021-3,By Disability status,United States,Without disability,17.9
+1099,2021-3,By State,Alabama,Alabama,18.2
+1100,2021-3,By State,Alaska,Alaska,15.5
+1101,2021-3,By State,Arizona,Arizona,23.2
+1102,2021-3,By State,Arkansas,Arkansas,15.2
+1103,2021-3,By State,California,California,27.1
+1104,2021-3,By State,Colorado,Colorado,20.8
+1105,2021-3,By State,Connecticut,Connecticut,20.3
+1106,2021-3,By State,Delaware,Delaware,25.1
+1107,2021-3,By State,District of Columbia,District of Columbia,27.9
+1108,2021-3,By State,Florida,Florida,18.8
+1109,2021-3,By State,Georgia,Georgia,23.1
+1110,2021-3,By State,Hawaii,Hawaii,25.3
+1111,2021-3,By State,Idaho,Idaho,13.1
+1112,2021-3,By State,Illinois,Illinois,17.0
+1113,2021-3,By State,Indiana,Indiana,18.6
+1114,2021-3,By State,Iowa,Iowa,12.0
+1115,2021-3,By State,Kansas,Kansas,15.2
+1116,2021-3,By State,Kentucky,Kentucky,20.7
+1117,2021-3,By State,Louisiana,Louisiana,15.9
+1118,2021-3,By State,Maine,Maine,15.2
+1119,2021-3,By State,Maryland,Maryland,23.7
+1120,2021-3,By State,Massachusetts,Massachusetts,24.4
+1121,2021-3,By State,Michigan,Michigan,18.8
+1122,2021-3,By State,Minnesota,Minnesota,17.3
+1123,2021-3,By State,Mississippi,Mississippi,17.1
+1124,2021-3,By State,Missouri,Missouri,17.4
+1125,2021-3,By State,Montana,Montana,11.5
+1126,2021-3,By State,Nebraska,Nebraska,13.1
+1127,2021-3,By State,Nevada,Nevada,20.3
+1128,2021-3,By State,New Hampshire,New Hampshire,17.6
+1129,2021-3,By State,New Jersey,New Jersey,20.0
+1130,2021-3,By State,New Mexico,New Mexico,23.4
+1131,2021-3,By State,New York,New York,20.4
+1132,2021-3,By State,North Carolina,North Carolina,17.8
+1133,2021-3,By State,North Dakota,North Dakota,17.1
+1134,2021-3,By State,Ohio,Ohio,16.0
+1135,2021-3,By State,Oklahoma,Oklahoma,16.9
+1136,2021-3,By State,Oregon,Oregon,23.9
+1137,2021-3,By State,Pennsylvania,Pennsylvania,17.2
+1138,2021-3,By State,Rhode Island,Rhode Island,21.5
+1139,2021-3,By State,South Carolina,South Carolina,15.4
+1140,2021-3,By State,South Dakota,South Dakota,10.4
+1141,2021-3,By State,Tennessee,Tennessee,12.4
+1142,2021-3,By State,Texas,Texas,19.3
+1143,2021-3,By State,Utah,Utah,15.4
+1144,2021-3,By State,Vermont,Vermont,22.3
+1145,2021-3,By State,Virginia,Virginia,17.1
+1146,2021-3,By State,Washington,Washington,18.5
+1147,2021-3,By State,West Virginia,West Virginia,16.0
+1148,2021-3,By State,Wisconsin,Wisconsin,13.2
+1149,2021-3,By State,Wyoming,Wyoming,13.3
+1150,2021-3,National Estimate,United States,United States,15.1
+1151,2021-3,By Education of adult respondent,United States,High school diploma or GED or lower,15.0
+1152,2021-3,By Education of adult respondent,United States,Some college/Associate's degree,14.5
+1153,2021-3,By Education of adult respondent,United States,Bachelor's degree or higher,15.8
+1154,2021-3,By Race/Hispanic ethnicity of adult respondent,United States,Hispanic or Latino,19.8
+1155,2021-3,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic White, single race",13.5
+1156,2021-3,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic Black, single race",13.5
+1157,2021-3,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic Asian, single race",16.4
+1158,2021-3,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic, other races and multiple races",19.7
+1159,2021-3,By Current US Armed Forces or National Guard service of adult respondent or spouse,United States,Yes,15.5
+1160,2021-3,By Current US Armed Forces or National Guard service of adult respondent or spouse,United States,No,15.1
+1161,2021-3,By Health insurance of adult respondent,United States,Private only,15.0
+1162,2021-3,By Health insurance of adult respondent,United States,Any public,15.7
+1163,2021-3,By Health insurance of adult respondent,United States,No insurance,14.9
+1164,2021-3,By Total household income,United States,"Less than $25,000",16.0
+1165,2021-3,By Total household income,United States,"$25,000 - $34,999",14.6
+1166,2021-3,By Total household income,United States,"$35,000 - $49,999",17.5
+1167,2021-3,By Total household income,United States,"$50,000 - $74,999",14.8
+1168,2021-3,By Total household income,United States,"$75,000 - $99,999",13.6
+1169,2021-3,By Total household income,United States,"$100,000 - $149,999",14.3
+1170,2021-3,By Total household income,United States,"$150,000 - $199,999",16.2
+1171,2021-3,By Total household income,United States,"$200,000 and above",15.3
+1172,2021-3,By Total household income,United States,Did not report,14.7
+1173,2021-3,By State,Alabama,Alabama,13.7
+1174,2021-3,By State,Alaska,Alaska,18.8
+1175,2021-3,By State,Arizona,Arizona,12.9
+1176,2021-3,By State,Arkansas,Arkansas,11.2
+1177,2021-3,By State,California,California,21.3
+1178,2021-3,By State,Colorado,Colorado,13.6
+1179,2021-3,By State,Connecticut,Connecticut,18.2
+1180,2021-3,By State,Delaware,Delaware,16.1
+1181,2021-3,By State,District of Columbia,District of Columbia,18.7
+1182,2021-3,By State,Florida,Florida,12.1
+1184,2021-3,By State,Hawaii,Hawaii,20.1
+1185,2021-3,By State,Idaho,Idaho,7.9
+1186,2021-3,By State,Illinois,Illinois,12.6
+1187,2021-3,By State,Indiana,Indiana,13.0
+1188,2021-3,By State,Iowa,Iowa,9.3
+1189,2021-3,By State,Kansas,Kansas,13.6
+1190,2021-3,By State,Kentucky,Kentucky,16.5
+1191,2021-3,By State,Louisiana,Louisiana,15.3
+1192,2021-3,By State,Maine,Maine,8.5
+1193,2021-3,By State,Maryland,Maryland,14.1
+1194,2021-3,By State,Massachusetts,Massachusetts,21.7
+1195,2021-3,By State,Michigan,Michigan,14.3
+1196,2021-3,By State,Minnesota,Minnesota,12.1
+1197,2021-3,By State,Mississippi,Mississippi,15.7
+1198,2021-3,By State,Missouri,Missouri,14.9
+1199,2021-3,By State,Montana,Montana,10.6
+1200,2021-3,By State,Nebraska,Nebraska,14.0
+1201,2021-3,By State,Nevada,Nevada,10.1
+1202,2021-3,By State,New Hampshire,New Hampshire,18.3
+1203,2021-3,By State,New Jersey,New Jersey,16.8
+1204,2021-3,By State,New Mexico,New Mexico,20.4
+1205,2021-3,By State,New York,New York,12.1
+1206,2021-3,By State,North Carolina,North Carolina,14.4
+1208,2021-3,By State,Ohio,Ohio,13.7
+1209,2021-3,By State,Oklahoma,Oklahoma,12.3
+1210,2021-3,By State,Oregon,Oregon,17.1
+1211,2021-3,By State,Pennsylvania,Pennsylvania,17.9
+1212,2021-3,By State,Rhode Island,Rhode Island,18.1
+1213,2021-3,By State,South Carolina,South Carolina,7.7
+1215,2021-3,By State,Tennessee,Tennessee,12.0
+1216,2021-3,By State,Texas,Texas,15.6
+1217,2021-3,By State,Utah,Utah,9.9
+1218,2021-3,By State,Vermont,Vermont,19.8
+1219,2021-3,By State,Virginia,Virginia,21.7
+1220,2021-3,By State,Washington,Washington,13.7
+1221,2021-3,By State,West Virginia,West Virginia,10.5
+1222,2021-3,By State,Wisconsin,Wisconsin,13.3
+1223,2021-3,By State,Wyoming,Wyoming,21.2
+1224,2021-3,National Estimate,United States,United States,20.0
+1225,2021-3,By Age,United States,18 - 29 years,15.8
+1226,2021-3,By Age,United States,30 - 39 years,18.7
+1227,2021-3,By Age,United States,40 - 49 years,19.9
+1228,2021-3,By Age,United States,50 - 59 years,21.9
+1229,2021-3,By Age,United States,60 - 69 years,19.9
+1230,2021-3,By Age,United States,70 - 79 years,22.9
+1231,2021-3,By Age,United States,80 years and above,27.3
+1232,2021-3,By Sex,United States,Male,17.9
+1233,2021-3,By Sex,United States,Female,21.9
+1234,2021-3,By Gender identity,United States,Cis-gender male,17.8
+1235,2021-3,By Gender identity,United States,Cis-gender female,21.8
+1236,2021-3,By Gender identity,United States,Transgender,21.6
+1237,2021-3,By Sexual orientation,United States,Gay or lesbian,24.5
+1238,2021-3,By Sexual orientation,United States,Straight,19.4
+1239,2021-3,By Sexual orientation,United States,Bisexual,24.9
+1240,2021-3,By Race/Hispanic ethnicity,United States,Hispanic or Latino,22.3
+1241,2021-3,By Race/Hispanic ethnicity,United States,"Non-Hispanic White, single race",18.4
+1242,2021-3,By Race/Hispanic ethnicity,United States,"Non-Hispanic Black, single race",24.3
+1243,2021-3,By Race/Hispanic ethnicity,United States,"Non-Hispanic Asian, single race",22.3
+1244,2021-3,By Race/Hispanic ethnicity,United States,"Non-Hispanic, other races and multiple races",21.4
+1245,2021-3,By Education,United States,Less than a high school diploma,24.5
+1246,2021-3,By Education,United States,High school diploma or GED,17.8
+1247,2021-3,By Education,United States,Some college/Associate's degree,19.9
+1248,2021-3,By Education,United States,Bachelor's degree or higher,21.0
+1249,2021-3,By Disability status,United States,With disability,30.9
+1250,2021-3,By Disability status,United States,Without disability,18.1
+1251,2021-3,By State,Alabama,Alabama,16.5
+1252,2021-3,By State,Alaska,Alaska,19.4
+1253,2021-3,By State,Arizona,Arizona,23.9
+1254,2021-3,By State,Arkansas,Arkansas,18.0
+1255,2021-3,By State,California,California,27.9
+1256,2021-3,By State,Colorado,Colorado,14.8
+1257,2021-3,By State,Connecticut,Connecticut,23.2
+1258,2021-3,By State,Delaware,Delaware,22.5
+1259,2021-3,By State,District of Columbia,District of Columbia,35.8
+1260,2021-3,By State,Florida,Florida,20.9
+1261,2021-3,By State,Georgia,Georgia,20.5
+1262,2021-3,By State,Hawaii,Hawaii,26.6
+1263,2021-3,By State,Idaho,Idaho,11.5
+1264,2021-3,By State,Illinois,Illinois,18.1
+1265,2021-3,By State,Indiana,Indiana,17.0
+1266,2021-3,By State,Iowa,Iowa,12.8
+1267,2021-3,By State,Kansas,Kansas,11.3
+1268,2021-3,By State,Kentucky,Kentucky,17.8
+1269,2021-3,By State,Louisiana,Louisiana,21.1
+1270,2021-3,By State,Maine,Maine,18.9
+1271,2021-3,By State,Maryland,Maryland,24.9
+1272,2021-3,By State,Massachusetts,Massachusetts,23.5
+1273,2021-3,By State,Michigan,Michigan,19.4
+1274,2021-3,By State,Minnesota,Minnesota,15.1
+1275,2021-3,By State,Mississippi,Mississippi,12.7
+1276,2021-3,By State,Missouri,Missouri,13.5
+1277,2021-3,By State,Montana,Montana,14.9
+1278,2021-3,By State,Nebraska,Nebraska,14.2
+1279,2021-3,By State,Nevada,Nevada,17.9
+1280,2021-3,By State,New Hampshire,New Hampshire,15.5
+1281,2021-3,By State,New Jersey,New Jersey,22.2
+1282,2021-3,By State,New Mexico,New Mexico,20.0
+1283,2021-3,By State,New York,New York,22.4
+1284,2021-3,By State,North Carolina,North Carolina,20.5
+1285,2021-3,By State,North Dakota,North Dakota,14.9
+1286,2021-3,By State,Ohio,Ohio,16.6
+1287,2021-3,By State,Oklahoma,Oklahoma,19.1
+1288,2021-3,By State,Oregon,Oregon,19.8
+1289,2021-3,By State,Pennsylvania,Pennsylvania,17.7
+1290,2021-3,By State,Rhode Island,Rhode Island,22.3
+1291,2021-3,By State,South Carolina,South Carolina,17.9
+1292,2021-3,By State,South Dakota,South Dakota,13.9
+1293,2021-3,By State,Tennessee,Tennessee,14.8
+1294,2021-3,By State,Texas,Texas,17.6
+1295,2021-3,By State,Utah,Utah,16.5
+1296,2021-3,By State,Vermont,Vermont,17.3
+1297,2021-3,By State,Virginia,Virginia,20.9
+1298,2021-3,By State,Washington,Washington,20.3
+1299,2021-3,By State,West Virginia,West Virginia,15.4
+1300,2021-3,By State,Wisconsin,Wisconsin,14.5
+1301,2021-3,By State,Wyoming,Wyoming,17.3
+1302,2021-3,National Estimate,United States,United States,15.1
+1303,2021-3,By Education of adult respondent,United States,High school diploma or GED or lower,14.6
+1304,2021-3,By Education of adult respondent,United States,Some college/Associate's degree,14.7
+1305,2021-3,By Education of adult respondent,United States,Bachelor's degree or higher,16.0
+1306,2021-3,By Race/Hispanic ethnicity of adult respondent,United States,Hispanic or Latino,17.8
+1307,2021-3,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic White, single race",13.6
+1308,2021-3,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic Black, single race",16.3
+1309,2021-3,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic Asian, single race",16.5
+1310,2021-3,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic, other races and multiple races",17.3
+1311,2021-3,By Current US Armed Forces or National Guard service of adult respondent or spouse,United States,Yes,16.6
+1312,2021-3,By Current US Armed Forces or National Guard service of adult respondent or spouse,United States,No,15.1
+1313,2021-3,By Health insurance of adult respondent,United States,Private only,14.4
+1314,2021-3,By Health insurance of adult respondent,United States,Any public,17.4
+1315,2021-3,By Health insurance of adult respondent,United States,No insurance,12.8
+1316,2021-3,By Total household income,United States,"Less than $25,000",15.7
+1317,2021-3,By Total household income,United States,"$25,000 - $34,999",15.7
+1318,2021-3,By Total household income,United States,"$35,000 - $49,999",19.2
+1319,2021-3,By Total household income,United States,"$50,000 - $74,999",12.5
+1320,2021-3,By Total household income,United States,"$75,000 - $99,999",13.6
+1321,2021-3,By Total household income,United States,"$100,000 - $149,999",13.9
+1322,2021-3,By Total household income,United States,"$150,000 - $199,999",14.8
+1323,2021-3,By Total household income,United States,"$200,000 and above",15.6
+1324,2021-3,By Total household income,United States,Did not report,15.9
+1325,2021-3,By State,Alabama,Alabama,10.2
+1326,2021-3,By State,Alaska,Alaska,13.4
+1327,2021-3,By State,Arizona,Arizona,20.5
+1328,2021-3,By State,Arkansas,Arkansas,14.0
+1329,2021-3,By State,California,California,16.8
+1330,2021-3,By State,Colorado,Colorado,16.2
+1331,2021-3,By State,Connecticut,Connecticut,18.1
+1332,2021-3,By State,Delaware,Delaware,29.0
+1333,2021-3,By State,District of Columbia,District of Columbia,31.1
+1334,2021-3,By State,Florida,Florida,12.7
+1335,2021-3,By State,Georgia,Georgia,13.5
+1336,2021-3,By State,Hawaii,Hawaii,20.2
+1337,2021-3,By State,Idaho,Idaho,9.9
+1338,2021-3,By State,Illinois,Illinois,16.1
+1339,2021-3,By State,Indiana,Indiana,13.6
+1340,2021-3,By State,Iowa,Iowa,7.4
+1341,2021-3,By State,Kansas,Kansas,11.7
+1342,2021-3,By State,Kentucky,Kentucky,16.4
+1343,2021-3,By State,Louisiana,Louisiana,15.7
+1344,2021-3,By State,Maine,Maine,7.6
+1345,2021-3,By State,Maryland,Maryland,17.8
+1346,2021-3,By State,Massachusetts,Massachusetts,18.8
+1347,2021-3,By State,Michigan,Michigan,18.4
+1348,2021-3,By State,Minnesota,Minnesota,12.7
+1349,2021-3,By State,Mississippi,Mississippi,16.3
+1350,2021-3,By State,Missouri,Missouri,13.7
+1351,2021-3,By State,Montana,Montana,13.8
+1352,2021-3,By State,Nebraska,Nebraska,8.9
+1353,2021-3,By State,Nevada,Nevada,11.3
+1354,2021-3,By State,New Hampshire,New Hampshire,13.2
+1355,2021-3,By State,New Jersey,New Jersey,19.3
+1356,2021-3,By State,New Mexico,New Mexico,14.8
+1357,2021-3,By State,New York,New York,12.5
+1358,2021-3,By State,North Carolina,North Carolina,10.9
+1360,2021-3,By State,Ohio,Ohio,15.8
+1361,2021-3,By State,Oklahoma,Oklahoma,12.6
+1362,2021-3,By State,Oregon,Oregon,19.7
+1363,2021-3,By State,Pennsylvania,Pennsylvania,16.7
+1364,2021-3,By State,Rhode Island,Rhode Island,16.2
+1365,2021-3,By State,South Carolina,South Carolina,9.7
+1366,2021-3,By State,South Dakota,South Dakota,13.6
+1367,2021-3,By State,Tennessee,Tennessee,14.0
+1368,2021-3,By State,Texas,Texas,17.0
+1369,2021-3,By State,Utah,Utah,15.2
+1370,2021-3,By State,Vermont,Vermont,15.8
+1371,2021-3,By State,Virginia,Virginia,16.9
+1372,2021-3,By State,Washington,Washington,13.8
+1373,2021-3,By State,West Virginia,West Virginia,14.3
+1374,2021-3,By State,Wisconsin,Wisconsin,10.8
+1375,2021-3,By State,Wyoming,Wyoming,9.0
+1376,2021-3,National Estimate,United States,United States,20.1
+1377,2021-3,By Age,United States,18 - 29 years,17.2
+1378,2021-3,By Age,United States,30 - 39 years,18.6
+1379,2021-3,By Age,United States,40 - 49 years,20.8
+1380,2021-3,By Age,United States,50 - 59 years,21.4
+1381,2021-3,By Age,United States,60 - 69 years,20.3
+1382,2021-3,By Age,United States,70 - 79 years,21.2
+1383,2021-3,By Age,United States,80 years and above,26.7
+1384,2021-3,By Sex,United States,Male,18.4
+1385,2021-3,By Sex,United States,Female,21.7
+1386,2021-3,By Gender identity,United States,Cis-gender male,18.4
+1387,2021-3,By Gender identity,United States,Cis-gender female,21.6
+1388,2021-3,By Gender identity,United States,Transgender,26.0
+1389,2021-3,By Sexual orientation,United States,Gay or lesbian,24.8
+1390,2021-3,By Sexual orientation,United States,Straight,19.4
+1391,2021-3,By Sexual orientation,United States,Bisexual,26.6
+1392,2021-3,By Race/Hispanic ethnicity,United States,Hispanic or Latino,20.0
+1393,2021-3,By Race/Hispanic ethnicity,United States,"Non-Hispanic White, single race",19.4
+1394,2021-3,By Race/Hispanic ethnicity,United States,"Non-Hispanic Black, single race",22.6
+1395,2021-3,By Race/Hispanic ethnicity,United States,"Non-Hispanic Asian, single race",20.3
+1396,2021-3,By Race/Hispanic ethnicity,United States,"Non-Hispanic, other races and multiple races",25.6
+1397,2021-3,By Education,United States,Less than a high school diploma,19.8
+1398,2021-3,By Education,United States,High school diploma or GED,19.0
+1399,2021-3,By Education,United States,Some college/Associate's degree,20.3
+1400,2021-3,By Education,United States,Bachelor's degree or higher,20.9
+1401,2021-3,By Disability status,United States,With disability,30.5
+1402,2021-3,By Disability status,United States,Without disability,18.4
+1403,2021-3,By State,Alabama,Alabama,15.5
+1404,2021-3,By State,Alaska,Alaska,19.1
+1405,2021-3,By State,Arizona,Arizona,20.5
+1406,2021-3,By State,Arkansas,Arkansas,15.8
+1407,2021-3,By State,California,California,26.2
+1408,2021-3,By State,Colorado,Colorado,22.0
+1409,2021-3,By State,Connecticut,Connecticut,23.9
+1410,2021-3,By State,Delaware,Delaware,27.2
+1411,2021-3,By State,District of Columbia,District of Columbia,26.6
+1412,2021-3,By State,Florida,Florida,19.3
+1413,2021-3,By State,Georgia,Georgia,22.1
+1414,2021-3,By State,Hawaii,Hawaii,28.7
+1415,2021-3,By State,Idaho,Idaho,16.2
+1416,2021-3,By State,Illinois,Illinois,16.7
+1417,2021-3,By State,Indiana,Indiana,18.5
+1418,2021-3,By State,Iowa,Iowa,14.3
+1419,2021-3,By State,Kansas,Kansas,17.4
+1420,2021-3,By State,Kentucky,Kentucky,18.9
+1421,2021-3,By State,Louisiana,Louisiana,18.5
+1422,2021-3,By State,Maine,Maine,17.7
+1423,2021-3,By State,Maryland,Maryland,22.5
+1424,2021-3,By State,Massachusetts,Massachusetts,29.4
+1425,2021-3,By State,Michigan,Michigan,16.4
+1426,2021-3,By State,Minnesota,Minnesota,18.1
+1427,2021-3,By State,Mississippi,Mississippi,17.3
+1428,2021-3,By State,Missouri,Missouri,15.4
+1429,2021-3,By State,Montana,Montana,21.8
+1430,2021-3,By State,Nebraska,Nebraska,13.4
+1431,2021-3,By State,Nevada,Nevada,20.6
+1432,2021-3,By State,New Hampshire,New Hampshire,19.5
+1433,2021-3,By State,New Jersey,New Jersey,20.9
+1434,2021-3,By State,New Mexico,New Mexico,23.0
+1435,2021-3,By State,New York,New York,17.7
+1436,2021-3,By State,North Carolina,North Carolina,14.0
+1437,2021-3,By State,North Dakota,North Dakota,10.0
+1438,2021-3,By State,Ohio,Ohio,21.1
+1439,2021-3,By State,Oklahoma,Oklahoma,15.8
+1440,2021-3,By State,Oregon,Oregon,26.4
+1441,2021-3,By State,Pennsylvania,Pennsylvania,21.2
+1442,2021-3,By State,Rhode Island,Rhode Island,22.9
+1443,2021-3,By State,South Carolina,South Carolina,22.6
+1444,2021-3,By State,South Dakota,South Dakota,16.6
+1445,2021-3,By State,Tennessee,Tennessee,18.5
+1446,2021-3,By State,Texas,Texas,20.2
+1447,2021-3,By State,Utah,Utah,15.5
+1448,2021-3,By State,Vermont,Vermont,21.3
+1449,2021-3,By State,Virginia,Virginia,19.0
+1450,2021-3,By State,Washington,Washington,21.6
+1451,2021-3,By State,West Virginia,West Virginia,14.5
+1452,2021-3,By State,Wisconsin,Wisconsin,13.7
+1453,2021-3,By State,Wyoming,Wyoming,9.7
+1454,2021-3,National Estimate,United States,United States,16.6
+1455,2021-3,By Education of adult respondent,United States,High school diploma or GED or lower,16.5
+1456,2021-3,By Education of adult respondent,United States,Some college/Associate's degree,16.2
+1457,2021-3,By Education of adult respondent,United States,Bachelor's degree or higher,17.2
+1458,2021-3,By Race/Hispanic ethnicity of adult respondent,United States,Hispanic or Latino,19.6
+1459,2021-3,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic White, single race",15.8
+1460,2021-3,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic Black, single race",16.9
+1461,2021-3,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic Asian, single race",15.6
+1462,2021-3,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic, other races and multiple races",16.1
+1463,2021-3,By Current US Armed Forces or National Guard service of adult respondent or spouse,United States,Yes,18.6
+1464,2021-3,By Current US Armed Forces or National Guard service of adult respondent or spouse,United States,No,16.6
+1465,2021-3,By Health insurance of adult respondent,United States,Private only,16.4
+1466,2021-3,By Health insurance of adult respondent,United States,Any public,17.8
+1467,2021-3,By Health insurance of adult respondent,United States,No insurance,15.4
+1468,2021-3,By Total household income,United States,"Less than $25,000",16.4
+1469,2021-3,By Total household income,United States,"$25,000 - $34,999",20.4
+1470,2021-3,By Total household income,United States,"$35,000 - $49,999",15.2
+1471,2021-3,By Total household income,United States,"$50,000 - $74,999",18.1
+1472,2021-3,By Total household income,United States,"$75,000 - $99,999",14.8
+1473,2021-3,By Total household income,United States,"$100,000 - $149,999",12.8
+1474,2021-3,By Total household income,United States,"$150,000 - $199,999",17.4
+1475,2021-3,By Total household income,United States,"$200,000 and above",20.7
+1476,2021-3,By Total household income,United States,Did not report,16.5
+1477,2021-3,By State,Alabama,Alabama,13.6
+1478,2021-3,By State,Alaska,Alaska,17.2
+1479,2021-3,By State,Arizona,Arizona,13.1
+1480,2021-3,By State,Arkansas,Arkansas,13.2
+1481,2021-3,By State,California,California,22.9
+1482,2021-3,By State,Colorado,Colorado,16.0
+1483,2021-3,By State,Connecticut,Connecticut,10.1
+1484,2021-3,By State,Delaware,Delaware,24.2
+1485,2021-3,By State,District of Columbia,District of Columbia,18.2
+1486,2021-3,By State,Florida,Florida,25.8
+1487,2021-3,By State,Georgia,Georgia,16.8
+1488,2021-3,By State,Hawaii,Hawaii,15.8
+1489,2021-3,By State,Idaho,Idaho,17.2
+1490,2021-3,By State,Illinois,Illinois,15.3
+1491,2021-3,By State,Indiana,Indiana,20.1
+1492,2021-3,By State,Iowa,Iowa,16.0
+1493,2021-3,By State,Kansas,Kansas,12.0
+1494,2021-3,By State,Kentucky,Kentucky,13.9
+1495,2021-3,By State,Louisiana,Louisiana,8.0
+1496,2021-3,By State,Maine,Maine,16.2
+1497,2021-3,By State,Maryland,Maryland,17.8
+1498,2021-3,By State,Massachusetts,Massachusetts,20.4
+1499,2021-3,By State,Michigan,Michigan,11.0
+1500,2021-3,By State,Minnesota,Minnesota,13.3
+1501,2021-3,By State,Mississippi,Mississippi,9.7
+1502,2021-3,By State,Missouri,Missouri,10.4
+1504,2021-3,By State,Nebraska,Nebraska,9.9
+1505,2021-3,By State,Nevada,Nevada,15.8
+1506,2021-3,By State,New Hampshire,New Hampshire,17.1
+1507,2021-3,By State,New Jersey,New Jersey,15.7
+1508,2021-3,By State,New Mexico,New Mexico,17.8
+1509,2021-3,By State,New York,New York,17.2
+1510,2021-3,By State,North Carolina,North Carolina,14.0
+1511,2021-3,By State,North Dakota,North Dakota,13.8
+1512,2021-3,By State,Ohio,Ohio,13.0
+1513,2021-3,By State,Oklahoma,Oklahoma,19.1
+1514,2021-3,By State,Oregon,Oregon,15.3
+1515,2021-3,By State,Pennsylvania,Pennsylvania,16.6
+1516,2021-3,By State,Rhode Island,Rhode Island,15.7
+1517,2021-3,By State,South Carolina,South Carolina,10.8
+1518,2021-3,By State,South Dakota,South Dakota,12.4
+1519,2021-3,By State,Tennessee,Tennessee,15.0
+1520,2021-3,By State,Texas,Texas,15.8
+1521,2021-3,By State,Utah,Utah,11.1
+1522,2021-3,By State,Vermont,Vermont,16.0
+1523,2021-3,By State,Virginia,Virginia,16.8
+1524,2021-3,By State,Washington,Washington,18.2
+1525,2021-3,By State,West Virginia,West Virginia,16.7
+1526,2021-3,By State,Wisconsin,Wisconsin,15.4
+1527,2021-3,By State,Wyoming,Wyoming,11.6
+1528,2021-3,National Estimate,United States,United States,20.6
+1529,2021-3,By Age,United States,18 - 29 years,16.5
+1530,2021-3,By Age,United States,30 - 39 years,19.4
+1531,2021-3,By Age,United States,40 - 49 years,20.9
+1532,2021-3,By Age,United States,50 - 59 years,22.8
+1533,2021-3,By Age,United States,60 - 69 years,20.9
+1534,2021-3,By Age,United States,70 - 79 years,22.0
+1535,2021-3,By Age,United States,80 years and above,28.1
+1536,2021-3,By Sex,United States,Male,18.6
+1537,2021-3,By Sex,United States,Female,22.5
+1538,2021-3,By Gender identity,United States,Cis-gender male,18.7
+1539,2021-3,By Gender identity,United States,Cis-gender female,22.4
+1540,2021-3,By Gender identity,United States,Transgender,25.3
+1541,2021-3,By Sexual orientation,United States,Gay or lesbian,24.3
+1542,2021-3,By Sexual orientation,United States,Straight,20.0
+1543,2021-3,By Sexual orientation,United States,Bisexual,22.5
+1544,2021-3,By Race/Hispanic ethnicity,United States,Hispanic or Latino,22.9
+1545,2021-3,By Race/Hispanic ethnicity,United States,"Non-Hispanic White, single race",19.1
+1546,2021-3,By Race/Hispanic ethnicity,United States,"Non-Hispanic Black, single race",25.2
+1547,2021-3,By Race/Hispanic ethnicity,United States,"Non-Hispanic Asian, single race",18.7
+1548,2021-3,By Race/Hispanic ethnicity,United States,"Non-Hispanic, other races and multiple races",28.1
+1549,2021-3,By Education,United States,Less than a high school diploma,27.2
+1550,2021-3,By Education,United States,High school diploma or GED,17.6
+1551,2021-3,By Education,United States,Some college/Associate's degree,21.5
+1552,2021-3,By Education,United States,Bachelor's degree or higher,21.1
+1553,2021-3,By Disability status,United States,With disability,31.7
+1554,2021-3,By Disability status,United States,Without disability,18.7
+1555,2021-3,By State,Alabama,Alabama,20.5
+1556,2021-3,By State,Alaska,Alaska,22.8
+1557,2021-3,By State,Arizona,Arizona,25.8
+1558,2021-3,By State,Arkansas,Arkansas,19.6
+1559,2021-3,By State,California,California,29.1
+1560,2021-3,By State,Colorado,Colorado,15.7
+1561,2021-3,By State,Connecticut,Connecticut,21.6
+1562,2021-3,By State,Delaware,Delaware,18.7
+1563,2021-3,By State,District of Columbia,District of Columbia,24.9
+1564,2021-3,By State,Florida,Florida,24.1
+1565,2021-3,By State,Georgia,Georgia,20.3
+1566,2021-3,By State,Hawaii,Hawaii,24.5
+1567,2021-3,By State,Idaho,Idaho,13.2
+1568,2021-3,By State,Illinois,Illinois,15.4
+1569,2021-3,By State,Indiana,Indiana,15.9
+1570,2021-3,By State,Iowa,Iowa,16.8
+1571,2021-3,By State,Kansas,Kansas,14.0
+1572,2021-3,By State,Kentucky,Kentucky,16.6
+1573,2021-3,By State,Louisiana,Louisiana,17.9
+1574,2021-3,By State,Maine,Maine,13.0
+1575,2021-3,By State,Maryland,Maryland,23.5
+1576,2021-3,By State,Massachusetts,Massachusetts,25.5
+1577,2021-3,By State,Michigan,Michigan,18.0
+1578,2021-3,By State,Minnesota,Minnesota,15.5
+1579,2021-3,By State,Mississippi,Mississippi,17.3
+1580,2021-3,By State,Missouri,Missouri,18.6
+1581,2021-3,By State,Montana,Montana,15.4
+1582,2021-3,By State,Nebraska,Nebraska,13.4
+1583,2021-3,By State,Nevada,Nevada,22.7
+1584,2021-3,By State,New Hampshire,New Hampshire,18.9
+1585,2021-3,By State,New Jersey,New Jersey,22.3
+1586,2021-3,By State,New Mexico,New Mexico,23.5
+1587,2021-3,By State,New York,New York,21.4
+1588,2021-3,By State,North Carolina,North Carolina,17.5
+1589,2021-3,By State,North Dakota,North Dakota,15.7
+1590,2021-3,By State,Ohio,Ohio,13.6
+1591,2021-3,By State,Oklahoma,Oklahoma,15.2
+1592,2021-3,By State,Oregon,Oregon,27.4
+1593,2021-3,By State,Pennsylvania,Pennsylvania,16.6
+1594,2021-3,By State,Rhode Island,Rhode Island,25.0
+1595,2021-3,By State,South Carolina,South Carolina,17.9
+1596,2021-3,By State,South Dakota,South Dakota,13.2
+1597,2021-3,By State,Tennessee,Tennessee,21.2
+1598,2021-3,By State,Texas,Texas,21.2
+1599,2021-3,By State,Utah,Utah,17.8
+1600,2021-3,By State,Vermont,Vermont,25.3
+1601,2021-3,By State,Virginia,Virginia,18.8
+1602,2021-3,By State,Washington,Washington,20.0
+1603,2021-3,By State,West Virginia,West Virginia,17.0
+1604,2021-3,By State,Wisconsin,Wisconsin,13.7
+1605,2021-3,By State,Wyoming,Wyoming,13.5
+1606,2021-3,National Estimate,United States,United States,16.7
+1607,2021-3,By Education of adult respondent,United States,High school diploma or GED or lower,14.5
+1608,2021-3,By Education of adult respondent,United States,Some college/Associate's degree,18.1
+1609,2021-3,By Education of adult respondent,United States,Bachelor's degree or higher,17.6
+1610,2021-3,By Race/Hispanic ethnicity of adult respondent,United States,Hispanic or Latino,18.3
+1611,2021-3,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic White, single race",15.2
+1612,2021-3,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic Black, single race",18.4
+1613,2021-3,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic Asian, single race",19.9
+1614,2021-3,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic, other races and multiple races",20.0
+1615,2021-3,By Current US Armed Forces or National Guard service of adult respondent or spouse,United States,Yes,13.5
+1616,2021-3,By Current US Armed Forces or National Guard service of adult respondent or spouse,United States,No,16.7
+1617,2021-3,By Health insurance of adult respondent,United States,Private only,16.4
+1618,2021-3,By Health insurance of adult respondent,United States,Any public,18.1
+1619,2021-3,By Health insurance of adult respondent,United States,No insurance,12.9
+1620,2021-3,By Total household income,United States,"Less than $25,000",17.3
+1621,2021-3,By Total household income,United States,"$25,000 - $34,999",17.3
+1622,2021-3,By Total household income,United States,"$35,000 - $49,999",20.4
+1623,2021-3,By Total household income,United States,"$50,000 - $74,999",17.2
+1624,2021-3,By Total household income,United States,"$75,000 - $99,999",14.0
+1625,2021-3,By Total household income,United States,"$100,000 - $149,999",15.8
+1626,2021-3,By Total household income,United States,"$150,000 - $199,999",17.2
+1627,2021-3,By Total household income,United States,"$200,000 and above",17.7
+1628,2021-3,By Total household income,United States,Did not report,14.6
+1629,2021-3,By State,Alabama,Alabama,20.2
+1630,2021-3,By State,Alaska,Alaska,15.0
+1631,2021-3,By State,Arizona,Arizona,18.3
+1632,2021-3,By State,Arkansas,Arkansas,9.3
+1633,2021-3,By State,California,California,19.8
+1634,2021-3,By State,Colorado,Colorado,15.8
+1635,2021-3,By State,Connecticut,Connecticut,19.9
+1636,2021-3,By State,Delaware,Delaware,21.5
+1637,2021-3,By State,District of Columbia,District of Columbia,22.6
+1638,2021-3,By State,Florida,Florida,18.2
+1639,2021-3,By State,Georgia,Georgia,20.3
+1640,2021-3,By State,Hawaii,Hawaii,22.9
+1641,2021-3,By State,Idaho,Idaho,10.8
+1642,2021-3,By State,Illinois,Illinois,19.0
+1643,2021-3,By State,Indiana,Indiana,11.8
+1644,2021-3,By State,Iowa,Iowa,10.1
+1645,2021-3,By State,Kansas,Kansas,17.2
+1646,2021-3,By State,Kentucky,Kentucky,13.1
+1647,2021-3,By State,Louisiana,Louisiana,10.3
+1648,2021-3,By State,Maine,Maine,20.6
+1649,2021-3,By State,Maryland,Maryland,15.2
+1650,2021-3,By State,Massachusetts,Massachusetts,17.8
+1651,2021-3,By State,Michigan,Michigan,11.0
+1652,2021-3,By State,Minnesota,Minnesota,10.4
+1653,2021-3,By State,Mississippi,Mississippi,18.7
+1654,2021-3,By State,Missouri,Missouri,15.3
+1655,2021-3,By State,Montana,Montana,10.8
+1656,2021-3,By State,Nebraska,Nebraska,11.3
+1657,2021-3,By State,Nevada,Nevada,18.6
+1658,2021-3,By State,New Hampshire,New Hampshire,17.8
+1659,2021-3,By State,New Jersey,New Jersey,19.2
+1660,2021-3,By State,New Mexico,New Mexico,14.9
+1661,2021-3,By State,New York,New York,18.4
+1662,2021-3,By State,North Carolina,North Carolina,17.0
+1664,2021-3,By State,Ohio,Ohio,17.4
+1665,2021-3,By State,Oklahoma,Oklahoma,17.2
+1666,2021-3,By State,Oregon,Oregon,25.5
+1667,2021-3,By State,Pennsylvania,Pennsylvania,15.5
+1668,2021-3,By State,Rhode Island,Rhode Island,18.5
+1669,2021-3,By State,South Carolina,South Carolina,19.7
+1671,2021-3,By State,Tennessee,Tennessee,15.2
+1672,2021-3,By State,Texas,Texas,16.3
+1673,2021-3,By State,Utah,Utah,11.3
+1674,2021-3,By State,Vermont,Vermont,15.2
+1675,2021-3,By State,Virginia,Virginia,17.4
+1676,2021-3,By State,Washington,Washington,13.9
+1677,2021-3,By State,West Virginia,West Virginia,17.1
+1678,2021-3,By State,Wisconsin,Wisconsin,8.6
+1679,2021-3,By State,Wyoming,Wyoming,7.8
+1680,2021-3,National Estimate,United States,United States,20.5
+1681,2021-3,By Age,United States,18 - 29 years,14.9
+1682,2021-3,By Age,United States,30 - 39 years,20.5
+1683,2021-3,By Age,United States,40 - 49 years,20.7
+1684,2021-3,By Age,United States,50 - 59 years,21.1
+1685,2021-3,By Age,United States,60 - 69 years,21.9
+1686,2021-3,By Age,United States,70 - 79 years,24.4
+1687,2021-3,By Age,United States,80 years and above,19.4
+1688,2021-3,By Sex,United States,Male,17.9
+1689,2021-3,By Sex,United States,Female,22.9
+1690,2021-3,By Gender identity,United States,Cis-gender male,17.7
+1691,2021-3,By Gender identity,United States,Cis-gender female,22.7
+1692,2021-3,By Gender identity,United States,Transgender,35.0
+1693,2021-3,By Sexual orientation,United States,Gay or lesbian,25.2
+1694,2021-3,By Sexual orientation,United States,Straight,19.9
+1695,2021-3,By Sexual orientation,United States,Bisexual,27.4
+1696,2021-3,By Race/Hispanic ethnicity,United States,Hispanic or Latino,22.1
+1697,2021-3,By Race/Hispanic ethnicity,United States,"Non-Hispanic White, single race",19.5
+1698,2021-3,By Race/Hispanic ethnicity,United States,"Non-Hispanic Black, single race",25.4
+1699,2021-3,By Race/Hispanic ethnicity,United States,"Non-Hispanic Asian, single race",18.9
+1700,2021-3,By Race/Hispanic ethnicity,United States,"Non-Hispanic, other races and multiple races",20.3
+1701,2021-3,By Education,United States,Less than a high school diploma,23.5
+1702,2021-3,By Education,United States,High school diploma or GED,18.6
+1703,2021-3,By Education,United States,Some college/Associate's degree,21.4
+1704,2021-3,By Education,United States,Bachelor's degree or higher,20.8
+1705,2021-3,By Disability status,United States,With disability,30.9
+1706,2021-3,By Disability status,United States,Without disability,18.6
+1707,2021-3,By State,Alabama,Alabama,17.6
+1708,2021-3,By State,Alaska,Alaska,21.1
+1709,2021-3,By State,Arizona,Arizona,24.5
+1710,2021-3,By State,Arkansas,Arkansas,18.9
+1711,2021-3,By State,California,California,24.7
+1712,2021-3,By State,Colorado,Colorado,17.6
+1713,2021-3,By State,Connecticut,Connecticut,17.9
+1714,2021-3,By State,Delaware,Delaware,22.1
+1715,2021-3,By State,District of Columbia,District of Columbia,26.3
+1716,2021-3,By State,Florida,Florida,20.5
+1717,2021-3,By State,Georgia,Georgia,18.6
+1718,2021-3,By State,Hawaii,Hawaii,28.4
+1719,2021-3,By State,Idaho,Idaho,13.6
+1720,2021-3,By State,Illinois,Illinois,15.7
+1721,2021-3,By State,Indiana,Indiana,17.7
+1722,2021-3,By State,Iowa,Iowa,14.6
+1723,2021-3,By State,Kansas,Kansas,14.6
+1724,2021-3,By State,Kentucky,Kentucky,20.2
+1725,2021-3,By State,Louisiana,Louisiana,23.6
+1726,2021-3,By State,Maine,Maine,16.1
+1727,2021-3,By State,Maryland,Maryland,22.0
+1728,2021-3,By State,Massachusetts,Massachusetts,24.1
+1729,2021-3,By State,Michigan,Michigan,22.7
+1730,2021-3,By State,Minnesota,Minnesota,18.3
+1731,2021-3,By State,Mississippi,Mississippi,18.5
+1732,2021-3,By State,Missouri,Missouri,13.8
+1733,2021-3,By State,Montana,Montana,10.0
+1734,2021-3,By State,Nebraska,Nebraska,12.2
+1735,2021-3,By State,Nevada,Nevada,17.2
+1736,2021-3,By State,New Hampshire,New Hampshire,19.8
+1737,2021-3,By State,New Jersey,New Jersey,21.8
+1738,2021-3,By State,New Mexico,New Mexico,21.8
+1739,2021-3,By State,New York,New York,22.3
+1740,2021-3,By State,North Carolina,North Carolina,20.0
+1741,2021-3,By State,North Dakota,North Dakota,15.2
+1742,2021-3,By State,Ohio,Ohio,21.2
+1743,2021-3,By State,Oklahoma,Oklahoma,19.0
+1744,2021-3,By State,Oregon,Oregon,24.3
+1745,2021-3,By State,Pennsylvania,Pennsylvania,24.4
+1746,2021-3,By State,Rhode Island,Rhode Island,22.9
+1747,2021-3,By State,South Carolina,South Carolina,16.6
+1748,2021-3,By State,South Dakota,South Dakota,8.5
+1749,2021-3,By State,Tennessee,Tennessee,19.1
+1750,2021-3,By State,Texas,Texas,21.0
+1751,2021-3,By State,Utah,Utah,15.1
+1752,2021-3,By State,Vermont,Vermont,22.9
+1753,2021-3,By State,Virginia,Virginia,20.4
+1754,2021-3,By State,Washington,Washington,20.0
+1755,2021-3,By State,West Virginia,West Virginia,19.8
+1756,2021-3,By State,Wisconsin,Wisconsin,14.4
+1757,2021-3,By State,Wyoming,Wyoming,15.6
+1758,2021-3,National Estimate,United States,United States,16.0
+1759,2021-3,By Education of adult respondent,United States,High school diploma or GED or lower,14.0
+1760,2021-3,By Education of adult respondent,United States,Some college/Associate's degree,17.5
+1761,2021-3,By Education of adult respondent,United States,Bachelor's degree or higher,16.8
+1762,2021-3,By Race/Hispanic ethnicity of adult respondent,United States,Hispanic or Latino,20.2
+1763,2021-3,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic White, single race",14.5
+1764,2021-3,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic Black, single race",15.9
+1765,2021-3,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic Asian, single race",16.6
+1766,2021-3,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic, other races and multiple races",18.2
+1767,2021-3,By Current US Armed Forces or National Guard service of adult respondent or spouse,United States,Yes,19.7
+1768,2021-3,By Current US Armed Forces or National Guard service of adult respondent or spouse,United States,No,15.9
+1769,2021-3,By Health insurance of adult respondent,United States,Private only,14.9
+1770,2021-3,By Health insurance of adult respondent,United States,Any public,18.3
+1771,2021-3,By Health insurance of adult respondent,United States,No insurance,15.9
+1772,2021-3,By Total household income,United States,"Less than $25,000",17.5
+1773,2021-3,By Total household income,United States,"$25,000 - $34,999",15.8
+1774,2021-3,By Total household income,United States,"$35,000 - $49,999",14.6
+1775,2021-3,By Total household income,United States,"$50,000 - $74,999",18.4
+1776,2021-3,By Total household income,United States,"$75,000 - $99,999",14.5
+1777,2021-3,By Total household income,United States,"$100,000 - $149,999",14.8
+1778,2021-3,By Total household income,United States,"$150,000 - $199,999",13.1
+1779,2021-3,By Total household income,United States,"$200,000 and above",15.6
+1780,2021-3,By Total household income,United States,Did not report,17.4
+1781,2021-3,By State,Alabama,Alabama,9.9
+1782,2021-3,By State,Alaska,Alaska,19.0
+1783,2021-3,By State,Arizona,Arizona,17.5
+1784,2021-3,By State,Arkansas,Arkansas,14.4
+1785,2021-3,By State,California,California,19.2
+1786,2021-3,By State,Colorado,Colorado,14.2
+1787,2021-3,By State,Connecticut,Connecticut,19.9
+1788,2021-3,By State,Delaware,Delaware,18.2
+1789,2021-3,By State,District of Columbia,District of Columbia,27.5
+1790,2021-3,By State,Florida,Florida,18.9
+1791,2021-3,By State,Georgia,Georgia,12.1
+1792,2021-3,By State,Hawaii,Hawaii,20.5
+1793,2021-3,By State,Idaho,Idaho,16.6
+1794,2021-3,By State,Illinois,Illinois,18.3
+1795,2021-3,By State,Indiana,Indiana,12.5
+1796,2021-3,By State,Iowa,Iowa,11.3
+1797,2021-3,By State,Kansas,Kansas,14.4
+1798,2021-3,By State,Kentucky,Kentucky,14.0
+1799,2021-3,By State,Louisiana,Louisiana,19.6
+1800,2021-3,By State,Maine,Maine,19.1
+1801,2021-3,By State,Maryland,Maryland,16.2
+1802,2021-3,By State,Massachusetts,Massachusetts,24.1
+1803,2021-3,By State,Michigan,Michigan,16.5
+1804,2021-3,By State,Minnesota,Minnesota,14.0
+1805,2021-3,By State,Mississippi,Mississippi,21.3
+1806,2021-3,By State,Missouri,Missouri,11.2
+1808,2021-3,By State,Nebraska,Nebraska,10.3
+1809,2021-3,By State,Nevada,Nevada,14.1
+1810,2021-3,By State,New Hampshire,New Hampshire,13.5
+1811,2021-3,By State,New Jersey,New Jersey,16.3
+1812,2021-3,By State,New Mexico,New Mexico,12.6
+1813,2021-3,By State,New York,New York,10.2
+1814,2021-3,By State,North Carolina,North Carolina,12.3
+1816,2021-3,By State,Ohio,Ohio,20.3
+1817,2021-3,By State,Oklahoma,Oklahoma,17.1
+1818,2021-3,By State,Oregon,Oregon,22.5
+1819,2021-3,By State,Pennsylvania,Pennsylvania,15.0
+1820,2021-3,By State,Rhode Island,Rhode Island,20.3
+1821,2021-3,By State,South Carolina,South Carolina,16.2
+1823,2021-3,By State,Tennessee,Tennessee,11.9
+1824,2021-3,By State,Texas,Texas,16.9
+1825,2021-3,By State,Utah,Utah,12.8
+1827,2021-3,By State,Virginia,Virginia,14.5
+1828,2021-3,By State,Washington,Washington,18.4
+1829,2021-3,By State,West Virginia,West Virginia,10.9
+1830,2021-3,By State,Wisconsin,Wisconsin,13.7
+1831,2021-3,By State,Wyoming,Wyoming,8.3
+1832,2021-4,National Estimate,United States,United States,
+1833,2021-4,By Age,United States,18 - 29 years,
+1834,2021-4,By Age,United States,30 - 39 years,
+1835,2021-4,By Age,United States,40 - 49 years,
+1836,2021-4,By Age,United States,50 - 59 years,
+1837,2021-4,By Age,United States,60 - 69 years,
+1838,2021-4,By Age,United States,70 - 79 years,
+1839,2021-4,By Age,United States,80 years and above,
+1840,2021-4,By Sex,United States,Male,
+1841,2021-4,By Sex,United States,Female,
+1842,2021-4,By Race/Hispanic ethnicity,United States,Hispanic or Latino,
+1843,2021-4,By Race/Hispanic ethnicity,United States,"Non-Hispanic White, single race",
+1844,2021-4,By Race/Hispanic ethnicity,United States,"Non-Hispanic Black, single race",
+1845,2021-4,By Race/Hispanic ethnicity,United States,"Non-Hispanic Asian, single race",
+1846,2021-4,By Race/Hispanic ethnicity,United States,"Non-Hispanic, other races and multiple races",
+1847,2021-4,By Education,United States,Less than a high school diploma,
+1848,2021-4,By Education,United States,High school diploma or GED,
+1849,2021-4,By Education,United States,Some college/Associate's degree,
+1850,2021-4,By Education,United States,Bachelor's degree or higher,
+1851,2021-4,By Disability status,United States,With disability,
+1852,2021-4,By Disability status,United States,Without disability,
+1853,2021-4,National Estimate,United States,United States,19.7
+1854,2021-4,By Age,United States,18 - 29 years,16.1
+1855,2021-4,By Age,United States,30 - 39 years,18.2
+1856,2021-4,By Age,United States,40 - 49 years,20.5
+1857,2021-4,By Age,United States,50 - 59 years,22.0
+1858,2021-4,By Age,United States,60 - 69 years,18.8
+1859,2021-4,By Age,United States,70 - 79 years,22.9
+1860,2021-4,By Age,United States,80 years and above,26.5
+1861,2021-4,By Sex,United States,Male,17.2
+1862,2021-4,By Sex,United States,Female,22.1
+1863,2021-4,By Gender identity,United States,Cis-gender male,17.1
+1864,2021-4,By Gender identity,United States,Cis-gender female,21.9
+1865,2021-4,By Gender identity,United States,Transgender,29.5
+1866,2021-4,By Sexual orientation,United States,Gay or lesbian,21.9
+1867,2021-4,By Sexual orientation,United States,Straight,19.0
+1868,2021-4,By Sexual orientation,United States,Bisexual,25.7
+1869,2021-4,By Race/Hispanic ethnicity,United States,Hispanic or Latino,22.6
+1870,2021-4,By Race/Hispanic ethnicity,United States,"Non-Hispanic White, single race",18.4
+1871,2021-4,By Race/Hispanic ethnicity,United States,"Non-Hispanic Black, single race",22.3
+1872,2021-4,By Race/Hispanic ethnicity,United States,"Non-Hispanic Asian, single race",19.2
+1873,2021-4,By Race/Hispanic ethnicity,United States,"Non-Hispanic, other races and multiple races",23.5
+1874,2021-4,By Education,United States,Less than a high school diploma,24.7
+1875,2021-4,By Education,United States,High school diploma or GED,17.8
+1876,2021-4,By Education,United States,Some college/Associate's degree,20.6
+1877,2021-4,By Education,United States,Bachelor's degree or higher,19.6
+1878,2021-4,By Disability status,United States,With disability,31.2
+1879,2021-4,By Disability status,United States,Without disability,17.8
+1880,2021-4,By State,Alabama,Alabama,16.4
+1881,2021-4,By State,Alaska,Alaska,18.4
+1882,2021-4,By State,Arizona,Arizona,22.2
+1883,2021-4,By State,Arkansas,Arkansas,13.3
+1884,2021-4,By State,California,California,26.3
+1885,2021-4,By State,Colorado,Colorado,18.8
+1886,2021-4,By State,Connecticut,Connecticut,21.2
+1887,2021-4,By State,Delaware,Delaware,21.4
+1888,2021-4,By State,District of Columbia,District of Columbia,28.9
+1889,2021-4,By State,Florida,Florida,19.6
+1890,2021-4,By State,Georgia,Georgia,16.6
+1891,2021-4,By State,Hawaii,Hawaii,27.7
+1892,2021-4,By State,Idaho,Idaho,14.4
+1893,2021-4,By State,Illinois,Illinois,18.5
+1894,2021-4,By State,Indiana,Indiana,13.4
+1895,2021-4,By State,Iowa,Iowa,13.9
+1896,2021-4,By State,Kansas,Kansas,14.1
+1897,2021-4,By State,Kentucky,Kentucky,16.4
+1898,2021-4,By State,Louisiana,Louisiana,16.4
+1899,2021-4,By State,Maine,Maine,19.5
+1900,2021-4,By State,Maryland,Maryland,24.6
+1901,2021-4,By State,Massachusetts,Massachusetts,24.2
+1902,2021-4,By State,Michigan,Michigan,17.8
+1903,2021-4,By State,Minnesota,Minnesota,17.3
+1904,2021-4,By State,Mississippi,Mississippi,11.6
+1905,2021-4,By State,Missouri,Missouri,18.3
+1906,2021-4,By State,Montana,Montana,19.1
+1907,2021-4,By State,Nebraska,Nebraska,15.3
+1908,2021-4,By State,Nevada,Nevada,19.2
+1909,2021-4,By State,New Hampshire,New Hampshire,17.4
+1910,2021-4,By State,New Jersey,New Jersey,22.9
+1911,2021-4,By State,New Mexico,New Mexico,21.4
+1912,2021-4,By State,New York,New York,23.6
+1913,2021-4,By State,North Carolina,North Carolina,17.9
+1914,2021-4,By State,North Dakota,North Dakota,8.7
+1915,2021-4,By State,Ohio,Ohio,16.8
+1916,2021-4,By State,Oklahoma,Oklahoma,13.4
+1917,2021-4,By State,Oregon,Oregon,21.2
+1918,2021-4,By State,Pennsylvania,Pennsylvania,18.4
+1919,2021-4,By State,Rhode Island,Rhode Island,22.9
+1920,2021-4,By State,South Carolina,South Carolina,17.2
+1921,2021-4,By State,South Dakota,South Dakota,14.0
+1922,2021-4,By State,Tennessee,Tennessee,18.6
+1923,2021-4,By State,Texas,Texas,20.1
+1924,2021-4,By State,Utah,Utah,13.2
+1925,2021-4,By State,Vermont,Vermont,16.2
+1926,2021-4,By State,Virginia,Virginia,17.7
+1927,2021-4,By State,Washington,Washington,19.6
+1928,2021-4,By State,West Virginia,West Virginia,22.0
+1929,2021-4,By State,Wisconsin,Wisconsin,14.9
+1930,2021-4,By State,Wyoming,Wyoming,12.7
+1931,2021-4,National Estimate,United States,United States,
+1932,2021-4,By Education of adult respondent,United States,High school diploma or GED or lower,
+1933,2021-4,By Education of adult respondent,United States,Some college/Associate's degree,
+1934,2021-4,By Education of adult respondent,United States,Bachelor's degree or higher,
+1935,2021-4,By Race/Hispanic ethnicity of adult respondent,United States,Hispanic or Latino,
+1936,2021-4,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic White, single race",
+1937,2021-4,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic Black, single race",
+1938,2021-4,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic Asian, single race",
+1939,2021-4,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic, other races and multiple races",
+1940,2021-4,By Current US Armed Forces or National Guard service of adult respondent or spouse,United States,Yes,
+1941,2021-4,By Current US Armed Forces or National Guard service of adult respondent or spouse,United States,No,
+1942,2021-4,By Health insurance of adult respondent,United States,Private only,
+1943,2021-4,By Health insurance of adult respondent,United States,Any public,
+1944,2021-4,By Health insurance of adult respondent,United States,No insurance,
+1945,2021-4,By Total household income,United States,"Less than $25,000",
+1946,2021-4,By Total household income,United States,"$25,000 - $34,999",
+1947,2021-4,By Total household income,United States,"$35,000 - $49,999",
+1948,2021-4,By Total household income,United States,"$50,000 - $74,999",
+1949,2021-4,By Total household income,United States,"$75,000 - $99,999",
+1950,2021-4,By Total household income,United States,"$100,000 - $149,999",
+1951,2021-4,By Total household income,United States,"$150,000 - $199,999",
+1952,2021-4,By Total household income,United States,"$200,000 and above",
+1953,2021-4,By Total household income,United States,Did not report,
+1954,2021-4,National Estimate,United States,United States,15.4
+1955,2021-4,By Education of adult respondent,United States,High school diploma or GED or lower,14.0
+1956,2021-4,By Education of adult respondent,United States,Some college/Associate's degree,15.8
+1957,2021-4,By Education of adult respondent,United States,Bachelor's degree or higher,16.5
+1958,2021-4,By Race/Hispanic ethnicity of adult respondent,United States,Hispanic or Latino,15.8
+1959,2021-4,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic White, single race",14.7
+1960,2021-4,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic Black, single race",17.6
+1961,2021-4,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic Asian, single race",15.8
+1962,2021-4,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic, other races and multiple races",14.8
+1963,2021-4,By Current US Armed Forces or National Guard service of adult respondent or spouse,United States,Yes,18.5
+1964,2021-4,By Current US Armed Forces or National Guard service of adult respondent or spouse,United States,No,15.3
+1965,2021-4,By Health insurance of adult respondent,United States,Private only,15.4
+1966,2021-4,By Health insurance of adult respondent,United States,Any public,16.4
+1967,2021-4,By Health insurance of adult respondent,United States,No insurance,12.4
+1968,2021-4,By Total household income,United States,"Less than $25,000",15.5
+1969,2021-4,By Total household income,United States,"$25,000 - $34,999",15.7
+1970,2021-4,By Total household income,United States,"$35,000 - $49,999",15.5
+1971,2021-4,By Total household income,United States,"$50,000 - $74,999",14.7
+1972,2021-4,By Total household income,United States,"$75,000 - $99,999",13.8
+1973,2021-4,By Total household income,United States,"$100,000 - $149,999",14.3
+1974,2021-4,By Total household income,United States,"$150,000 - $199,999",15.9
+1975,2021-4,By Total household income,United States,"$200,000 and above",17.9
+1976,2021-4,By Total household income,United States,Did not report,16.7
+1977,2021-4,By State,Alabama,Alabama,12.5
+1979,2021-4,By State,Arizona,Arizona,16.3
+1980,2021-4,By State,Arkansas,Arkansas,11.4
+1981,2021-4,By State,California,California,18.5
+1982,2021-4,By State,Colorado,Colorado,16.2
+1983,2021-4,By State,Connecticut,Connecticut,24.1
+1984,2021-4,By State,Delaware,Delaware,14.9
+1985,2021-4,By State,District of Columbia,District of Columbia,17.0
+1986,2021-4,By State,Florida,Florida,14.4
+1987,2021-4,By State,Georgia,Georgia,8.1
+1988,2021-4,By State,Hawaii,Hawaii,22.6
+1989,2021-4,By State,Idaho,Idaho,8.3
+1990,2021-4,By State,Illinois,Illinois,11.7
+1991,2021-4,By State,Indiana,Indiana,10.0
+1992,2021-4,By State,Iowa,Iowa,9.2
+1993,2021-4,By State,Kansas,Kansas,12.2
+1994,2021-4,By State,Kentucky,Kentucky,11.6
+1995,2021-4,By State,Louisiana,Louisiana,18.7
+1996,2021-4,By State,Maine,Maine,11.4
+1997,2021-4,By State,Maryland,Maryland,22.2
+1998,2021-4,By State,Massachusetts,Massachusetts,20.8
+1999,2021-4,By State,Michigan,Michigan,16.5
+2000,2021-4,By State,Minnesota,Minnesota,15.8
+2002,2021-4,By State,Missouri,Missouri,11.6
+2003,2021-4,By State,Montana,Montana,16.6
+2004,2021-4,By State,Nebraska,Nebraska,12.6
+2005,2021-4,By State,Nevada,Nevada,18.0
+2006,2021-4,By State,New Hampshire,New Hampshire,18.4
+2007,2021-4,By State,New Jersey,New Jersey,16.0
+2008,2021-4,By State,New Mexico,New Mexico,21.6
+2009,2021-4,By State,New York,New York,19.7
+2010,2021-4,By State,North Carolina,North Carolina,14.2
+2012,2021-4,By State,Ohio,Ohio,14.8
+2013,2021-4,By State,Oklahoma,Oklahoma,10.5
+2014,2021-4,By State,Oregon,Oregon,18.4
+2015,2021-4,By State,Pennsylvania,Pennsylvania,15.9
+2016,2021-4,By State,Rhode Island,Rhode Island,15.3
+2017,2021-4,By State,South Carolina,South Carolina,16.5
+2018,2021-4,By State,South Dakota,South Dakota,10.8
+2019,2021-4,By State,Tennessee,Tennessee,13.6
+2020,2021-4,By State,Texas,Texas,15.0
+2021,2021-4,By State,Utah,Utah,10.7
+2022,2021-4,By State,Vermont,Vermont,13.7
+2023,2021-4,By State,Virginia,Virginia,20.1
+2024,2021-4,By State,Washington,Washington,15.4
+2025,2021-4,By State,West Virginia,West Virginia,9.6
+2026,2021-4,By State,Wisconsin,Wisconsin,10.9
+2027,2021-4,By State,Wyoming,Wyoming,11.7
+2028,2022-4,National Estimate,United States,United States,20.1
+2029,2022-4,By Age,United States,18 - 29 years,16.7
+2030,2022-4,By Age,United States,30 - 39 years,20.4
+2031,2022-4,By Age,United States,40 - 49 years,19.5
+2032,2022-4,By Age,United States,50 - 59 years,21.0
+2033,2022-4,By Age,United States,60 - 69 years,21.1
+2034,2022-4,By Age,United States,70 - 79 years,21.1
+2035,2022-4,By Age,United States,80 years and above,24.9
+2036,2022-4,By Sex,United States,Male,17.4
+2037,2022-4,By Sex,United States,Female,22.7
+2038,2022-4,By Gender identity,United States,Cis-gender male,17.1
+2039,2022-4,By Gender identity,United States,Cis-gender female,22.4
+2040,2022-4,By Gender identity,United States,Transgender,30.7
+2041,2022-4,By Sexual orientation,United States,Gay or lesbian,21.7
+2042,2022-4,By Sexual orientation,United States,Straight,19.6
+2043,2022-4,By Sexual orientation,United States,Bisexual,23.7
+2044,2022-4,By Race/Hispanic ethnicity,United States,Hispanic or Latino,23.3
+2045,2022-4,By Race/Hispanic ethnicity,United States,"Non-Hispanic White, single race",18.7
+2046,2022-4,By Race/Hispanic ethnicity,United States,"Non-Hispanic Black, single race",22.2
+2047,2022-4,By Race/Hispanic ethnicity,United States,"Non-Hispanic Asian, single race",22.7
+2048,2022-4,By Race/Hispanic ethnicity,United States,"Non-Hispanic, other races and multiple races",21.1
+2049,2022-4,By Education,United States,Less than a high school diploma,21.6
+2050,2022-4,By Education,United States,High school diploma or GED,18.3
+2051,2022-4,By Education,United States,Some college/Associate's degree,21.1
+2052,2022-4,By Education,United States,Bachelor's degree or higher,20.5
+2053,2022-4,By Disability status,United States,With disability,32.0
+2054,2022-4,By Disability status,United States,Without disability,18.1
+2055,2022-4,By State,Alabama,Alabama,14.9
+2056,2022-4,By State,Alaska,Alaska,20.5
+2057,2022-4,By State,Arizona,Arizona,23.0
+2058,2022-4,By State,Arkansas,Arkansas,15.7
+2059,2022-4,By State,California,California,27.3
+2060,2022-4,By State,Colorado,Colorado,18.3
+2061,2022-4,By State,Connecticut,Connecticut,17.8
+2062,2022-4,By State,Delaware,Delaware,27.8
+2063,2022-4,By State,District of Columbia,District of Columbia,26.2
+2064,2022-4,By State,Florida,Florida,19.3
+2065,2022-4,By State,Georgia,Georgia,17.2
+2066,2022-4,By State,Hawaii,Hawaii,27.7
+2067,2022-4,By State,Idaho,Idaho,12.9
+2068,2022-4,By State,Illinois,Illinois,18.5
+2069,2022-4,By State,Indiana,Indiana,15.1
+2070,2022-4,By State,Iowa,Iowa,14.8
+2071,2022-4,By State,Kansas,Kansas,13.0
+2072,2022-4,By State,Kentucky,Kentucky,19.9
+2073,2022-4,By State,Louisiana,Louisiana,18.9
+2074,2022-4,By State,Maine,Maine,16.7
+2075,2022-4,By State,Maryland,Maryland,23.1
+2076,2022-4,By State,Massachusetts,Massachusetts,21.6
+2077,2022-4,By State,Michigan,Michigan,19.8
+2078,2022-4,By State,Minnesota,Minnesota,18.5
+2079,2022-4,By State,Mississippi,Mississippi,16.2
+2080,2022-4,By State,Missouri,Missouri,16.5
+2081,2022-4,By State,Montana,Montana,15.2
+2082,2022-4,By State,Nebraska,Nebraska,15.8
+2083,2022-4,By State,Nevada,Nevada,17.1
+2084,2022-4,By State,New Hampshire,New Hampshire,17.8
+2085,2022-4,By State,New Jersey,New Jersey,22.0
+2086,2022-4,By State,New Mexico,New Mexico,21.1
+2087,2022-4,By State,New York,New York,23.7
+2088,2022-4,By State,North Carolina,North Carolina,17.7
+2089,2022-4,By State,North Dakota,North Dakota,14.9
+2090,2022-4,By State,Ohio,Ohio,17.9
+2091,2022-4,By State,Oklahoma,Oklahoma,19.7
+2092,2022-4,By State,Oregon,Oregon,22.1
+2093,2022-4,By State,Pennsylvania,Pennsylvania,20.4
+2094,2022-4,By State,Rhode Island,Rhode Island,20.5
+2095,2022-4,By State,South Carolina,South Carolina,17.2
+2096,2022-4,By State,South Dakota,South Dakota,13.1
+2097,2022-4,By State,Tennessee,Tennessee,15.5
+2098,2022-4,By State,Texas,Texas,19.4
+2099,2022-4,By State,Utah,Utah,14.4
+2100,2022-4,By State,Vermont,Vermont,23.6
+2101,2022-4,By State,Virginia,Virginia,22.4
+2102,2022-4,By State,Washington,Washington,19.6
+2103,2022-4,By State,West Virginia,West Virginia,14.7
+2104,2022-4,By State,Wisconsin,Wisconsin,17.9
+2105,2022-4,By State,Wyoming,Wyoming,14.8
+2106,2022-4,National Estimate,United States,United States,15.5
+2107,2022-4,By Education of adult respondent,United States,High school diploma or GED or lower,14.7
+2108,2022-4,By Education of adult respondent,United States,Some college/Associate's degree,16.2
+2109,2022-4,By Education of adult respondent,United States,Bachelor's degree or higher,15.8
+2110,2022-4,By Race/Hispanic ethnicity of adult respondent,United States,Hispanic or Latino,17.3
+2111,2022-4,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic White, single race",14.1
+2112,2022-4,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic Black, single race",17.9
+2113,2022-4,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic Asian, single race",15.1
+2114,2022-4,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic, other races and multiple races",17.0
+2115,2022-4,By Current US Armed Forces or National Guard service of adult respondent or spouse,United States,Yes,11.6
+2116,2022-4,By Current US Armed Forces or National Guard service of adult respondent or spouse,United States,No,15.6
+2117,2022-4,By Health insurance of adult respondent,United States,Private only,14.8
+2118,2022-4,By Health insurance of adult respondent,United States,Any public,17.9
+2119,2022-4,By Health insurance of adult respondent,United States,No insurance,12.4
+2120,2022-4,By Total household income,United States,"Less than $25,000",20.1
+2121,2022-4,By Total household income,United States,"$25,000 - $34,999",16.3
+2122,2022-4,By Total household income,United States,"$35,000 - $49,999",13.7
+2123,2022-4,By Total household income,United States,"$50,000 - $74,999",13.3
+2124,2022-4,By Total household income,United States,"$75,000 - $99,999",13.5
+2125,2022-4,By Total household income,United States,"$100,000 - $149,999",14.3
+2126,2022-4,By Total household income,United States,"$150,000 - $199,999",14.4
+2127,2022-4,By Total household income,United States,"$200,000 and above",16.3
+2128,2022-4,By Total household income,United States,Did not report,17.0
+2129,2022-4,By State,Alabama,Alabama,15.1
+2130,2022-4,By State,Alaska,Alaska,14.0
+2131,2022-4,By State,Arizona,Arizona,14.4
+2132,2022-4,By State,Arkansas,Arkansas,17.9
+2133,2022-4,By State,California,California,17.9
+2134,2022-4,By State,Colorado,Colorado,17.5
+2135,2022-4,By State,Connecticut,Connecticut,22.5
+2136,2022-4,By State,Delaware,Delaware,15.1
+2137,2022-4,By State,District of Columbia,District of Columbia,23.3
+2138,2022-4,By State,Florida,Florida,14.2
+2139,2022-4,By State,Georgia,Georgia,14.0
+2140,2022-4,By State,Hawaii,Hawaii,19.9
+2141,2022-4,By State,Idaho,Idaho,9.7
+2142,2022-4,By State,Illinois,Illinois,16.6
+2143,2022-4,By State,Indiana,Indiana,12.4
+2144,2022-4,By State,Iowa,Iowa,10.9
+2145,2022-4,By State,Kansas,Kansas,13.4
+2146,2022-4,By State,Kentucky,Kentucky,11.3
+2147,2022-4,By State,Louisiana,Louisiana,16.9
+2148,2022-4,By State,Maine,Maine,12.0
+2149,2022-4,By State,Maryland,Maryland,17.4
+2150,2022-4,By State,Massachusetts,Massachusetts,19.9
+2151,2022-4,By State,Michigan,Michigan,14.0
+2152,2022-4,By State,Minnesota,Minnesota,12.9
+2153,2022-4,By State,Mississippi,Mississippi,13.7
+2154,2022-4,By State,Missouri,Missouri,11.8
+2156,2022-4,By State,Nebraska,Nebraska,13.0
+2157,2022-4,By State,Nevada,Nevada,9.6
+2158,2022-4,By State,New Hampshire,New Hampshire,14.4
+2159,2022-4,By State,New Jersey,New Jersey,22.2
+2160,2022-4,By State,New Mexico,New Mexico,13.5
+2161,2022-4,By State,New York,New York,16.0
+2162,2022-4,By State,North Carolina,North Carolina,14.6
+2163,2022-4,By State,North Dakota,North Dakota,9.9
+2164,2022-4,By State,Ohio,Ohio,16.7
+2165,2022-4,By State,Oklahoma,Oklahoma,13.6
+2166,2022-4,By State,Oregon,Oregon,19.5
+2167,2022-4,By State,Pennsylvania,Pennsylvania,15.4
+2168,2022-4,By State,Rhode Island,Rhode Island,16.8
+2169,2022-4,By State,South Carolina,South Carolina,9.1
+2170,2022-4,By State,South Dakota,South Dakota,10.8
+2171,2022-4,By State,Tennessee,Tennessee,13.1
+2172,2022-4,By State,Texas,Texas,16.8
+2173,2022-4,By State,Utah,Utah,12.1
+2174,2022-4,By State,Vermont,Vermont,15.9
+2175,2022-4,By State,Virginia,Virginia,15.1
+2176,2022-4,By State,Washington,Washington,15.1
+2177,2022-4,By State,West Virginia,West Virginia,15.6
+2178,2022-4,By State,Wisconsin,Wisconsin,13.1
+2179,2022-4,By State,Wyoming,Wyoming,9.5
+2180,2022-1,National Estimate,United States,United States,21.8
+2181,2022-1,By Age,United States,18 - 29 years,17.5
+2182,2022-1,By Age,United States,30 - 39 years,21.9
+2183,2022-1,By Age,United States,40 - 49 years,22.4
+2184,2022-1,By Age,United States,50 - 59 years,22.4
+2185,2022-1,By Age,United States,60 - 69 years,22.0
+2186,2022-1,By Age,United States,70 - 79 years,24.7
+2187,2022-1,By Age,United States,80 years and above,23.9
+2188,2022-1,By Sex,United States,Male,19.6
+2189,2022-1,By Sex,United States,Female,23.9
+2190,2022-1,By Gender identity,United States,Cis-gender male,19.2
+2191,2022-1,By Gender identity,United States,Cis-gender female,23.7
+2192,2022-1,By Gender identity,United States,Transgender,42.9
+2193,2022-1,By Sexual orientation,United States,Gay or lesbian,25.7
+2194,2022-1,By Sexual orientation,United States,Straight,21.2
+2195,2022-1,By Sexual orientation,United States,Bisexual,28.4
+2196,2022-1,By Race/Hispanic ethnicity,United States,Hispanic or Latino,23.7
+2197,2022-1,By Race/Hispanic ethnicity,United States,"Non-Hispanic White, single race",20.8
+2198,2022-1,By Race/Hispanic ethnicity,United States,"Non-Hispanic Black, single race",24.9
+2199,2022-1,By Race/Hispanic ethnicity,United States,"Non-Hispanic Asian, single race",19.0
+2200,2022-1,By Race/Hispanic ethnicity,United States,"Non-Hispanic, other races and multiple races",27.8
+2201,2022-1,By Education,United States,Less than a high school diploma,22.4
+2202,2022-1,By Education,United States,High school diploma or GED,20.5
+2203,2022-1,By Education,United States,Some college/Associate's degree,23.2
+2204,2022-1,By Education,United States,Bachelor's degree or higher,21.5
+2205,2022-1,By Disability status,United States,With disability,34.2
+2206,2022-1,By Disability status,United States,Without disability,19.8
+2207,2022-1,By State,Alabama,Alabama,17.9
+2208,2022-1,By State,Alaska,Alaska,20.9
+2209,2022-1,By State,Arizona,Arizona,21.2
+2210,2022-1,By State,Arkansas,Arkansas,18.7
+2211,2022-1,By State,California,California,27.3
+2212,2022-1,By State,Colorado,Colorado,21.2
+2213,2022-1,By State,Connecticut,Connecticut,24.5
+2214,2022-1,By State,Delaware,Delaware,27.3
+2215,2022-1,By State,District of Columbia,District of Columbia,30.5
+2216,2022-1,By State,Florida,Florida,21.6
+2217,2022-1,By State,Georgia,Georgia,18.1
+2218,2022-1,By State,Hawaii,Hawaii,33.2
+2219,2022-1,By State,Idaho,Idaho,16.3
+2220,2022-1,By State,Illinois,Illinois,18.8
+2221,2022-1,By State,Indiana,Indiana,18.1
+2222,2022-1,By State,Iowa,Iowa,12.3
+2223,2022-1,By State,Kansas,Kansas,17.8
+2224,2022-1,By State,Kentucky,Kentucky,20.3
+2225,2022-1,By State,Louisiana,Louisiana,20.6
+2226,2022-1,By State,Maine,Maine,23.0
+2227,2022-1,By State,Maryland,Maryland,28.1
+2228,2022-1,By State,Massachusetts,Massachusetts,25.7
+2229,2022-1,By State,Michigan,Michigan,22.7
+2230,2022-1,By State,Minnesota,Minnesota,20.4
+2231,2022-1,By State,Mississippi,Mississippi,13.0
+2232,2022-1,By State,Missouri,Missouri,21.4
+2233,2022-1,By State,Montana,Montana,15.0
+2234,2022-1,By State,Nebraska,Nebraska,14.7
+2235,2022-1,By State,Nevada,Nevada,20.7
+2236,2022-1,By State,New Hampshire,New Hampshire,20.3
+2237,2022-1,By State,New Jersey,New Jersey,27.0
+2238,2022-1,By State,New Mexico,New Mexico,24.5
+2239,2022-1,By State,New York,New York,21.9
+2240,2022-1,By State,North Carolina,North Carolina,22.9
+2241,2022-1,By State,North Dakota,North Dakota,10.6
+2242,2022-1,By State,Ohio,Ohio,19.6
+2243,2022-1,By State,Oklahoma,Oklahoma,21.0
+2244,2022-1,By State,Oregon,Oregon,24.2
+2245,2022-1,By State,Pennsylvania,Pennsylvania,20.1
+2246,2022-1,By State,Rhode Island,Rhode Island,23.3
+2247,2022-1,By State,South Carolina,South Carolina,19.4
+2248,2022-1,By State,South Dakota,South Dakota,16.6
+2249,2022-1,By State,Tennessee,Tennessee,17.8
+2250,2022-1,By State,Texas,Texas,23.1
+2251,2022-1,By State,Utah,Utah,18.0
+2252,2022-1,By State,Vermont,Vermont,20.3
+2253,2022-1,By State,Virginia,Virginia,23.5
+2254,2022-1,By State,Washington,Washington,21.1
+2255,2022-1,By State,West Virginia,West Virginia,20.4
+2256,2022-1,By State,Wisconsin,Wisconsin,13.1
+2257,2022-1,By State,Wyoming,Wyoming,13.4
+2258,2022-1,National Estimate,United States,United States,16.7
+2259,2022-1,By Education of adult respondent,United States,High school diploma or GED or lower,17.4
+2260,2022-1,By Education of adult respondent,United States,Some college/Associate's degree,15.7
+2261,2022-1,By Education of adult respondent,United States,Bachelor's degree or higher,16.8
+2262,2022-1,By Race/Hispanic ethnicity of adult respondent,United States,Hispanic or Latino,19.5
+2263,2022-1,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic White, single race",15.5
+2264,2022-1,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic Black, single race",17.6
+2265,2022-1,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic Asian, single race",15.8
+2266,2022-1,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic, other races and multiple races",17.9
+2267,2022-1,By Current US Armed Forces or National Guard service of adult respondent or spouse,United States,Yes,16.2
+2268,2022-1,By Current US Armed Forces or National Guard service of adult respondent or spouse,United States,No,16.7
+2269,2022-1,By Health insurance of adult respondent,United States,Private only,15.7
+2270,2022-1,By Health insurance of adult respondent,United States,Any public,19.1
+2271,2022-1,By Health insurance of adult respondent,United States,No insurance,15.5
+2272,2022-1,By Total household income,United States,"Less than $25,000",20.7
+2273,2022-1,By Total household income,United States,"$25,000 - $34,999",17.2
+2274,2022-1,By Total household income,United States,"$35,000 - $49,999",13.8
+2275,2022-1,By Total household income,United States,"$50,000 - $74,999",16.8
+2276,2022-1,By Total household income,United States,"$75,000 - $99,999",15.0
+2277,2022-1,By Total household income,United States,"$100,000 - $149,999",16.8
+2278,2022-1,By Total household income,United States,"$150,000 - $199,999",16.7
+2279,2022-1,By Total household income,United States,"$200,000 and above",16.5
+2280,2022-1,By Total household income,United States,Did not report,14.9
+2281,2022-1,By State,Alabama,Alabama,11.6
+2282,2022-1,By State,Alaska,Alaska,13.9
+2283,2022-1,By State,Arizona,Arizona,13.3
+2284,2022-1,By State,Arkansas,Arkansas,12.8
+2285,2022-1,By State,California,California,22.0
+2286,2022-1,By State,Colorado,Colorado,13.5
+2287,2022-1,By State,Connecticut,Connecticut,19.3
+2288,2022-1,By State,Delaware,Delaware,21.7
+2289,2022-1,By State,District of Columbia,District of Columbia,16.1
+2290,2022-1,By State,Florida,Florida,21.9
+2291,2022-1,By State,Georgia,Georgia,9.5
+2292,2022-1,By State,Hawaii,Hawaii,19.3
+2293,2022-1,By State,Idaho,Idaho,12.9
+2294,2022-1,By State,Illinois,Illinois,14.9
+2295,2022-1,By State,Indiana,Indiana,10.6
+2296,2022-1,By State,Iowa,Iowa,11.2
+2297,2022-1,By State,Kansas,Kansas,10.9
+2298,2022-1,By State,Kentucky,Kentucky,20.3
+2299,2022-1,By State,Louisiana,Louisiana,11.2
+2300,2022-1,By State,Maine,Maine,8.1
+2301,2022-1,By State,Maryland,Maryland,19.5
+2302,2022-1,By State,Massachusetts,Massachusetts,19.6
+2303,2022-1,By State,Michigan,Michigan,17.2
+2304,2022-1,By State,Minnesota,Minnesota,20.7
+2305,2022-1,By State,Mississippi,Mississippi,12.5
+2306,2022-1,By State,Missouri,Missouri,15.3
+2308,2022-1,By State,Nebraska,Nebraska,12.2
+2309,2022-1,By State,Nevada,Nevada,9.8
+2310,2022-1,By State,New Hampshire,New Hampshire,15.3
+2311,2022-1,By State,New Jersey,New Jersey,15.9
+2312,2022-1,By State,New Mexico,New Mexico,13.9
+2313,2022-1,By State,New York,New York,18.8
+2314,2022-1,By State,North Carolina,North Carolina,15.8
+2315,2022-1,By State,North Dakota,North Dakota,13.8
+2316,2022-1,By State,Ohio,Ohio,14.3
+2317,2022-1,By State,Oklahoma,Oklahoma,11.1
+2318,2022-1,By State,Oregon,Oregon,19.0
+2319,2022-1,By State,Pennsylvania,Pennsylvania,20.2
+2320,2022-1,By State,Rhode Island,Rhode Island,23.5
+2321,2022-1,By State,South Carolina,South Carolina,14.9
+2322,2022-1,By State,South Dakota,South Dakota,21.4
+2323,2022-1,By State,Tennessee,Tennessee,14.2
+2324,2022-1,By State,Texas,Texas,17.5
+2325,2022-1,By State,Utah,Utah,14.1
+2327,2022-1,By State,Virginia,Virginia,19.7
+2328,2022-1,By State,Washington,Washington,15.3
+2329,2022-1,By State,West Virginia,West Virginia,9.2
+2330,2022-1,By State,Wisconsin,Wisconsin,12.2
+2331,2022-1,By State,Wyoming,Wyoming,10.1
+2332,2022-1,National Estimate,United States,United States,
+2333,2022-1,By Age,United States,18 - 29 years,
+2334,2022-1,By Age,United States,30 - 39 years,
+2335,2022-1,By Age,United States,40 - 49 years,
+2336,2022-1,By Age,United States,50 - 59 years,
+2337,2022-1,By Age,United States,60 - 69 years,
+2338,2022-1,By Age,United States,70 - 79 years,
+2339,2022-1,By Age,United States,80 years and above,
+2340,2022-1,By Sex,United States,Male,
+2341,2022-1,By Sex,United States,Female,
+2342,2022-1,By Gender identity,United States,Cis-gender male,
+2343,2022-1,By Gender identity,United States,Cis-gender female,
+2344,2022-1,By Gender identity,United States,Transgender,
+2345,2022-1,By Sexual orientation,United States,Gay or lesbian,
+2346,2022-1,By Sexual orientation,United States,Straight,
+2347,2022-1,By Sexual orientation,United States,Bisexual,
+2348,2022-1,By Race/Hispanic ethnicity,United States,Hispanic or Latino,
+2349,2022-1,By Race/Hispanic ethnicity,United States,"Non-Hispanic White, single race",
+2350,2022-1,By Race/Hispanic ethnicity,United States,"Non-Hispanic Black, single race",
+2351,2022-1,By Race/Hispanic ethnicity,United States,"Non-Hispanic Asian, single race",
+2352,2022-1,By Race/Hispanic ethnicity,United States,"Non-Hispanic, other races and multiple races",
+2353,2022-1,By Education,United States,Less than a high school diploma,
+2354,2022-1,By Education,United States,High school diploma or GED,
+2355,2022-1,By Education,United States,Some college/Associate's degree,
+2356,2022-1,By Education,United States,Bachelor's degree or higher,
+2357,2022-1,By Disability status,United States,With disability,
+2358,2022-1,By Disability status,United States,Without disability,
+2359,2022-1,National Estimate,United States,United States,20.5
+2360,2022-1,By Age,United States,18 - 29 years,17.0
+2361,2022-1,By Age,United States,30 - 39 years,20.2
+2362,2022-1,By Age,United States,40 - 49 years,19.7
+2363,2022-1,By Age,United States,50 - 59 years,22.3
+2364,2022-1,By Age,United States,60 - 69 years,20.4
+2365,2022-1,By Age,United States,70 - 79 years,21.7
+2366,2022-1,By Age,United States,80 years and above,29.3
+2367,2022-1,By Sex,United States,Male,17.8
+2368,2022-1,By Sex,United States,Female,22.9
+2369,2022-1,By Gender identity,United States,Cis-gender male,17.8
+2370,2022-1,By Gender identity,United States,Cis-gender female,22.6
+2371,2022-1,By Gender identity,United States,Transgender,33.6
+2372,2022-1,By Sexual orientation,United States,Gay or lesbian,29.0
+2373,2022-1,By Sexual orientation,United States,Straight,19.6
+2374,2022-1,By Sexual orientation,United States,Bisexual,29.6
+2375,2022-1,By Race/Hispanic ethnicity,United States,Hispanic or Latino,22.9
+2376,2022-1,By Race/Hispanic ethnicity,United States,"Non-Hispanic White, single race",19.4
+2377,2022-1,By Race/Hispanic ethnicity,United States,"Non-Hispanic Black, single race",21.9
+2378,2022-1,By Race/Hispanic ethnicity,United States,"Non-Hispanic Asian, single race",18.9
+2379,2022-1,By Race/Hispanic ethnicity,United States,"Non-Hispanic, other races and multiple races",25.5
+2380,2022-1,By Education,United States,Less than a high school diploma,22.8
+2381,2022-1,By Education,United States,High school diploma or GED,18.4
+2382,2022-1,By Education,United States,Some college/Associate's degree,21.7
+2383,2022-1,By Education,United States,Bachelor's degree or higher,20.6
+2384,2022-1,By Disability status,United States,With disability,33.2
+2385,2022-1,By Disability status,United States,Without disability,18.4
+2386,2022-1,By State,Alabama,Alabama,19.0
+2387,2022-1,By State,Alaska,Alaska,17.1
+2388,2022-1,By State,Arizona,Arizona,24.7
+2389,2022-1,By State,Arkansas,Arkansas,19.8
+2390,2022-1,By State,California,California,24.8
+2391,2022-1,By State,Colorado,Colorado,19.0
+2392,2022-1,By State,Connecticut,Connecticut,21.0
+2393,2022-1,By State,Delaware,Delaware,20.0
+2394,2022-1,By State,District of Columbia,District of Columbia,27.5
+2395,2022-1,By State,Florida,Florida,21.4
+2396,2022-1,By State,Georgia,Georgia,18.0
+2397,2022-1,By State,Hawaii,Hawaii,30.1
+2398,2022-1,By State,Idaho,Idaho,12.6
+2399,2022-1,By State,Illinois,Illinois,20.1
+2400,2022-1,By State,Indiana,Indiana,16.7
+2401,2022-1,By State,Iowa,Iowa,12.0
+2402,2022-1,By State,Kansas,Kansas,17.8
+2403,2022-1,By State,Kentucky,Kentucky,18.4
+2404,2022-1,By State,Louisiana,Louisiana,18.4
+2405,2022-1,By State,Maine,Maine,17.2
+2406,2022-1,By State,Maryland,Maryland,24.9
+2407,2022-1,By State,Massachusetts,Massachusetts,25.0
+2408,2022-1,By State,Michigan,Michigan,20.0
+2409,2022-1,By State,Minnesota,Minnesota,16.9
+2410,2022-1,By State,Mississippi,Mississippi,18.6
+2411,2022-1,By State,Missouri,Missouri,16.5
+2412,2022-1,By State,Montana,Montana,17.6
+2413,2022-1,By State,Nebraska,Nebraska,15.4
+2414,2022-1,By State,Nevada,Nevada,20.2
+2415,2022-1,By State,New Hampshire,New Hampshire,17.0
+2416,2022-1,By State,New Jersey,New Jersey,21.4
+2417,2022-1,By State,New Mexico,New Mexico,22.5
+2418,2022-1,By State,New York,New York,21.8
+2419,2022-1,By State,North Carolina,North Carolina,16.3
+2420,2022-1,By State,North Dakota,North Dakota,7.8
+2421,2022-1,By State,Ohio,Ohio,14.9
+2422,2022-1,By State,Oklahoma,Oklahoma,22.1
+2423,2022-1,By State,Oregon,Oregon,23.2
+2424,2022-1,By State,Pennsylvania,Pennsylvania,22.7
+2425,2022-1,By State,Rhode Island,Rhode Island,27.6
+2426,2022-1,By State,South Carolina,South Carolina,16.3
+2427,2022-1,By State,South Dakota,South Dakota,10.2
+2428,2022-1,By State,Tennessee,Tennessee,15.6
+2429,2022-1,By State,Texas,Texas,21.9
+2430,2022-1,By State,Utah,Utah,15.0
+2431,2022-1,By State,Vermont,Vermont,21.7
+2432,2022-1,By State,Virginia,Virginia,22.8
+2433,2022-1,By State,Washington,Washington,20.8
+2434,2022-1,By State,West Virginia,West Virginia,20.5
+2435,2022-1,By State,Wisconsin,Wisconsin,16.7
+2436,2022-1,By State,Wyoming,Wyoming,11.7
+2437,2022-1,National Estimate,United States,United States,
+2438,2022-1,By Education of adult respondent,United States,High school diploma or GED or lower,
+2439,2022-1,By Education of adult respondent,United States,Some college/Associate's degree,
+2440,2022-1,By Education of adult respondent,United States,Bachelor's degree or higher,
+2441,2022-1,By Race/Hispanic ethnicity of adult respondent,United States,Hispanic or Latino,
+2442,2022-1,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic White, single race",
+2443,2022-1,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic Black, single race",
+2444,2022-1,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic Asian, single race",
+2445,2022-1,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic, other races and multiple races",
+2446,2022-1,By Current US Armed Forces or National Guard service of adult respondent or spouse,United States,Yes,
+2447,2022-1,By Current US Armed Forces or National Guard service of adult respondent or spouse,United States,No,
+2448,2022-1,By Health insurance of adult respondent,United States,Private only,
+2449,2022-1,By Health insurance of adult respondent,United States,Any public,
+2450,2022-1,By Health insurance of adult respondent,United States,No insurance,
+2451,2022-1,By Total household income,United States,"Less than $25,000",
+2452,2022-1,By Total household income,United States,"$25,000 - $34,999",
+2453,2022-1,By Total household income,United States,"$35,000 - $49,999",
+2454,2022-1,By Total household income,United States,"$50,000 - $74,999",
+2455,2022-1,By Total household income,United States,"$75,000 - $99,999",
+2456,2022-1,By Total household income,United States,"$100,000 - $149,999",
+2457,2022-1,By Total household income,United States,"$150,000 - $199,999",
+2458,2022-1,By Total household income,United States,"$200,000 and above",
+2459,2022-1,By Total household income,United States,Did not report,
+2460,2022-1,National Estimate,United States,United States,15.8
+2461,2022-1,By Education of adult respondent,United States,High school diploma or GED or lower,15.6
+2462,2022-1,By Education of adult respondent,United States,Some college/Associate's degree,16.0
+2463,2022-1,By Education of adult respondent,United States,Bachelor's degree or higher,15.9
+2464,2022-1,By Race/Hispanic ethnicity of adult respondent,United States,Hispanic or Latino,18.8
+2465,2022-1,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic White, single race",15.1
+2466,2022-1,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic Black, single race",14.5
+2467,2022-1,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic Asian, single race",15.9
+2468,2022-1,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic, other races and multiple races",15.4
+2469,2022-1,By Current US Armed Forces or National Guard service of adult respondent or spouse,United States,Yes,15.9
+2470,2022-1,By Current US Armed Forces or National Guard service of adult respondent or spouse,United States,No,15.8
+2471,2022-1,By Health insurance of adult respondent,United States,Private only,14.7
+2472,2022-1,By Health insurance of adult respondent,United States,Any public,18.5
+2473,2022-1,By Health insurance of adult respondent,United States,No insurance,14.2
+2474,2022-1,By Total household income,United States,"Less than $25,000",18.8
+2475,2022-1,By Total household income,United States,"$25,000 - $34,999",15.0
+2476,2022-1,By Total household income,United States,"$35,000 - $49,999",16.1
+2477,2022-1,By Total household income,United States,"$50,000 - $74,999",13.8
+2478,2022-1,By Total household income,United States,"$75,000 - $99,999",14.8
+2479,2022-1,By Total household income,United States,"$100,000 - $149,999",16.7
+2480,2022-1,By Total household income,United States,"$150,000 - $199,999",15.8
+2481,2022-1,By Total household income,United States,"$200,000 and above",15.9
+2482,2022-1,By Total household income,United States,Did not report,14.6
+2483,2022-1,By State,Alabama,Alabama,16.5
+2484,2022-1,By State,Alaska,Alaska,16.2
+2485,2022-1,By State,Arizona,Arizona,19.2
+2486,2022-1,By State,Arkansas,Arkansas,10.7
+2487,2022-1,By State,California,California,18.2
+2488,2022-1,By State,Colorado,Colorado,17.9
+2489,2022-1,By State,Connecticut,Connecticut,22.9
+2490,2022-1,By State,Delaware,Delaware,9.6
+2491,2022-1,By State,District of Columbia,District of Columbia,12.1
+2492,2022-1,By State,Florida,Florida,15.4
+2493,2022-1,By State,Georgia,Georgia,12.8
+2494,2022-1,By State,Hawaii,Hawaii,20.0
+2495,2022-1,By State,Idaho,Idaho,13.8
+2496,2022-1,By State,Illinois,Illinois,13.2
+2497,2022-1,By State,Indiana,Indiana,11.7
+2498,2022-1,By State,Iowa,Iowa,15.3
+2499,2022-1,By State,Kansas,Kansas,12.7
+2500,2022-1,By State,Kentucky,Kentucky,16.2
+2501,2022-1,By State,Louisiana,Louisiana,20.5
+2502,2022-1,By State,Maine,Maine,12.4
+2503,2022-1,By State,Maryland,Maryland,21.2
+2504,2022-1,By State,Massachusetts,Massachusetts,24.6
+2505,2022-1,By State,Michigan,Michigan,11.0
+2506,2022-1,By State,Minnesota,Minnesota,17.7
+2507,2022-1,By State,Mississippi,Mississippi,8.8
+2508,2022-1,By State,Missouri,Missouri,13.3
+2509,2022-1,By State,Montana,Montana,8.2
+2510,2022-1,By State,Nebraska,Nebraska,12.5
+2511,2022-1,By State,Nevada,Nevada,10.2
+2512,2022-1,By State,New Hampshire,New Hampshire,16.7
+2513,2022-1,By State,New Jersey,New Jersey,16.6
+2514,2022-1,By State,New Mexico,New Mexico,20.9
+2515,2022-1,By State,New York,New York,13.8
+2516,2022-1,By State,North Carolina,North Carolina,12.6
+2517,2022-1,By State,North Dakota,North Dakota,9.1
+2518,2022-1,By State,Ohio,Ohio,14.5
+2519,2022-1,By State,Oklahoma,Oklahoma,15.8
+2520,2022-1,By State,Oregon,Oregon,20.8
+2521,2022-1,By State,Pennsylvania,Pennsylvania,15.0
+2522,2022-1,By State,Rhode Island,Rhode Island,13.5
+2523,2022-1,By State,South Carolina,South Carolina,10.4
+2525,2022-1,By State,Tennessee,Tennessee,13.6
+2526,2022-1,By State,Texas,Texas,19.2
+2527,2022-1,By State,Utah,Utah,12.5
+2528,2022-1,By State,Vermont,Vermont,13.4
+2529,2022-1,By State,Virginia,Virginia,18.3
+2530,2022-1,By State,Washington,Washington,14.2
+2531,2022-1,By State,West Virginia,West Virginia,18.1
+2532,2022-1,By State,Wisconsin,Wisconsin,13.7
+2533,2022-1,By State,Wyoming,Wyoming,10.5
+2534,2022-1,National Estimate,United States,United States,20.5
+2535,2022-1,By Age,United States,18 - 29 years,18.1
+2536,2022-1,By Age,United States,30 - 39 years,19.2
+2537,2022-1,By Age,United States,40 - 49 years,19.4
+2538,2022-1,By Age,United States,50 - 59 years,20.7
+2539,2022-1,By Age,United States,60 - 69 years,22.0
+2540,2022-1,By Age,United States,70 - 79 years,21.9
+2541,2022-1,By Age,United States,80 years and above,28.6
+2542,2022-1,By Sex,United States,Male,18.1
+2543,2022-1,By Sex,United States,Female,22.7
+2544,2022-1,By Gender identity,United States,Cis-gender male,17.7
+2545,2022-1,By Gender identity,United States,Cis-gender female,22.6
+2546,2022-1,By Gender identity,United States,Transgender,25.4
+2547,2022-1,By Sexual orientation,United States,Gay or lesbian,28.0
+2548,2022-1,By Sexual orientation,United States,Straight,19.7
+2549,2022-1,By Sexual orientation,United States,Bisexual,27.1
+2550,2022-1,By Race/Hispanic ethnicity,United States,Hispanic or Latino,22.7
+2551,2022-1,By Race/Hispanic ethnicity,United States,"Non-Hispanic White, single race",19.2
+2552,2022-1,By Race/Hispanic ethnicity,United States,"Non-Hispanic Black, single race",24.1
+2553,2022-1,By Race/Hispanic ethnicity,United States,"Non-Hispanic Asian, single race",21.2
+2554,2022-1,By Race/Hispanic ethnicity,United States,"Non-Hispanic, other races and multiple races",22.6
+2555,2022-1,By Education,United States,Less than a high school diploma,22.2
+2556,2022-1,By Education,United States,High school diploma or GED,19.2
+2557,2022-1,By Education,United States,Some college/Associate's degree,21.1
+2558,2022-1,By Education,United States,Bachelor's degree or higher,20.6
+2559,2022-1,By Disability status,United States,With disability,34.0
+2560,2022-1,By Disability status,United States,Without disability,18.2
+2561,2022-1,By State,Alabama,Alabama,19.4
+2562,2022-1,By State,Alaska,Alaska,23.0
+2563,2022-1,By State,Arizona,Arizona,22.2
+2564,2022-1,By State,Arkansas,Arkansas,19.4
+2565,2022-1,By State,California,California,27.4
+2566,2022-1,By State,Colorado,Colorado,18.2
+2567,2022-1,By State,Connecticut,Connecticut,23.6
+2568,2022-1,By State,Delaware,Delaware,22.9
+2569,2022-1,By State,District of Columbia,District of Columbia,27.5
+2570,2022-1,By State,Florida,Florida,23.4
+2571,2022-1,By State,Georgia,Georgia,21.0
+2572,2022-1,By State,Hawaii,Hawaii,23.7
+2573,2022-1,By State,Idaho,Idaho,14.7
+2574,2022-1,By State,Illinois,Illinois,20.9
+2575,2022-1,By State,Indiana,Indiana,18.1
+2576,2022-1,By State,Iowa,Iowa,10.7
+2577,2022-1,By State,Kansas,Kansas,13.9
+2578,2022-1,By State,Kentucky,Kentucky,19.3
+2579,2022-1,By State,Louisiana,Louisiana,24.6
+2580,2022-1,By State,Maine,Maine,21.9
+2581,2022-1,By State,Maryland,Maryland,24.3
+2582,2022-1,By State,Massachusetts,Massachusetts,27.7
+2583,2022-1,By State,Michigan,Michigan,18.4
+2584,2022-1,By State,Minnesota,Minnesota,19.3
+2585,2022-1,By State,Mississippi,Mississippi,16.2
+2586,2022-1,By State,Missouri,Missouri,14.5
+2587,2022-1,By State,Montana,Montana,12.3
+2588,2022-1,By State,Nebraska,Nebraska,15.8
+2589,2022-1,By State,Nevada,Nevada,17.9
+2590,2022-1,By State,New Hampshire,New Hampshire,17.3
+2591,2022-1,By State,New Jersey,New Jersey,21.8
+2592,2022-1,By State,New Mexico,New Mexico,24.1
+2593,2022-1,By State,New York,New York,21.0
+2594,2022-1,By State,North Carolina,North Carolina,15.3
+2595,2022-1,By State,North Dakota,North Dakota,9.5
+2596,2022-1,By State,Ohio,Ohio,15.2
+2597,2022-1,By State,Oklahoma,Oklahoma,18.2
+2598,2022-1,By State,Oregon,Oregon,23.4
+2599,2022-1,By State,Pennsylvania,Pennsylvania,20.4
+2600,2022-1,By State,Rhode Island,Rhode Island,23.3
+2601,2022-1,By State,South Carolina,South Carolina,16.2
+2602,2022-1,By State,South Dakota,South Dakota,11.2
+2603,2022-1,By State,Tennessee,Tennessee,16.0
+2604,2022-1,By State,Texas,Texas,17.6
+2605,2022-1,By State,Utah,Utah,17.8
+2606,2022-1,By State,Vermont,Vermont,22.0
+2607,2022-1,By State,Virginia,Virginia,20.9
+2608,2022-1,By State,Washington,Washington,23.2
+2609,2022-1,By State,West Virginia,West Virginia,19.7
+2610,2022-1,By State,Wisconsin,Wisconsin,13.4
+2611,2022-1,By State,Wyoming,Wyoming,11.6
+2612,2022-1,National Estimate,United States,United States,15.6
+2613,2022-1,By Education of adult respondent,United States,High school diploma or GED or lower,16.9
+2614,2022-1,By Education of adult respondent,United States,Some college/Associate's degree,15.3
+2615,2022-1,By Education of adult respondent,United States,Bachelor's degree or higher,14.6
+2616,2022-1,By Race/Hispanic ethnicity of adult respondent,United States,Hispanic or Latino,19.7
+2617,2022-1,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic White, single race",13.9
+2618,2022-1,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic Black, single race",15.9
+2619,2022-1,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic Asian, single race",15.2
+2620,2022-1,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic, other races and multiple races",20.1
+2621,2022-1,By Current US Armed Forces or National Guard service of adult respondent or spouse,United States,Yes,13.5
+2622,2022-1,By Current US Armed Forces or National Guard service of adult respondent or spouse,United States,No,15.7
+2623,2022-1,By Health insurance of adult respondent,United States,Private only,13.5
+2624,2022-1,By Health insurance of adult respondent,United States,Any public,19.3
+2625,2022-1,By Health insurance of adult respondent,United States,No insurance,18.3
+2626,2022-1,By Total household income,United States,"Less than $25,000",19.6
+2627,2022-1,By Total household income,United States,"$25,000 - $34,999",17.5
+2628,2022-1,By Total household income,United States,"$35,000 - $49,999",15.7
+2629,2022-1,By Total household income,United States,"$50,000 - $74,999",14.1
+2630,2022-1,By Total household income,United States,"$75,000 - $99,999",12.2
+2631,2022-1,By Total household income,United States,"$100,000 - $149,999",15.9
+2632,2022-1,By Total household income,United States,"$150,000 - $199,999",14.6
+2633,2022-1,By Total household income,United States,"$200,000 and above",14.4
+2634,2022-1,By Total household income,United States,Did not report,15.7
+2635,2022-1,By State,Alabama,Alabama,13.4
+2637,2022-1,By State,Arizona,Arizona,16.5
+2638,2022-1,By State,Arkansas,Arkansas,14.4
+2639,2022-1,By State,California,California,21.7
+2640,2022-1,By State,Colorado,Colorado,14.3
+2641,2022-1,By State,Connecticut,Connecticut,18.7
+2642,2022-1,By State,Delaware,Delaware,19.9
+2643,2022-1,By State,District of Columbia,District of Columbia,16.2
+2644,2022-1,By State,Florida,Florida,12.6
+2645,2022-1,By State,Georgia,Georgia,12.3
+2646,2022-1,By State,Hawaii,Hawaii,19.0
+2647,2022-1,By State,Idaho,Idaho,8.0
+2648,2022-1,By State,Illinois,Illinois,17.4
+2649,2022-1,By State,Indiana,Indiana,13.7
+2650,2022-1,By State,Iowa,Iowa,12.2
+2651,2022-1,By State,Kansas,Kansas,15.3
+2652,2022-1,By State,Kentucky,Kentucky,14.2
+2654,2022-1,By State,Maine,Maine,26.4
+2655,2022-1,By State,Maryland,Maryland,16.9
+2656,2022-1,By State,Massachusetts,Massachusetts,15.7
+2657,2022-1,By State,Michigan,Michigan,14.7
+2658,2022-1,By State,Minnesota,Minnesota,15.3
+2659,2022-1,By State,Mississippi,Mississippi,11.8
+2660,2022-1,By State,Missouri,Missouri,12.5
+2662,2022-1,By State,Nebraska,Nebraska,17.0
+2663,2022-1,By State,Nevada,Nevada,16.3
+2664,2022-1,By State,New Hampshire,New Hampshire,16.8
+2665,2022-1,By State,New Jersey,New Jersey,14.0
+2666,2022-1,By State,New Mexico,New Mexico,9.6
+2667,2022-1,By State,New York,New York,14.4
+2668,2022-1,By State,North Carolina,North Carolina,14.4
+2669,2022-1,By State,North Dakota,North Dakota,11.6
+2670,2022-1,By State,Ohio,Ohio,17.9
+2671,2022-1,By State,Oklahoma,Oklahoma,8.5
+2672,2022-1,By State,Oregon,Oregon,19.2
+2673,2022-1,By State,Pennsylvania,Pennsylvania,19.3
+2674,2022-1,By State,Rhode Island,Rhode Island,16.5
+2675,2022-1,By State,South Carolina,South Carolina,14.6
+2676,2022-1,By State,South Dakota,South Dakota,9.3
+2677,2022-1,By State,Tennessee,Tennessee,13.4
+2678,2022-1,By State,Texas,Texas,15.6
+2679,2022-1,By State,Utah,Utah,12.8
+2680,2022-1,By State,Vermont,Vermont,14.5
+2681,2022-1,By State,Virginia,Virginia,18.0
+2682,2022-1,By State,Washington,Washington,16.7
+2683,2022-1,By State,West Virginia,West Virginia,11.2
+2684,2022-1,By State,Wisconsin,Wisconsin,8.2
+2685,2022-1,By State,Wyoming,Wyoming,9.7
+2686,2022-2,National Estimate,United States,United States,20.8
+2687,2022-2,By Age,United States,18 - 29 years,17.7
+2688,2022-2,By Age,United States,30 - 39 years,21.5
+2689,2022-2,By Age,United States,40 - 49 years,19.3
+2690,2022-2,By Age,United States,50 - 59 years,22.0
+2691,2022-2,By Age,United States,60 - 69 years,21.0
+2692,2022-2,By Age,United States,70 - 79 years,23.3
+2693,2022-2,By Age,United States,80 years and above,22.5
+2694,2022-2,By Sex,United States,Male,18.6
+2695,2022-2,By Sex,United States,Female,22.9
+2696,2022-2,By Gender identity,United States,Cis-gender male,18.3
+2697,2022-2,By Gender identity,United States,Cis-gender female,22.4
+2698,2022-2,By Gender identity,United States,Transgender,44.9
+2699,2022-2,By Sexual orientation,United States,Gay or lesbian,28.5
+2700,2022-2,By Sexual orientation,United States,Straight,20.1
+2701,2022-2,By Sexual orientation,United States,Bisexual,25.1
+2702,2022-2,By Race/Hispanic ethnicity,United States,Hispanic or Latino,24.7
+2703,2022-2,By Race/Hispanic ethnicity,United States,"Non-Hispanic White, single race",19.1
+2704,2022-2,By Race/Hispanic ethnicity,United States,"Non-Hispanic Black, single race",25.7
+2705,2022-2,By Race/Hispanic ethnicity,United States,"Non-Hispanic Asian, single race",19.0
+2706,2022-2,By Race/Hispanic ethnicity,United States,"Non-Hispanic, other races and multiple races",23.9
+2707,2022-2,By Education,United States,Less than a high school diploma,21.8
+2708,2022-2,By Education,United States,High school diploma or GED,19.7
+2709,2022-2,By Education,United States,Some college/Associate's degree,22.1
+2710,2022-2,By Education,United States,Bachelor's degree or higher,20.5
+2711,2022-2,By Disability status,United States,With disability,32.6
+2712,2022-2,By Disability status,United States,Without disability,18.7
+2713,2022-2,By State,Alabama,Alabama,18.9
+2714,2022-2,By State,Alaska,Alaska,17.9
+2715,2022-2,By State,Arizona,Arizona,21.5
+2716,2022-2,By State,Arkansas,Arkansas,17.5
+2717,2022-2,By State,California,California,28.0
+2718,2022-2,By State,Colorado,Colorado,20.0
+2719,2022-2,By State,Connecticut,Connecticut,23.1
+2720,2022-2,By State,Delaware,Delaware,26.4
+2721,2022-2,By State,District of Columbia,District of Columbia,30.7
+2722,2022-2,By State,Florida,Florida,21.0
+2723,2022-2,By State,Georgia,Georgia,20.1
+2724,2022-2,By State,Hawaii,Hawaii,27.2
+2725,2022-2,By State,Idaho,Idaho,14.4
+2726,2022-2,By State,Illinois,Illinois,17.4
+2727,2022-2,By State,Indiana,Indiana,11.7
+2728,2022-2,By State,Iowa,Iowa,14.0
+2729,2022-2,By State,Kansas,Kansas,15.6
+2730,2022-2,By State,Kentucky,Kentucky,15.2
+2731,2022-2,By State,Louisiana,Louisiana,16.8
+2732,2022-2,By State,Maine,Maine,14.8
+2733,2022-2,By State,Maryland,Maryland,25.6
+2734,2022-2,By State,Massachusetts,Massachusetts,24.7
+2735,2022-2,By State,Michigan,Michigan,20.5
+2736,2022-2,By State,Minnesota,Minnesota,17.5
+2737,2022-2,By State,Mississippi,Mississippi,19.1
+2738,2022-2,By State,Missouri,Missouri,16.9
+2739,2022-2,By State,Montana,Montana,14.4
+2740,2022-2,By State,Nebraska,Nebraska,14.7
+2741,2022-2,By State,Nevada,Nevada,18.2
+2742,2022-2,By State,New Hampshire,New Hampshire,18.8
+2743,2022-2,By State,New Jersey,New Jersey,27.3
+2744,2022-2,By State,New Mexico,New Mexico,22.5
+2745,2022-2,By State,New York,New York,23.2
+2746,2022-2,By State,North Carolina,North Carolina,20.8
+2747,2022-2,By State,North Dakota,North Dakota,16.6
+2748,2022-2,By State,Ohio,Ohio,20.5
+2749,2022-2,By State,Oklahoma,Oklahoma,15.1
+2750,2022-2,By State,Oregon,Oregon,26.3
+2751,2022-2,By State,Pennsylvania,Pennsylvania,19.3
+2752,2022-2,By State,Rhode Island,Rhode Island,23.1
+2753,2022-2,By State,South Carolina,South Carolina,18.6
+2754,2022-2,By State,South Dakota,South Dakota,13.2
+2755,2022-2,By State,Tennessee,Tennessee,18.9
+2756,2022-2,By State,Texas,Texas,19.9
+2757,2022-2,By State,Utah,Utah,15.5
+2758,2022-2,By State,Vermont,Vermont,22.3
+2759,2022-2,By State,Virginia,Virginia,18.6
+2760,2022-2,By State,Washington,Washington,22.7
+2761,2022-2,By State,West Virginia,West Virginia,16.4
+2762,2022-2,By State,Wisconsin,Wisconsin,14.7
+2763,2022-2,By State,Wyoming,Wyoming,10.1
+2764,2022-2,National Estimate,United States,United States,15.7
+2765,2022-2,By Education of adult respondent,United States,High school diploma or GED or lower,16.5
+2766,2022-2,By Education of adult respondent,United States,Some college/Associate's degree,17.0
+2767,2022-2,By Education of adult respondent,United States,Bachelor's degree or higher,13.9
+2768,2022-2,By Race/Hispanic ethnicity of adult respondent,United States,Hispanic or Latino,18.0
+2769,2022-2,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic White, single race",14.2
+2770,2022-2,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic Black, single race",18.1
+2771,2022-2,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic Asian, single race",14.1
+2772,2022-2,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic, other races and multiple races",21.7
+2773,2022-2,By Current US Armed Forces or National Guard service of adult respondent or spouse,United States,Yes,14.2
+2774,2022-2,By Current US Armed Forces or National Guard service of adult respondent or spouse,United States,No,15.8
+2775,2022-2,By Health insurance of adult respondent,United States,Private only,14.4
+2776,2022-2,By Health insurance of adult respondent,United States,Any public,19.7
+2777,2022-2,By Health insurance of adult respondent,United States,No insurance,12.0
+2778,2022-2,By Total household income,United States,"Less than $25,000",19.0
+2779,2022-2,By Total household income,United States,"$25,000 - $34,999",17.7
+2780,2022-2,By Total household income,United States,"$35,000 - $49,999",15.8
+2781,2022-2,By Total household income,United States,"$50,000 - $74,999",15.2
+2782,2022-2,By Total household income,United States,"$75,000 - $99,999",12.9
+2783,2022-2,By Total household income,United States,"$100,000 - $149,999",14.8
+2784,2022-2,By Total household income,United States,"$150,000 - $199,999",15.6
+2785,2022-2,By Total household income,United States,"$200,000 and above",13.8
+2786,2022-2,By Total household income,United States,Did not report,16.4
+2787,2022-2,By State,Alabama,Alabama,11.6
+2788,2022-2,By State,Alaska,Alaska,8.2
+2789,2022-2,By State,Arizona,Arizona,11.7
+2791,2022-2,By State,California,California,19.3
+2792,2022-2,By State,Colorado,Colorado,22.9
+2793,2022-2,By State,Connecticut,Connecticut,20.9
+2794,2022-2,By State,Delaware,Delaware,13.8
+2795,2022-2,By State,District of Columbia,District of Columbia,26.3
+2796,2022-2,By State,Florida,Florida,18.9
+2797,2022-2,By State,Georgia,Georgia,16.5
+2798,2022-2,By State,Hawaii,Hawaii,14.2
+2799,2022-2,By State,Idaho,Idaho,10.3
+2800,2022-2,By State,Illinois,Illinois,12.4
+2801,2022-2,By State,Indiana,Indiana,12.5
+2803,2022-2,By State,Kansas,Kansas,13.6
+2804,2022-2,By State,Kentucky,Kentucky,11.5
+2806,2022-2,By State,Maine,Maine,11.8
+2807,2022-2,By State,Maryland,Maryland,19.9
+2808,2022-2,By State,Massachusetts,Massachusetts,20.6
+2809,2022-2,By State,Michigan,Michigan,13.6
+2810,2022-2,By State,Minnesota,Minnesota,13.6
+2811,2022-2,By State,Mississippi,Mississippi,13.3
+2812,2022-2,By State,Missouri,Missouri,8.1
+2813,2022-2,By State,Montana,Montana,14.2
+2814,2022-2,By State,Nebraska,Nebraska,9.6
+2815,2022-2,By State,Nevada,Nevada,12.6
+2816,2022-2,By State,New Hampshire,New Hampshire,18.5
+2817,2022-2,By State,New Jersey,New Jersey,13.7
+2818,2022-2,By State,New Mexico,New Mexico,14.2
+2819,2022-2,By State,New York,New York,19.9
+2820,2022-2,By State,North Carolina,North Carolina,15.8
+2821,2022-2,By State,North Dakota,North Dakota,11.6
+2822,2022-2,By State,Ohio,Ohio,12.8
+2823,2022-2,By State,Oklahoma,Oklahoma,11.1
+2824,2022-2,By State,Oregon,Oregon,17.8
+2825,2022-2,By State,Pennsylvania,Pennsylvania,20.4
+2826,2022-2,By State,Rhode Island,Rhode Island,14.4
+2827,2022-2,By State,South Carolina,South Carolina,8.8
+2829,2022-2,By State,Tennessee,Tennessee,11.3
+2830,2022-2,By State,Texas,Texas,19.0
+2831,2022-2,By State,Utah,Utah,11.5
+2832,2022-2,By State,Vermont,Vermont,12.2
+2833,2022-2,By State,Virginia,Virginia,16.2
+2834,2022-2,By State,Washington,Washington,18.3
+2835,2022-2,By State,West Virginia,West Virginia,10.7
+2836,2022-2,By State,Wisconsin,Wisconsin,11.8
+2837,2022-2,By State,Wyoming,Wyoming,16.4
+2838,2022-2,National Estimate,United States,United States,
+2839,2022-2,By Age,United States,18 - 29 years,
+2840,2022-2,By Age,United States,30 - 39 years,
+2841,2022-2,By Age,United States,40 - 49 years,
+2842,2022-2,By Age,United States,50 - 59 years,
+2843,2022-2,By Age,United States,60 - 69 years,
+2844,2022-2,By Age,United States,70 - 79 years,
+2845,2022-2,By Age,United States,80 years and above,
+2846,2022-2,By Sex,United States,Male,
+2847,2022-2,By Sex,United States,Female,
+2848,2022-2,By Gender identity,United States,Cis-gender male,
+2849,2022-2,By Gender identity,United States,Cis-gender female,
+2850,2022-2,By Gender identity,United States,Transgender,
+2851,2022-2,By Sexual orientation,United States,Gay or lesbian,
+2852,2022-2,By Sexual orientation,United States,Straight,
+2853,2022-2,By Sexual orientation,United States,Bisexual,
+2854,2022-2,By Race/Hispanic ethnicity,United States,Hispanic or Latino,
+2855,2022-2,By Race/Hispanic ethnicity,United States,"Non-Hispanic White, single race",
+2856,2022-2,By Race/Hispanic ethnicity,United States,"Non-Hispanic Black, single race",
+2857,2022-2,By Race/Hispanic ethnicity,United States,"Non-Hispanic Asian, single race",
+2858,2022-2,By Race/Hispanic ethnicity,United States,"Non-Hispanic, other races and multiple races",
+2859,2022-2,By Education,United States,Less than a high school diploma,
+2860,2022-2,By Education,United States,High school diploma or GED,
+2861,2022-2,By Education,United States,Some college/Associate's degree,
+2862,2022-2,By Education,United States,Bachelor's degree or higher,
+2863,2022-2,By Disability status,United States,With disability,
+2864,2022-2,By Disability status,United States,Without disability,
+2865,2022-2,National Estimate,United States,United States,23.1
+2866,2022-2,By Age,United States,18 - 29 years,17.9
+2867,2022-2,By Age,United States,30 - 39 years,21.6
+2868,2022-2,By Age,United States,40 - 49 years,21.2
+2869,2022-2,By Age,United States,50 - 59 years,25.2
+2870,2022-2,By Age,United States,60 - 69 years,25.1
+2871,2022-2,By Age,United States,70 - 79 years,26.7
+2872,2022-2,By Age,United States,80 years and above,31.7
+2873,2022-2,By Sex,United States,Male,20.6
+2874,2022-2,By Sex,United States,Female,25.6
+2875,2022-2,By Gender identity,United States,Cis-gender male,20.5
+2876,2022-2,By Gender identity,United States,Cis-gender female,25.5
+2877,2022-2,By Gender identity,United States,Transgender,37.9
+2878,2022-2,By Sexual orientation,United States,Gay or lesbian,27.6
+2879,2022-2,By Sexual orientation,United States,Straight,22.8
+2880,2022-2,By Sexual orientation,United States,Bisexual,26.8
+2881,2022-2,By Race/Hispanic ethnicity,United States,Hispanic or Latino,22.2
+2882,2022-2,By Race/Hispanic ethnicity,United States,"Non-Hispanic White, single race",22.3
+2883,2022-2,By Race/Hispanic ethnicity,United States,"Non-Hispanic Black, single race",29.6
+2884,2022-2,By Race/Hispanic ethnicity,United States,"Non-Hispanic Asian, single race",21.9
+2885,2022-2,By Race/Hispanic ethnicity,United States,"Non-Hispanic, other races and multiple races",24.7
+2886,2022-2,By Education,United States,Less than a high school diploma,28.5
+2887,2022-2,By Education,United States,High school diploma or GED,21.2
+2888,2022-2,By Education,United States,Some college/Associate's degree,23.0
+2889,2022-2,By Education,United States,Bachelor's degree or higher,23.9
+2890,2022-2,By Disability status,United States,With disability,33.1
+2891,2022-2,By Disability status,United States,Without disability,21.2
+2892,2022-2,By State,Alabama,Alabama,24.0
+2893,2022-2,By State,Alaska,Alaska,19.9
+2894,2022-2,By State,Arizona,Arizona,23.1
+2895,2022-2,By State,Arkansas,Arkansas,20.2
+2896,2022-2,By State,California,California,28.2
+2897,2022-2,By State,Colorado,Colorado,21.5
+2898,2022-2,By State,Connecticut,Connecticut,25.3
+2899,2022-2,By State,Delaware,Delaware,27.1
+2900,2022-2,By State,District of Columbia,District of Columbia,38.3
+2901,2022-2,By State,Florida,Florida,24.0
+2902,2022-2,By State,Georgia,Georgia,20.5
+2903,2022-2,By State,Hawaii,Hawaii,33.4
+2904,2022-2,By State,Idaho,Idaho,15.0
+2905,2022-2,By State,Illinois,Illinois,26.0
+2906,2022-2,By State,Indiana,Indiana,18.5
+2907,2022-2,By State,Iowa,Iowa,18.2
+2908,2022-2,By State,Kansas,Kansas,15.3
+2909,2022-2,By State,Kentucky,Kentucky,20.6
+2910,2022-2,By State,Louisiana,Louisiana,24.4
+2911,2022-2,By State,Maine,Maine,16.9
+2912,2022-2,By State,Maryland,Maryland,25.8
+2913,2022-2,By State,Massachusetts,Massachusetts,30.0
+2914,2022-2,By State,Michigan,Michigan,23.6
+2915,2022-2,By State,Minnesota,Minnesota,22.7
+2916,2022-2,By State,Mississippi,Mississippi,18.2
+2917,2022-2,By State,Missouri,Missouri,17.2
+2918,2022-2,By State,Montana,Montana,19.3
+2919,2022-2,By State,Nebraska,Nebraska,13.2
+2920,2022-2,By State,Nevada,Nevada,21.9
+2921,2022-2,By State,New Hampshire,New Hampshire,22.9
+2922,2022-2,By State,New Jersey,New Jersey,23.7
+2923,2022-2,By State,New Mexico,New Mexico,26.3
+2924,2022-2,By State,New York,New York,26.2
+2925,2022-2,By State,North Carolina,North Carolina,22.6
+2926,2022-2,By State,North Dakota,North Dakota,14.5
+2927,2022-2,By State,Ohio,Ohio,22.2
+2928,2022-2,By State,Oklahoma,Oklahoma,20.4
+2929,2022-2,By State,Oregon,Oregon,25.8
+2930,2022-2,By State,Pennsylvania,Pennsylvania,23.0
+2931,2022-2,By State,Rhode Island,Rhode Island,30.5
+2932,2022-2,By State,South Carolina,South Carolina,22.6
+2933,2022-2,By State,South Dakota,South Dakota,17.0
+2934,2022-2,By State,Tennessee,Tennessee,19.1
+2935,2022-2,By State,Texas,Texas,19.0
+2936,2022-2,By State,Utah,Utah,19.9
+2937,2022-2,By State,Vermont,Vermont,20.5
+2938,2022-2,By State,Virginia,Virginia,24.2
+2939,2022-2,By State,Washington,Washington,22.4
+2940,2022-2,By State,West Virginia,West Virginia,23.7
+2941,2022-2,By State,Wisconsin,Wisconsin,19.8
+2942,2022-2,By State,Wyoming,Wyoming,17.6
+2943,2022-2,National Estimate,United States,United States,
+2944,2022-2,By Education of adult respondent,United States,High school diploma or GED or lower,
+2945,2022-2,By Education of adult respondent,United States,Some college/Associate's degree,
+2946,2022-2,By Education of adult respondent,United States,Bachelor's degree or higher,
+2947,2022-2,By Race/Hispanic ethnicity of adult respondent,United States,Hispanic or Latino,
+2948,2022-2,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic White, single race",
+2949,2022-2,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic Black, single race",
+2950,2022-2,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic Asian, single race",
+2951,2022-2,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic, other races and multiple races",
+2952,2022-2,By Current US Armed Forces or National Guard service of adult respondent or spouse,United States,Yes,
+2953,2022-2,By Current US Armed Forces or National Guard service of adult respondent or spouse,United States,No,
+2954,2022-2,By Health insurance of adult respondent,United States,Private only,
+2955,2022-2,By Health insurance of adult respondent,United States,Any public,
+2956,2022-2,By Health insurance of adult respondent,United States,No insurance,
+2957,2022-2,By Total household income,United States,"Less than $25,000",
+2958,2022-2,By Total household income,United States,"$25,000 - $34,999",
+2959,2022-2,By Total household income,United States,"$35,000 - $49,999",
+2960,2022-2,By Total household income,United States,"$50,000 - $74,999",
+2961,2022-2,By Total household income,United States,"$75,000 - $99,999",
+2962,2022-2,By Total household income,United States,"$100,000 - $149,999",
+2963,2022-2,By Total household income,United States,"$150,000 - $199,999",
+2964,2022-2,By Total household income,United States,"$200,000 and above",
+2965,2022-2,By Total household income,United States,Did not report,
+2966,2022-2,National Estimate,United States,United States,16.7
+2967,2022-2,By Education of adult respondent,United States,High school diploma or GED or lower,16.3
+2968,2022-2,By Education of adult respondent,United States,Some college/Associate's degree,16.8
+2969,2022-2,By Education of adult respondent,United States,Bachelor's degree or higher,17.1
+2970,2022-2,By Race/Hispanic ethnicity of adult respondent,United States,Hispanic or Latino,20.4
+2971,2022-2,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic White, single race",15.1
+2972,2022-2,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic Black, single race",16.6
+2973,2022-2,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic Asian, single race",20.3
+2974,2022-2,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic, other races and multiple races",16.2
+2975,2022-2,By Current US Armed Forces or National Guard service of adult respondent or spouse,United States,Yes,13.4
+2976,2022-2,By Current US Armed Forces or National Guard service of adult respondent or spouse,United States,No,16.8
+2977,2022-2,By Health insurance of adult respondent,United States,Private only,15.5
+2978,2022-2,By Health insurance of adult respondent,United States,Any public,19.3
+2979,2022-2,By Health insurance of adult respondent,United States,No insurance,14.7
+2980,2022-2,By Total household income,United States,"Less than $25,000",19.4
+2981,2022-2,By Total household income,United States,"$25,000 - $34,999",17.3
+2982,2022-2,By Total household income,United States,"$35,000 - $49,999",16.0
+2983,2022-2,By Total household income,United States,"$50,000 - $74,999",16.1
+2984,2022-2,By Total household income,United States,"$75,000 - $99,999",14.1
+2985,2022-2,By Total household income,United States,"$100,000 - $149,999",17.7
+2986,2022-2,By Total household income,United States,"$150,000 - $199,999",16.8
+2987,2022-2,By Total household income,United States,"$200,000 and above",17.4
+2988,2022-2,By Total household income,United States,Did not report,15.1
+2989,2022-2,By State,Alabama,Alabama,12.5
+2990,2022-2,By State,Alaska,Alaska,12.9
+2991,2022-2,By State,Arizona,Arizona,20.7
+2992,2022-2,By State,Arkansas,Arkansas,12.9
+2993,2022-2,By State,California,California,19.0
+2994,2022-2,By State,Colorado,Colorado,14.3
+2995,2022-2,By State,Connecticut,Connecticut,19.5
+2996,2022-2,By State,Delaware,Delaware,17.7
+2998,2022-2,By State,Florida,Florida,16.5
+2999,2022-2,By State,Georgia,Georgia,15.1
+3000,2022-2,By State,Hawaii,Hawaii,24.1
+3001,2022-2,By State,Idaho,Idaho,8.9
+3002,2022-2,By State,Illinois,Illinois,14.6
+3003,2022-2,By State,Indiana,Indiana,13.0
+3004,2022-2,By State,Iowa,Iowa,15.1
+3005,2022-2,By State,Kansas,Kansas,14.3
+3006,2022-2,By State,Kentucky,Kentucky,13.0
+3007,2022-2,By State,Louisiana,Louisiana,20.2
+3008,2022-2,By State,Maine,Maine,12.8
+3009,2022-2,By State,Maryland,Maryland,21.9
+3010,2022-2,By State,Massachusetts,Massachusetts,20.6
+3011,2022-2,By State,Michigan,Michigan,18.7
+3012,2022-2,By State,Minnesota,Minnesota,14.0
+3014,2022-2,By State,Missouri,Missouri,10.7
+3016,2022-2,By State,Nebraska,Nebraska,12.3
+3017,2022-2,By State,Nevada,Nevada,10.7
+3018,2022-2,By State,New Hampshire,New Hampshire,8.5
+3019,2022-2,By State,New Jersey,New Jersey,17.9
+3020,2022-2,By State,New Mexico,New Mexico,16.8
+3021,2022-2,By State,New York,New York,20.4
+3022,2022-2,By State,North Carolina,North Carolina,18.7
+3024,2022-2,By State,Ohio,Ohio,17.8
+3025,2022-2,By State,Oklahoma,Oklahoma,17.4
+3026,2022-2,By State,Oregon,Oregon,20.1
+3027,2022-2,By State,Pennsylvania,Pennsylvania,18.1
+3029,2022-2,By State,South Carolina,South Carolina,13.8
+3031,2022-2,By State,Tennessee,Tennessee,13.3
+3032,2022-2,By State,Texas,Texas,17.1
+3033,2022-2,By State,Utah,Utah,11.2
+3034,2022-2,By State,Vermont,Vermont,18.3
+3035,2022-2,By State,Virginia,Virginia,20.0
+3036,2022-2,By State,Washington,Washington,15.8
+3037,2022-2,By State,West Virginia,West Virginia,13.6
+3038,2022-2,By State,Wisconsin,Wisconsin,13.7
+3039,2022-2,By State,Wyoming,Wyoming,9.3
+3040,2022-2,National Estimate,United States,United States,22.8
+3041,2022-2,By Age,United States,18 - 29 years,19.2
+3042,2022-2,By Age,United States,30 - 39 years,20.6
+3043,2022-2,By Age,United States,40 - 49 years,22.6
+3044,2022-2,By Age,United States,50 - 59 years,22.7
+3045,2022-2,By Age,United States,60 - 69 years,23.9
+3046,2022-2,By Age,United States,70 - 79 years,27.0
+3047,2022-2,By Age,United States,80 years and above,36.4
+3048,2022-2,By Sex,United States,Male,20.4
+3049,2022-2,By Sex,United States,Female,25.2
+3050,2022-2,By Gender identity,United States,Cis-gender male,20.3
+3051,2022-2,By Gender identity,United States,Cis-gender female,24.9
+3052,2022-2,By Gender identity,United States,Transgender,27.4
+3053,2022-2,By Sexual orientation,United States,Gay or lesbian,25.3
+3054,2022-2,By Sexual orientation,United States,Straight,22.2
+3055,2022-2,By Sexual orientation,United States,Bisexual,29.2
+3056,2022-2,By Race/Hispanic ethnicity,United States,Hispanic or Latino,23.0
+3057,2022-2,By Race/Hispanic ethnicity,United States,"Non-Hispanic White, single race",21.5
+3058,2022-2,By Race/Hispanic ethnicity,United States,"Non-Hispanic Black, single race",28.0
+3059,2022-2,By Race/Hispanic ethnicity,United States,"Non-Hispanic Asian, single race",25.4
+3060,2022-2,By Race/Hispanic ethnicity,United States,"Non-Hispanic, other races and multiple races",26.3
+3061,2022-2,By Education,United States,Less than a high school diploma,26.4
+3062,2022-2,By Education,United States,High school diploma or GED,20.3
+3063,2022-2,By Education,United States,Some college/Associate's degree,23.7
+3064,2022-2,By Education,United States,Bachelor's degree or higher,23.6
+3065,2022-2,By Disability status,United States,With disability,32.9
+3066,2022-2,By Disability status,United States,Without disability,20.9
+3067,2022-2,By State,Alabama,Alabama,19.3
+3068,2022-2,By State,Alaska,Alaska,20.0
+3069,2022-2,By State,Arizona,Arizona,24.9
+3070,2022-2,By State,Arkansas,Arkansas,19.6
+3071,2022-2,By State,California,California,27.8
+3072,2022-2,By State,Colorado,Colorado,23.3
+3073,2022-2,By State,Connecticut,Connecticut,29.4
+3074,2022-2,By State,Delaware,Delaware,31.1
+3075,2022-2,By State,District of Columbia,District of Columbia,36.8
+3076,2022-2,By State,Florida,Florida,22.3
+3077,2022-2,By State,Georgia,Georgia,19.1
+3078,2022-2,By State,Hawaii,Hawaii,37.1
+3079,2022-2,By State,Idaho,Idaho,19.2
+3080,2022-2,By State,Illinois,Illinois,23.6
+3081,2022-2,By State,Indiana,Indiana,20.5
+3082,2022-2,By State,Iowa,Iowa,18.2
+3083,2022-2,By State,Kansas,Kansas,16.1
+3084,2022-2,By State,Kentucky,Kentucky,21.7
+3085,2022-2,By State,Louisiana,Louisiana,19.5
+3086,2022-2,By State,Maine,Maine,25.9
+3087,2022-2,By State,Maryland,Maryland,28.5
+3088,2022-2,By State,Massachusetts,Massachusetts,24.2
+3089,2022-2,By State,Michigan,Michigan,23.5
+3090,2022-2,By State,Minnesota,Minnesota,21.1
+3091,2022-2,By State,Mississippi,Mississippi,25.9
+3092,2022-2,By State,Missouri,Missouri,17.1
+3093,2022-2,By State,Montana,Montana,16.7
+3094,2022-2,By State,Nebraska,Nebraska,18.9
+3095,2022-2,By State,Nevada,Nevada,19.7
+3096,2022-2,By State,New Hampshire,New Hampshire,20.7
+3097,2022-2,By State,New Jersey,New Jersey,25.1
+3098,2022-2,By State,New Mexico,New Mexico,33.1
+3099,2022-2,By State,New York,New York,23.6
+3100,2022-2,By State,North Carolina,North Carolina,24.0
+3101,2022-2,By State,North Dakota,North Dakota,10.8
+3102,2022-2,By State,Ohio,Ohio,21.4
+3103,2022-2,By State,Oklahoma,Oklahoma,18.5
+3104,2022-2,By State,Oregon,Oregon,28.3
+3105,2022-2,By State,Pennsylvania,Pennsylvania,18.2
+3106,2022-2,By State,Rhode Island,Rhode Island,24.5
+3107,2022-2,By State,South Carolina,South Carolina,19.9
+3108,2022-2,By State,South Dakota,South Dakota,14.1
+3109,2022-2,By State,Tennessee,Tennessee,21.3
+3110,2022-2,By State,Texas,Texas,21.5
+3111,2022-2,By State,Utah,Utah,20.1
+3112,2022-2,By State,Vermont,Vermont,23.2
+3113,2022-2,By State,Virginia,Virginia,25.1
+3114,2022-2,By State,Washington,Washington,22.4
+3115,2022-2,By State,West Virginia,West Virginia,20.3
+3116,2022-2,By State,Wisconsin,Wisconsin,15.4
+3117,2022-2,By State,Wyoming,Wyoming,19.5
+3118,2022-2,National Estimate,United States,United States,16.3
+3119,2022-2,By Education of adult respondent,United States,High school diploma or GED or lower,16.6
+3120,2022-2,By Education of adult respondent,United States,Some college/Associate's degree,15.8
+3121,2022-2,By Education of adult respondent,United States,Bachelor's degree or higher,16.4
+3122,2022-2,By Race/Hispanic ethnicity of adult respondent,United States,Hispanic or Latino,18.3
+3123,2022-2,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic White, single race",14.6
+3124,2022-2,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic Black, single race",17.5
+3125,2022-2,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic Asian, single race",21.6
+3126,2022-2,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic, other races and multiple races",18.2
+3127,2022-2,By Current US Armed Forces or National Guard service of adult respondent or spouse,United States,Yes,6.8
+3128,2022-2,By Current US Armed Forces or National Guard service of adult respondent or spouse,United States,No,16.4
+3129,2022-2,By Health insurance of adult respondent,United States,Private only,16.0
+3130,2022-2,By Health insurance of adult respondent,United States,Any public,17.0
+3131,2022-2,By Health insurance of adult respondent,United States,No insurance,16.4
+3132,2022-2,By Total household income,United States,"Less than $25,000",20.0
+3133,2022-2,By Total household income,United States,"$25,000 - $34,999",14.1
+3134,2022-2,By Total household income,United States,"$35,000 - $49,999",13.9
+3135,2022-2,By Total household income,United States,"$50,000 - $74,999",17.2
+3136,2022-2,By Total household income,United States,"$75,000 - $99,999",17.3
+3137,2022-2,By Total household income,United States,"$100,000 - $149,999",15.1
+3138,2022-2,By Total household income,United States,"$150,000 - $199,999",15.9
+3139,2022-2,By Total household income,United States,"$200,000 and above",17.0
+3140,2022-2,By Total household income,United States,Did not report,15.3
+3141,2022-2,By State,Alabama,Alabama,8.6
+3142,2022-2,By State,Alaska,Alaska,14.3
+3143,2022-2,By State,Arizona,Arizona,19.9
+3145,2022-2,By State,California,California,20.4
+3146,2022-2,By State,Colorado,Colorado,13.1
+3147,2022-2,By State,Connecticut,Connecticut,27.6
+3148,2022-2,By State,Delaware,Delaware,16.1
+3149,2022-2,By State,District of Columbia,District of Columbia,24.0
+3150,2022-2,By State,Florida,Florida,18.4
+3151,2022-2,By State,Georgia,Georgia,14.3
+3152,2022-2,By State,Hawaii,Hawaii,19.4
+3154,2022-2,By State,Illinois,Illinois,16.7
+3155,2022-2,By State,Indiana,Indiana,17.8
+3156,2022-2,By State,Iowa,Iowa,11.5
+3157,2022-2,By State,Kansas,Kansas,11.9
+3158,2022-2,By State,Kentucky,Kentucky,15.4
+3159,2022-2,By State,Louisiana,Louisiana,15.4
+3161,2022-2,By State,Maryland,Maryland,20.1
+3162,2022-2,By State,Massachusetts,Massachusetts,16.1
+3163,2022-2,By State,Michigan,Michigan,10.7
+3164,2022-2,By State,Minnesota,Minnesota,16.2
+3165,2022-2,By State,Mississippi,Mississippi,12.8
+3166,2022-2,By State,Missouri,Missouri,10.3
+3168,2022-2,By State,Nebraska,Nebraska,10.2
+3169,2022-2,By State,Nevada,Nevada,13.1
+3170,2022-2,By State,New Hampshire,New Hampshire,15.8
+3171,2022-2,By State,New Jersey,New Jersey,15.2
+3172,2022-2,By State,New Mexico,New Mexico,14.4
+3173,2022-2,By State,New York,New York,14.1
+3174,2022-2,By State,North Carolina,North Carolina,10.4
+3176,2022-2,By State,Ohio,Ohio,17.1
+3177,2022-2,By State,Oklahoma,Oklahoma,16.0
+3178,2022-2,By State,Oregon,Oregon,18.1
+3179,2022-2,By State,Pennsylvania,Pennsylvania,17.2
+3180,2022-2,By State,Rhode Island,Rhode Island,15.8
+3181,2022-2,By State,South Carolina,South Carolina,18.0
+3182,2022-2,By State,South Dakota,South Dakota,10.1
+3183,2022-2,By State,Tennessee,Tennessee,13.7
+3184,2022-2,By State,Texas,Texas,19.0
+3185,2022-2,By State,Utah,Utah,10.5
+3186,2022-2,By State,Vermont,Vermont,16.6
+3187,2022-2,By State,Virginia,Virginia,22.0
+3188,2022-2,By State,Washington,Washington,14.2
+3189,2022-2,By State,West Virginia,West Virginia,17.0
+3190,2022-2,By State,Wisconsin,Wisconsin,16.0
+3192,2022-3,National Estimate,United States,United States,22.8
+3193,2022-3,By Age,United States,18 - 29 years,18.9
+3194,2022-3,By Age,United States,30 - 39 years,20.7
+3195,2022-3,By Age,United States,40 - 49 years,21.6
+3196,2022-3,By Age,United States,50 - 59 years,24.4
+3197,2022-3,By Age,United States,60 - 69 years,23.4
+3198,2022-3,By Age,United States,70 - 79 years,28.8
+3199,2022-3,By Age,United States,80 years and above,31.1
+3200,2022-3,By Sex,United States,Male,19.2
+3201,2022-3,By Sex,United States,Female,26.2
+3202,2022-3,By Gender identity,United States,Cis-gender male,18.8
+3203,2022-3,By Gender identity,United States,Cis-gender female,26.0
+3204,2022-3,By Gender identity,United States,Transgender,43.3
+3205,2022-3,By Sexual orientation,United States,Gay or lesbian,27.5
+3206,2022-3,By Sexual orientation,United States,Straight,21.9
+3207,2022-3,By Sexual orientation,United States,Bisexual,30.7
+3208,2022-3,By Race/Hispanic ethnicity,United States,Hispanic or Latino,23.8
+3209,2022-3,By Race/Hispanic ethnicity,United States,"Non-Hispanic White, single race",21.4
+3210,2022-3,By Race/Hispanic ethnicity,United States,"Non-Hispanic Black, single race",28.6
+3211,2022-3,By Race/Hispanic ethnicity,United States,"Non-Hispanic Asian, single race",23.1
+3212,2022-3,By Race/Hispanic ethnicity,United States,"Non-Hispanic, other races and multiple races",26.0
+3213,2022-3,By Education,United States,Less than a high school diploma,31.8
+3214,2022-3,By Education,United States,High school diploma or GED,20.1
+3215,2022-3,By Education,United States,Some college/Associate's degree,22.3
+3216,2022-3,By Education,United States,Bachelor's degree or higher,23.8
+3217,2022-3,By Disability status,United States,With disability,34.2
+3218,2022-3,By Disability status,United States,Without disability,20.4
+3219,2022-3,By State,Alabama,Alabama,18.8
+3220,2022-3,By State,Alaska,Alaska,20.8
+3221,2022-3,By State,Arizona,Arizona,20.4
+3222,2022-3,By State,Arkansas,Arkansas,17.9
+3223,2022-3,By State,California,California,27.0
+3224,2022-3,By State,Colorado,Colorado,21.4
+3225,2022-3,By State,Connecticut,Connecticut,31.4
+3226,2022-3,By State,Delaware,Delaware,27.3
+3227,2022-3,By State,District of Columbia,District of Columbia,28.3
+3228,2022-3,By State,Florida,Florida,26.2
+3229,2022-3,By State,Georgia,Georgia,21.3
+3230,2022-3,By State,Hawaii,Hawaii,28.8
+3231,2022-3,By State,Idaho,Idaho,16.6
+3232,2022-3,By State,Illinois,Illinois,18.1
+3233,2022-3,By State,Indiana,Indiana,21.1
+3234,2022-3,By State,Iowa,Iowa,15.4
+3235,2022-3,By State,Kansas,Kansas,16.7
+3236,2022-3,By State,Kentucky,Kentucky,20.1
+3237,2022-3,By State,Louisiana,Louisiana,23.0
+3238,2022-3,By State,Maine,Maine,17.0
+3239,2022-3,By State,Maryland,Maryland,28.3
+3240,2022-3,By State,Massachusetts,Massachusetts,26.4
+3241,2022-3,By State,Michigan,Michigan,19.1
+3242,2022-3,By State,Minnesota,Minnesota,20.6
+3243,2022-3,By State,Mississippi,Mississippi,21.9
+3244,2022-3,By State,Missouri,Missouri,20.9
+3245,2022-3,By State,Montana,Montana,22.7
+3246,2022-3,By State,Nebraska,Nebraska,16.7
+3247,2022-3,By State,Nevada,Nevada,21.9
+3248,2022-3,By State,New Hampshire,New Hampshire,18.2
+3249,2022-3,By State,New Jersey,New Jersey,26.9
+3250,2022-3,By State,New Mexico,New Mexico,27.9
+3251,2022-3,By State,New York,New York,22.2
+3252,2022-3,By State,North Carolina,North Carolina,25.0
+3253,2022-3,By State,North Dakota,North Dakota,15.2
+3254,2022-3,By State,Ohio,Ohio,25.8
+3255,2022-3,By State,Oklahoma,Oklahoma,15.5
+3256,2022-3,By State,Oregon,Oregon,23.3
+3257,2022-3,By State,Pennsylvania,Pennsylvania,23.7
+3258,2022-3,By State,Rhode Island,Rhode Island,31.7
+3259,2022-3,By State,South Carolina,South Carolina,18.6
+3260,2022-3,By State,South Dakota,South Dakota,17.1
+3261,2022-3,By State,Tennessee,Tennessee,18.8
+3262,2022-3,By State,Texas,Texas,22.1
+3263,2022-3,By State,Utah,Utah,22.2
+3264,2022-3,By State,Vermont,Vermont,25.0
+3265,2022-3,By State,Virginia,Virginia,23.0
+3266,2022-3,By State,Washington,Washington,24.2
+3267,2022-3,By State,West Virginia,West Virginia,15.5
+3268,2022-3,By State,Wisconsin,Wisconsin,17.0
+3269,2022-3,By State,Wyoming,Wyoming,14.8
+3270,2022-3,National Estimate,United States,United States,15.9
+3271,2022-3,By Education of adult respondent,United States,High school diploma or GED or lower,15.5
+3272,2022-3,By Education of adult respondent,United States,Some college/Associate's degree,16.1
+3273,2022-3,By Education of adult respondent,United States,Bachelor's degree or higher,16.1
+3274,2022-3,By Race/Hispanic ethnicity of adult respondent,United States,Hispanic or Latino,18.2
+3275,2022-3,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic White, single race",13.7
+3276,2022-3,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic Black, single race",18.1
+3277,2022-3,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic Asian, single race",20.8
+3278,2022-3,By Race/Hispanic ethnicity of adult respondent,United States,"Non-Hispanic, other races and multiple races",20.1
+3279,2022-3,By Current US Armed Forces or National Guard service of adult respondent or spouse,United States,Yes,18.4
+3280,2022-3,By Current US Armed Forces or National Guard service of adult respondent or spouse,United States,No,15.8
+3281,2022-3,By Health insurance of adult respondent,United States,Private only,15.2
+3282,2022-3,By Health insurance of adult respondent,United States,Any public,17.8
+3283,2022-3,By Health insurance of adult respondent,United States,No insurance,12.4
+3284,2022-3,By Total household income,United States,"Less than $25,000",19.7
+3285,2022-3,By Total household income,United States,"$25,000 - $34,999",15.4
+3286,2022-3,By Total household income,United States,"$35,000 - $49,999",15.9
+3287,2022-3,By Total household income,United States,"$50,000 - $74,999",15.3
+3288,2022-3,By Total household income,United States,"$75,000 - $99,999",16.6
+3289,2022-3,By Total household income,United States,"$100,000 - $149,999",13.3
+3290,2022-3,By Total household income,United States,"$150,000 - $199,999",13.6
+3291,2022-3,By Total household income,United States,"$200,000 and above",15.7
+3292,2022-3,By Total household income,United States,Did not report,16.3
+3293,2022-3,By State,Alabama,Alabama,12.1
+3294,2022-3,By State,Alaska,Alaska,17.7
+3295,2022-3,By State,Arizona,Arizona,17.1
+3296,2022-3,By State,Arkansas,Arkansas,14.2
+3297,2022-3,By State,California,California,18.5
+3298,2022-3,By State,Colorado,Colorado,8.6
+3299,2022-3,By State,Connecticut,Connecticut,19.8
+3300,2022-3,By State,Delaware,Delaware,17.3
+3301,2022-3,By State,District of Columbia,District of Columbia,17.2
+3302,2022-3,By State,Florida,Florida,16.0
+3303,2022-3,By State,Georgia,Georgia,19.2
+3304,2022-3,By State,Hawaii,Hawaii,19.3
+3305,2022-3,By State,Idaho,Idaho,9.4
+3306,2022-3,By State,Illinois,Illinois,18.6
+3307,2022-3,By State,Indiana,Indiana,16.8
+3308,2022-3,By State,Iowa,Iowa,11.5
+3309,2022-3,By State,Kansas,Kansas,15.0
+3310,2022-3,By State,Kentucky,Kentucky,12.9
+3311,2022-3,By State,Louisiana,Louisiana,12.5
+3313,2022-3,By State,Maryland,Maryland,17.6
+3314,2022-3,By State,Massachusetts,Massachusetts,21.0
+3315,2022-3,By State,Michigan,Michigan,16.1
+3316,2022-3,By State,Minnesota,Minnesota,19.6
+3317,2022-3,By State,Mississippi,Mississippi,9.6
+3318,2022-3,By State,Missouri,Missouri,12.8
+3319,2022-3,By State,Montana,Montana,9.7
+3320,2022-3,By State,Nebraska,Nebraska,11.6
+3321,2022-3,By State,Nevada,Nevada,11.8
+3322,2022-3,By State,New Hampshire,New Hampshire,15.5
+3323,2022-3,By State,New Jersey,New Jersey,14.4
+3324,2022-3,By State,New Mexico,New Mexico,12.2
+3325,2022-3,By State,New York,New York,19.7
+3326,2022-3,By State,North Carolina,North Carolina,11.1
+3327,2022-3,By State,North Dakota,North Dakota,14.9
+3328,2022-3,By State,Ohio,Ohio,18.1
+3329,2022-3,By State,Oklahoma,Oklahoma,11.5
+3330,2022-3,By State,Oregon,Oregon,14.9
+3331,2022-3,By State,Pennsylvania,Pennsylvania,16.7
+3332,2022-3,By State,Rhode Island,Rhode Island,18.8
+3333,2022-3,By State,South Carolina,South Carolina,11.7
+3334,2022-3,By State,South Dakota,South Dakota,12.0
+3335,2022-3,By State,Tennessee,Tennessee,13.9
+3336,2022-3,By State,Texas,Texas,14.1
+3337,2022-3,By State,Utah,Utah,9.7
+3338,2022-3,By State,Vermont,Vermont,23.1
+3339,2022-3,By State,Virginia,Virginia,18.8
+3340,2022-3,By State,Washington,Washington,18.9
+3342,2022-3,By State,Wisconsin,Wisconsin,13.8
+3343,2022-3,By State,Wyoming,Wyoming,10.7
