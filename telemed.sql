@@ -26,13 +26,13 @@ CREATE TABLE State(
 -- Child Table: Beneficiary
 CREATE TABLE Beneficiary (
     row_id INTEGER PRIMARY KEY,
-    year_quarter VARCHAR(20),
-    state_name VARCHAR(50),
+    year_quarter VARCHAR(20) NOT NULL,
+    state_name VARCHAR(50) NOT NULL,
     sex VARCHAR(20),
     age_group VARCHAR(20),
-    total_bene_th_elig DECIMAL(18,4),
-    total_bene_telehealth DECIMAL(18,4),
-    pct_telehealth DECIMAL(10,4),
+    total_bene_th_elig DECIMAL(18,4) NOT NULL,
+    total_bene_telehealth DECIMAL(18,4) NOT NULL,
+    pct_telehealth DECIMAL(10,4) NOT NULL,
     FOREIGN KEY (state_name) REFERENCES State(state_name) 
         ON DELETE NO ACTION 
         ON UPDATE CASCADE
@@ -41,8 +41,8 @@ CREATE TABLE Beneficiary (
 -- Child Table: Patients
 CREATE TABLE Patients (
     row_id INTEGER PRIMARY KEY,
-    year_quarter VARCHAR(10),
-    state_name VARCHAR(50),
+    year_quarter VARCHAR(10) NOT NULL,
+    state_name VARCHAR(50) NOT NULL,
     group_category VARCHAR(50),
     subgroup VARCHAR(100),
     value DECIMAL(10,2),
@@ -53,12 +53,12 @@ CREATE TABLE Patients (
 
 -- Child Table: ServiceCount
 CREATE TABLE ServiceCount (
-    year_quarter VARCHAR(10),
-    state_name VARCHAR(50),
-    year INT,
-    month INT,
-    service_type VARCHAR(50),
-    service_count INT,
+    year_quarter VARCHAR(10) NOT NULL,
+    state_name VARCHAR(50) NOT NULL,
+    year INT NOT NULL,
+    month INT NOT NULL,
+    service_type VARCHAR(50) NOT NULL,
+    service_count INT NOT NULL,
     rate_per_1000_beneficiaries DECIMAL(10,2),
     PRIMARY KEY(state_name,year,month,service_type),
     FOREIGN KEY (state_name) REFERENCES State(state_name) 
