@@ -23,7 +23,7 @@ CREATE TABLE State(
     state_name VARCHAR(50) UNIQUE NOT NULL
 );
 
--- Child Table: Beneficiary
+
 CREATE TABLE Beneficiary (
     row_id INTEGER PRIMARY KEY,
     year_quarter VARCHAR(20) NOT NULL,
@@ -38,7 +38,7 @@ CREATE TABLE Beneficiary (
         ON UPDATE CASCADE
 );
 
--- Child Table: Patients
+
 CREATE TABLE Patients (
     row_id INTEGER PRIMARY KEY,
     year_quarter VARCHAR(10) NOT NULL,
@@ -51,7 +51,7 @@ CREATE TABLE Patients (
         ON UPDATE CASCADE
 );
 
--- Child Table: ServiceCount
+
 CREATE TABLE ServiceCount (
     year_quarter VARCHAR(10) NOT NULL,
     state_name VARCHAR(50) NOT NULL,
