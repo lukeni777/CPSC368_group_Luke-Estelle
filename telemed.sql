@@ -1,5 +1,5 @@
 
---I am using the SQLite platform, some terminal command MAY NOT WORK if you are using other platforms like MySQL
+--We are using the SQLite platform, some terminal command may not be compatible with oracle
 --create database for this project
 --sqlite3 cpsc368.db
 
