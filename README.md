@@ -28,4 +28,27 @@ scp filename.sql cwlid@remote.students.cs.ubc.ca:~
 @insert_patients.sql<br>
 @insert_service_count.sql<br>
 
+4. be sure to run `commit;` to commit insertion to your remote server
+
+5. login to ubc cs database server and run `method.ipynb` to reproduce tabular result and figures
+
+***Navigator for `method.ipynb` file***<br>
+
+SQL Filtering and pulling data for line chart: code chunk #5<br>
+SQL Filtering and pulling data for bar chart (gender): code chunk #9<br>
+SQL Filtering and pulling data for bar chart (age): code chunk #13<br>
+SQL Filtering and pulling data for heatmap: code chunk #17<br>
+
+Graphing line chart: code chunk #7<br>
+Graphing bar chart (gender): code chunk #10<br>
+Graphing bar chart (age): chunk #14<br>
+Graphing heatmap: code chunk #18<br>
+
+Significance test for temporal difference: code chunk #6<br>
+Significance test for gender difference: code chunk #12<br>
+Significance test for age difference: chunk #16<br>
+
+
+
+
 
