@@ -1,4 +1,18 @@
 # CPSC368_group_Luke-Estelle
+
+***Table of Content:***<br>
+`/data `: contain raw and processed data for the project<br>
+`/figures`: stores the figures generated from the research<br>
+`/result`: stores the converted .sql files that contain the tuple insertions for the database<br>
+`convert_sql.ipynb`: second-step of data cleaning and convert tabular data into sql insertion codes as .sql files<br>
+`Dataset Cleaning and Visualization.ipynb`: first step data cleaning and eda for the proposal<br>
+`method.ipynb`: connecting to UBC student database server to filter and pull data using sql scripts. Then, create visualizations and conduct significant tests using python<br>
+`telemed.sql`: sql script that will create sql tables for the research and insert tuples for State table
+
+
+
+
+
 ***For your reference:***<br>
 Python code used for initial data cleaning are contained in `Dataset Cleaning and Visualization.ipynb` at the root repository.<br>
 
@@ -33,6 +47,15 @@ scp filename.sql cwlid@remote.students.cs.ubc.ca:~
 5. login to ubc cs database server and run `method.ipynb` to reproduce tabular result and figures
 
 ***Navigator for `method.ipynb` file***<br>
+
+Before you start: here is a list of necessary python libraries you need to download to run our code
+- oracledb
+- pandas 
+- numpy  
+- matplotlib.pyplot 
+- seaborn 
+- scipy.stats 
+
 
 SQL Filtering and pulling data for line chart: code chunk #5<br>
 SQL Filtering and pulling data for bar chart (gender): code chunk #9<br>
